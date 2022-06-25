@@ -1,0 +1,7902 @@
+[
+  {
+    "latitude": "50.775",
+    "longitude": "6.08333",
+    "mass": "21",
+    "name": "Aachen",
+    "year": "1880-01-01T00:00:00",
+    "id": "1"
+  },
+  {
+    "latitude": "56.18333",
+    "longitude": "10.23333",
+    "mass": "720",
+    "name": "Aarhus",
+    "year": "1951-01-01T00:00:00",
+    "id": "2"
+  },
+  {
+    "latitude": "54.21667",
+    "longitude": "-113.0",
+    "mass": "107000",
+    "name": "Abee",
+    "year": "1952-01-01T00:00:00",
+    "id": "6"
+  },
+  {
+    "latitude": "16.88333",
+    "longitude": "-99.9",
+    "mass": "1914",
+    "name": "Acapulco",
+    "year": "1976-01-01T00:00:00",
+    "id": "10"
+  },
+  {
+    "latitude": "-33.16667",
+    "longitude": "-64.95",
+    "mass": "780",
+    "name": "Achiras",
+    "year": "1902-01-01T00:00:00",
+    "id": "370"
+  },
+  {
+    "latitude": "32.1",
+    "longitude": "71.8",
+    "mass": "4239",
+    "name": "Adhi Kot",
+    "year": "1919-01-01T00:00:00",
+    "id": "379"
+  },
+  {
+    "latitude": "44.83333",
+    "longitude": "95.16667",
+    "mass": "910",
+    "name": "Adzhi-Bogdo (stone)",
+    "year": "1949-01-01T00:00:00",
+    "id": "390"
+  },
+  {
+    "latitude": "44.21667",
+    "longitude": "0.61667",
+    "mass": "30000",
+    "name": "Agen",
+    "year": "1814-01-01T00:00:00",
+    "id": "392"
+  },
+  {
+    "latitude": "-31.6",
+    "longitude": "-65.23333",
+    "mass": "1620",
+    "name": "Aguada",
+    "year": "1930-01-01T00:00:00",
+    "id": "398"
+  },
+  {
+    "latitude": "-30.86667",
+    "longitude": "-64.55",
+    "mass": "1440",
+    "name": "Aguila Blanca",
+    "year": "1920-01-01T00:00:00",
+    "id": "417"
+  },
+  {
+    "latitude": "16.39806",
+    "longitude": "-9.57028",
+    "mass": "1000",
+    "name": "Aioun el Atrouss",
+    "year": "1974-01-01T00:00:00",
+    "id": "423"
+  },
+  {
+    "latitude": "19.08333",
+    "longitude": "8.38333",
+    "mass": "24000",
+    "name": "Aïr",
+    "year": "1925-01-01T00:00:00",
+    "id": "424"
+  },
+  {
+    "latitude": "50.66667",
+    "longitude": "2.33333",
+    "name": "Aire-sur-la-Lys",
+    "year": "1769-01-01T00:00:00",
+    "id": "425"
+  },
+  {
+    "latitude": "29.51667",
+    "longitude": "35.05",
+    "mass": "779",
+    "name": "Akaba",
+    "year": "1949-01-01T00:00:00",
+    "id": "426"
+  },
+  {
+    "latitude": "29.71667",
+    "longitude": "77.95",
+    "mass": "1800",
+    "name": "Akbarpur",
+    "year": "1838-01-01T00:00:00",
+    "id": "427"
+  },
+  {
+    "latitude": "8.91667",
+    "longitude": "8.43333",
+    "mass": "3000",
+    "name": "Akwanga",
+    "year": "1959-01-01T00:00:00",
+    "id": "432"
+  },
+  {
+    "latitude": "39.91667",
+    "longitude": "42.81667",
+    "mass": "50000",
+    "name": "Akyumak",
+    "year": "1981-01-01T00:00:00",
+    "id": "433"
+  },
+  {
+    "latitude": "24.41667",
+    "longitude": "39.51667",
+    "mass": "160",
+    "name": "Al Rais",
+    "year": "1957-01-01T00:00:00",
+    "id": "446"
+  },
+  {
+    "latitude": "13.66033",
+    "longitude": "28.96",
+    "mass": "700",
+    "name": "Al Zarnkh",
+    "year": "2001-01-01T00:00:00",
+    "id": "447"
+  },
+  {
+    "latitude": "44.11667",
+    "longitude": "4.08333",
+    "mass": "6000",
+    "name": "Alais",
+    "year": "1806-01-01T00:00:00",
+    "id": "448"
+  },
+  {
+    "latitude": "44.65",
+    "longitude": "11.01667",
+    "mass": "2000",
+    "name": "Albareto",
+    "year": "1766-01-01T00:00:00",
+    "id": "453"
+  },
+  {
+    "latitude": "2.0",
+    "longitude": "22.66667",
+    "mass": "625",
+    "name": "Alberta",
+    "year": "1949-01-01T00:00:00",
+    "id": "454"
+  },
+  {
+    "latitude": "45.82133",
+    "longitude": "6.01533",
+    "mass": "252",
+    "name": "Alby sur Chéran",
+    "year": "2002-01-01T00:00:00",
+    "id": "458"
+  },
+  {
+    "latitude": "51.78333",
+    "longitude": "-1.78333",
+    "mass": "700",
+    "name": "Aldsworth",
+    "year": "1835-01-01T00:00:00",
+    "id": "461"
+  },
+  {
+    "latitude": "36.23333",
+    "longitude": "37.13333",
+    "mass": "3200",
+    "name": "Aleppo",
+    "year": "1873-01-01T00:00:00",
+    "id": "462"
+  },
+  {
+    "latitude": "44.88333",
+    "longitude": "8.75",
+    "mass": "908",
+    "name": "Alessandria",
+    "year": "1860-01-01T00:00:00",
+    "id": "463"
+  },
+  {
+    "latitude": "50.95",
+    "longitude": "31.81667",
+    "mass": "9251",
+    "name": "Alexandrovsky",
+    "year": "1900-01-01T00:00:00",
+    "id": "465"
+  },
+  {
+    "latitude": "45.26667",
+    "longitude": "10.15",
+    "mass": "228000",
+    "name": "Alfianello",
+    "year": "1883-01-01T00:00:00",
+    "id": "466"
+  },
+  {
+    "latitude": "42.53333",
+    "longitude": "-85.88333",
+    "mass": "32000",
+    "name": "Allegan",
+    "year": "1899-01-01T00:00:00",
+    "id": "2276"
+  },
+  {
+    "latitude": "26.96667",
+    "longitude": "-105.31667",
+    "mass": "2000000",
+    "name": "Allende",
+    "year": "1969-01-01T00:00:00",
+    "id": "2278"
+  },
+  {
+    "latitude": "20.74575",
+    "longitude": "32.41275",
+    "mass": "3950",
+    "name": "Almahata Sitta",
+    "year": "2008-01-01T00:00:00",
+    "id": "48915"
+  },
+  {
+    "latitude": "35.27333",
+    "longitude": "44.21556",
+    "mass": "6000",
+    "name": "Alta'ameem",
+    "year": "1977-01-01T00:00:00",
+    "id": "2284"
+  },
+  {
+    "latitude": "27.66667",
+    "longitude": "78.25",
+    "mass": "6400",
+    "name": "Ambapur Nagla",
+    "year": "1895-01-01T00:00:00",
+    "id": "2290"
+  },
+  {
+    "latitude": "26.58333",
+    "longitude": "85.56667",
+    "mass": "2700",
+    "name": "Andhara",
+    "year": "1880-01-01T00:00:00",
+    "id": "2294"
+  },
+  {
+    "latitude": "44.61667",
+    "longitude": "-70.75",
+    "mass": "3200",
+    "name": "Andover",
+    "year": "1898-01-01T00:00:00",
+    "id": "2295"
+  },
+  {
+    "latitude": "48.7",
+    "longitude": "37.5",
+    "mass": "600",
+    "name": "Andreevka",
+    "year": "1969-01-01T00:00:00",
+    "id": "2296"
+  },
+  {
+    "latitude": "20.88333",
+    "longitude": "76.86667",
+    "mass": "17900",
+    "name": "Andura",
+    "year": "1939-01-01T00:00:00",
+    "id": "2298"
+  },
+  {
+    "latitude": "47.46667",
+    "longitude": "-0.55",
+    "name": "Angers",
+    "year": "1822-01-01T00:00:00",
+    "id": "2301"
+  },
+  {
+    "latitude": "-22.96667",
+    "longitude": "-44.31667",
+    "mass": "1500",
+    "name": "Angra dos Reis (stone)",
+    "year": "1869-01-01T00:00:00",
+    "id": "2302"
+  },
+  {
+    "latitude": "9.53333",
+    "longitude": "39.71667",
+    "mass": "6500",
+    "name": "Ankober",
+    "year": "1942-01-01T00:00:00",
+    "id": "2304"
+  },
+  {
+    "latitude": "25.15",
+    "longitude": "105.18333",
+    "mass": "2500",
+    "name": "Anlong",
+    "year": "1971-01-01T00:00:00",
+    "id": "2305"
+  },
+  {
+    "latitude": "40.81056",
+    "longitude": "140.78556",
+    "mass": "320",
+    "name": "Aomori",
+    "year": "1984-01-01T00:00:00",
+    "id": "2313"
+  },
+  {
+    "latitude": "53.58333",
+    "longitude": "-2.71667",
+    "mass": "15000",
+    "name": "Appley Bridge",
+    "year": "1914-01-01T00:00:00",
+    "id": "2318"
+  },
+  {
+    "latitude": "43.86667",
+    "longitude": "5.38333",
+    "mass": "3200",
+    "name": "Apt",
+    "year": "1803-01-01T00:00:00",
+    "id": "2320"
+  },
+  {
+    "latitude": "-33.0",
+    "longitude": "-66.0",
+    "mass": "810",
+    "name": "Arbol Solo",
+    "year": "1954-01-01T00:00:00",
+    "id": "2325"
+  },
+  {
+    "latitude": "38.5",
+    "longitude": "-94.3",
+    "mass": "5070",
+    "name": "Archie",
+    "year": "1932-01-01T00:00:00",
+    "id": "2329"
+  },
+  {
+    "latitude": "-31.41667",
+    "longitude": "-60.66667",
+    "mass": "7450",
+    "name": "Arroyo Aguiar",
+    "year": "1950-01-01T00:00:00",
+    "id": "2340"
+  },
+  {
+    "latitude": "42.45",
+    "longitude": "9.03333",
+    "mass": "41",
+    "name": "Asco",
+    "year": "1805-01-01T00:00:00",
+    "id": "2345"
+  },
+  {
+    "latitude": "31.805",
+    "longitude": "-97.01",
+    "mass": "9500",
+    "name": "Ash Creek",
+    "year": "2009-01-01T00:00:00",
+    "id": "48954"
+  },
+  {
+    "latitude": "52.05",
+    "longitude": "0.3",
+    "mass": "1300",
+    "name": "Ashdon",
+    "year": "1923-01-01T00:00:00",
+    "id": "2346"
+  },
+  {
+    "latitude": "43.03333",
+    "longitude": "12.55",
+    "mass": "2000",
+    "name": "Assisi",
+    "year": "1886-01-01T00:00:00",
+    "id": "2353"
+  },
+  {
+    "latitude": "25.25417",
+    "longitude": "80.625",
+    "mass": "1280",
+    "name": "Atarra",
+    "year": "1920-01-01T00:00:00",
+    "id": "4883"
+  },
+  {
+    "latitude": "20.06667",
+    "longitude": "-103.66667",
+    "mass": "94.2",
+    "name": "Atemajac",
+    "year": "1896-01-01T00:00:00",
+    "id": "4884"
+  },
+  {
+    "latitude": "34.75",
+    "longitude": "-87.0",
+    "mass": "265",
+    "name": "Athens",
+    "year": "1933-01-01T00:00:00",
+    "id": "4885"
+  },
+  {
+    "latitude": "34.31667",
+    "longitude": "-96.15",
+    "mass": "1384.2",
+    "name": "Atoka",
+    "year": "1945-01-01T00:00:00",
+    "id": "4888"
+  },
+  {
+    "latitude": "44.38333",
+    "longitude": "5.16667",
+    "mass": "800",
+    "name": "Aubres",
+    "year": "1836-01-01T00:00:00",
+    "id": "4893"
+  },
+  {
+    "latitude": "36.16667",
+    "longitude": "3.66667",
+    "mass": "50000",
+    "name": "Aumale",
+    "year": "1865-01-01T00:00:00",
+    "id": "4899"
+  },
+  {
+    "latitude": "44.33333",
+    "longitude": "3.23333",
+    "mass": "2000",
+    "name": "Aumieres",
+    "year": "1842-01-01T00:00:00",
+    "id": "4900"
+  },
+  {
+    "latitude": "43.08333",
+    "longitude": "0.58333",
+    "mass": "50000",
+    "name": "Ausson",
+    "year": "1858-01-01T00:00:00",
+    "id": "4903"
+  },
+  {
+    "latitude": "-21.46028",
+    "longitude": "-49.95083",
+    "mass": "9330",
+    "name": "Avanhandava",
+    "year": "1952-01-01T00:00:00",
+    "id": "4905"
+  },
+  {
+    "latitude": "46.0",
+    "longitude": "13.5",
+    "mass": "1230",
+    "name": "Avce",
+    "year": "1908-01-01T00:00:00",
+    "id": "4906"
+  },
+  {
+    "latitude": "25.0",
+    "longitude": "-103.5",
+    "mass": "146",
+    "name": "Avilez",
+    "year": "1855-01-01T00:00:00",
+    "id": "4907"
+  },
+  {
+    "latitude": "2.71667",
+    "longitude": "32.83333",
+    "mass": "134",
+    "name": "Awere",
+    "year": "1968-01-01T00:00:00",
+    "id": "4910"
+  },
+  {
+    "latitude": "36.8",
+    "longitude": "-108.0",
+    "mass": "2830",
+    "name": "Aztec",
+    "year": "1938-01-01T00:00:00",
+    "id": "4913"
+  },
+  {
+    "latitude": "48.6",
+    "longitude": "38.0",
+    "mass": "18000",
+    "name": "Bachmut",
+    "year": "1814-01-01T00:00:00",
+    "id": "4917"
+  },
+  {
+    "latitude": "28.48333",
+    "longitude": "78.5",
+    "mass": "10322",
+    "name": "Bahjoi",
+    "year": "1934-01-01T00:00:00",
+    "id": "4922"
+  },
+  {
+    "latitude": "35.96667",
+    "longitude": "-82.48333",
+    "mass": "3700",
+    "name": "Bald Mountain",
+    "year": "1929-01-01T00:00:00",
+    "id": "4925"
+  },
+  {
+    "latitude": "34.5",
+    "longitude": "-88.66667",
+    "mass": "345",
+    "name": "Baldwyn",
+    "year": "1922-01-01T00:00:00",
+    "id": "4926"
+  },
+  {
+    "latitude": "5.38333",
+    "longitude": "16.38333",
+    "mass": "1000",
+    "name": "Bali",
+    "year": "1907-01-01T00:00:00",
+    "id": "4928"
+  },
+  {
+    "latitude": "16.66667",
+    "longitude": "101.18333",
+    "mass": "16700",
+    "name": "Ban Rong Du",
+    "year": "1993-01-01T00:00:00",
+    "id": "4934"
+  },
+  {
+    "latitude": "-6.91667",
+    "longitude": "107.6",
+    "mass": "11500",
+    "name": "Bandong",
+    "year": "1871-01-01T00:00:00",
+    "id": "4935"
+  },
+  {
+    "latitude": "27.7",
+    "longitude": "76.33333",
+    "mass": "15000",
+    "name": "Bansur",
+    "year": "1892-01-01T00:00:00",
+    "id": "4936"
+  },
+  {
+    "latitude": "30.4",
+    "longitude": "78.2",
+    "mass": "14",
+    "name": "Banswal",
+    "year": "1913-01-01T00:00:00",
+    "id": "4937"
+  },
+  {
+    "latitude": "-6.33333",
+    "longitude": "106.0",
+    "mass": "629",
+    "name": "Banten",
+    "year": "1933-01-01T00:00:00",
+    "id": "4938"
+  },
+  {
+    "latitude": "43.95",
+    "longitude": "-0.05",
+    "mass": "6400",
+    "name": "Barbotan",
+    "year": "1790-01-01T00:00:00",
+    "id": "4942"
+  },
+  {
+    "latitude": "41.36667",
+    "longitude": "2.16667",
+    "name": "Barcelona (stone)",
+    "year": "1704-01-01T00:00:00",
+    "id": "4944"
+  },
+  {
+    "latitude": "42.38333",
+    "longitude": "-2.5",
+    "mass": "3200",
+    "name": "Barea",
+    "year": "1842-01-01T00:00:00",
+    "id": "4946"
+  },
+  {
+    "latitude": "52.73333",
+    "longitude": "84.08333",
+    "mass": "23.2",
+    "name": "Barnaul",
+    "year": "1904-01-01T00:00:00",
+    "id": "4947"
+  },
+  {
+    "latitude": "52.0",
+    "longitude": "9.1",
+    "mass": "17",
+    "name": "Barntrup",
+    "year": "1886-01-01T00:00:00",
+    "id": "4948"
+  },
+  {
+    "latitude": "31.61667",
+    "longitude": "76.8",
+    "mass": "4500",
+    "name": "Baroti",
+    "year": "1910-01-01T00:00:00",
+    "id": "4949"
+  },
+  {
+    "latitude": "52.56528",
+    "longitude": "-1.33972",
+    "mass": "44000",
+    "name": "Barwell",
+    "year": "1965-01-01T00:00:00",
+    "id": "4954"
+  },
+  {
+    "latitude": "15.78333",
+    "longitude": "-5.9",
+    "mass": "29560",
+    "name": "Bassikounou",
+    "year": "2006-01-01T00:00:00",
+    "id": "44876"
+  },
+  {
+    "latitude": "52.03333",
+    "longitude": "20.93583",
+    "mass": "15500",
+    "name": "Baszkówka",
+    "year": "1994-01-01T00:00:00",
+    "id": "4957"
+  },
+  {
+    "latitude": "45.41667",
+    "longitude": "-98.31667",
+    "mass": "21000",
+    "name": "Bath",
+    "year": "1892-01-01T00:00:00",
+    "id": "4974"
+  },
+  {
+    "latitude": "38.25",
+    "longitude": "-83.75",
+    "mass": "86000",
+    "name": "Bath Furnace",
+    "year": "1902-01-01T00:00:00",
+    "id": "4975"
+  },
+  {
+    "latitude": "40.66813",
+    "longitude": "-117.18913",
+    "mass": "2900",
+    "name": "Battle Mountain",
+    "year": "2012-01-01T00:00:00",
+    "id": "56133"
+  },
+  {
+    "latitude": "11.08333",
+    "longitude": "-0.18333",
+    "mass": "1557",
+    "name": "Bawku",
+    "year": "1989-01-01T00:00:00",
+    "id": "4976"
+  },
+  {
+    "latitude": "36.75",
+    "longitude": "-93.5",
+    "mass": "611",
+    "name": "Baxter",
+    "year": "1916-01-01T00:00:00",
+    "id": "4977"
+  },
+  {
+    "latitude": "39.8",
+    "longitude": "-101.2",
+    "mass": "16000",
+    "name": "Beardsley",
+    "year": "1929-01-01T00:00:00",
+    "id": "4984"
+  },
+  {
+    "latitude": "51.16667",
+    "longitude": "-117.33333",
+    "mass": "14000",
+    "name": "Beaver Creek",
+    "year": "1893-01-01T00:00:00",
+    "id": "4986"
+  },
+  {
+    "latitude": "53.01667",
+    "longitude": "-4.1",
+    "mass": "794",
+    "name": "Beddgelert",
+    "year": "1949-01-01T00:00:00",
+    "id": "4993"
+  },
+  {
+    "latitude": "33.6",
+    "longitude": "-96.46667",
+    "mass": "375",
+    "name": "Bells",
+    "year": "1961-01-01T00:00:00",
+    "id": "5005"
+  },
+  {
+    "latitude": "-32.33333",
+    "longitude": "-64.86667",
+    "name": "Belville",
+    "year": "1937-01-01T00:00:00",
+    "id": "5009"
+  },
+  {
+    "latitude": "25.36667",
+    "longitude": "82.91667",
+    "mass": "3700",
+    "name": "Benares (a)",
+    "year": "1798-01-01T00:00:00",
+    "id": "5011"
+  },
+  {
+    "latitude": "32.25",
+    "longitude": "-8.15",
+    "mass": "25000",
+    "name": "Benguerir",
+    "year": "2004-01-01T00:00:00",
+    "id": "30443"
+  },
+  {
+    "latitude": "32.86667",
+    "longitude": "10.8",
+    "mass": "19000",
+    "name": "Beni M'hira",
+    "year": "2001-01-01T00:00:00",
+    "id": "5018"
+  },
+  {
+    "latitude": "39.08333",
+    "longitude": "-89.15",
+    "mass": "1770.5",
+    "name": "Benld",
+    "year": "1938-01-01T00:00:00",
+    "id": "5021"
+  },
+  {
+    "latitude": "-26.16667",
+    "longitude": "28.41667",
+    "mass": "3880",
+    "name": "Benoni",
+    "year": "1943-01-01T00:00:00",
+    "id": "5023"
+  },
+  {
+    "latitude": "30.0",
+    "longitude": "-7.0",
+    "mass": "45000",
+    "name": "Bensour",
+    "year": "2002-01-01T00:00:00",
+    "id": "5024"
+  },
+  {
+    "latitude": "45.95",
+    "longitude": "-67.55",
+    "mass": "2840",
+    "name": "Benton",
+    "year": "1949-01-01T00:00:00",
+    "id": "5026"
+  },
+  {
+    "latitude": "-31.91",
+    "longitude": "-58.32833",
+    "mass": "270",
+    "name": "Berduc",
+    "year": "2008-01-01T00:00:00",
+    "id": "48975"
+  },
+  {
+    "latitude": "11.65",
+    "longitude": "-3.65",
+    "mass": "18000",
+    "name": "Béréba",
+    "year": "1924-01-01T00:00:00",
+    "id": "5028"
+  },
+  {
+    "latitude": "41.68333",
+    "longitude": "-3.8",
+    "mass": "1440",
+    "name": "Berlanguillas",
+    "year": "1811-01-01T00:00:00",
+    "id": "5029"
+  },
+  {
+    "latitude": "40.30583",
+    "longitude": "-105.02325",
+    "mass": "960",
+    "name": "Berthoud",
+    "year": "2004-01-01T00:00:00",
+    "id": "47355"
+  },
+  {
+    "latitude": "42.53333",
+    "longitude": "-73.83333",
+    "mass": "13.9",
+    "name": "Bethlehem",
+    "year": "1859-01-01T00:00:00",
+    "id": "5032"
+  },
+  {
+    "latitude": "43.21667",
+    "longitude": "-0.23333",
+    "mass": "2000",
+    "name": "Beuste",
+    "year": "1859-01-01T00:00:00",
+    "id": "5034"
+  },
+  {
+    "latitude": "33.88333",
+    "longitude": "35.5",
+    "mass": "1100",
+    "name": "Beyrout",
+    "year": "1921-01-01T00:00:00",
+    "id": "5035"
+  },
+  {
+    "latitude": "20.88333",
+    "longitude": "74.83333",
+    "mass": "18",
+    "name": "Bhagur",
+    "year": "1877-01-01T00:00:00",
+    "id": "5037"
+  },
+  {
+    "latitude": "26.50833",
+    "longitude": "73.11528",
+    "mass": "678",
+    "name": "Bhawad",
+    "year": "2002-01-01T00:00:00",
+    "id": "36591"
+  },
+  {
+    "latitude": "20.83333",
+    "longitude": "71.46667",
+    "mass": "100",
+    "name": "Bherai",
+    "year": "1893-01-01T00:00:00",
+    "id": "5039"
+  },
+  {
+    "latitude": "22.68333",
+    "longitude": "90.65",
+    "mass": "1047",
+    "name": "Bhola",
+    "year": "1940-01-01T00:00:00",
+    "id": "5040"
+  },
+  {
+    "latitude": "22.08333",
+    "longitude": "86.9",
+    "mass": "2500",
+    "name": "Bholghati",
+    "year": "1905-01-01T00:00:00",
+    "id": "5041"
+  },
+  {
+    "latitude": "53.1",
+    "longitude": "23.2",
+    "mass": "4000",
+    "name": "Bialystok",
+    "year": "1827-01-01T00:00:00",
+    "id": "5042"
+  },
+  {
+    "latitude": "50.13333",
+    "longitude": "27.16667",
+    "mass": "1900",
+    "name": "Bielokrynitschie",
+    "year": "1887-01-01T00:00:00",
+    "id": "5043"
+  },
+  {
+    "latitude": "12.45",
+    "longitude": "-0.08333",
+    "mass": "25000",
+    "name": "Bilanga",
+    "year": "1999-01-01T00:00:00",
+    "id": "5045"
+  },
+  {
+    "latitude": "-33.15639",
+    "longitude": "115.67639",
+    "mass": "488.1",
+    "name": "Binningup",
+    "year": "1984-01-01T00:00:00",
+    "id": "5051"
+  },
+  {
+    "latitude": "13.76667",
+    "longitude": "5.3",
+    "mass": "560",
+    "name": "Birni N'konni",
+    "year": "1923-01-01T00:00:00",
+    "id": "5056"
+  },
+  {
+    "latitude": "34.16667",
+    "longitude": "-80.28333",
+    "mass": "6000",
+    "name": "Bishopville",
+    "year": "1843-01-01T00:00:00",
+    "id": "5059"
+  },
+  {
+    "latitude": "25.38333",
+    "longitude": "82.6",
+    "mass": "1039",
+    "name": "Bishunpur",
+    "year": "1895-01-01T00:00:00",
+    "id": "5060"
+  },
+  {
+    "latitude": "49.78333",
+    "longitude": "30.16667",
+    "mass": "1850",
+    "name": "Bjelaja Zerkov",
+    "year": "1796-01-01T00:00:00",
+    "id": "5063"
+  },
+  {
+    "latitude": "60.4",
+    "longitude": "25.8",
+    "mass": "330000",
+    "name": "Bjurböle",
+    "year": "1899-01-01T00:00:00",
+    "id": "5064"
+  },
+  {
+    "latitude": "40.91667",
+    "longitude": "-78.08333",
+    "mass": "705",
+    "name": "Black Moshannan Park",
+    "year": "1941-01-01T00:00:00",
+    "id": "5065"
+  },
+  {
+    "latitude": "36.83333",
+    "longitude": "-97.33333",
+    "mass": "2381",
+    "name": "Blackwell",
+    "year": "1906-01-01T00:00:00",
+    "id": "5068"
+  },
+  {
+    "latitude": "31.83333",
+    "longitude": "-98.83333",
+    "mass": "5100",
+    "name": "Blanket",
+    "year": "1909-01-01T00:00:00",
+    "id": "5071"
+  },
+  {
+    "latitude": "49.36667",
+    "longitude": "16.63333",
+    "mass": "470",
+    "name": "Blansko",
+    "year": "1833-01-01T00:00:00",
+    "id": "5072"
+  },
+  {
+    "latitude": "40.48",
+    "longitude": "-89.00417",
+    "mass": "67.8",
+    "name": "Bloomington",
+    "year": "1938-01-01T00:00:00",
+    "id": "5076"
+  },
+  {
+    "latitude": "33.83333",
+    "longitude": "115.83333",
+    "mass": "7500",
+    "name": "Bo Xian",
+    "year": "1977-01-01T00:00:00",
+    "id": "5090"
+  },
+  {
+    "latitude": "23.0",
+    "longitude": "-102.0",
+    "mass": "56",
+    "name": "Bocas",
+    "year": "1804-01-01T00:00:00",
+    "id": "5093"
+  },
+  {
+    "latitude": "12.5",
+    "longitude": "0.7",
+    "mass": "8800",
+    "name": "Bogou",
+    "year": "1962-01-01T00:00:00",
+    "id": "5097"
+  },
+  {
+    "latitude": "44.55",
+    "longitude": "131.63333",
+    "mass": "256000",
+    "name": "Boguslavka",
+    "year": "1916-01-01T00:00:00",
+    "id": "5098"
+  },
+  {
+    "latitude": "44.86667",
+    "longitude": "10.05",
+    "mass": "1676",
+    "name": "Borgo San Donino",
+    "year": "1808-01-01T00:00:00",
+    "id": "5110"
+  },
+  {
+    "latitude": "21.95",
+    "longitude": "78.03333",
+    "mass": "8600",
+    "name": "Bori",
+    "year": "1894-01-01T00:00:00",
+    "id": "5111"
+  },
+  {
+    "latitude": "54.23333",
+    "longitude": "52.48333",
+    "mass": "1342",
+    "name": "Boriskino",
+    "year": "1930-01-01T00:00:00",
+    "id": "5112"
+  },
+  {
+    "latitude": "48.15",
+    "longitude": "24.28333",
+    "mass": "7000",
+    "name": "Borkut",
+    "year": "1852-01-01T00:00:00",
+    "id": "5113"
+  },
+  {
+    "latitude": "55.46667",
+    "longitude": "35.86667",
+    "mass": "500",
+    "name": "Borodino",
+    "year": "1812-01-01T00:00:00",
+    "id": "5114"
+  },
+  {
+    "latitude": "51.33333",
+    "longitude": "33.88333",
+    "mass": "614",
+    "name": "Botschetschki",
+    "year": "1823-01-01T00:00:00",
+    "id": "5117"
+  },
+  {
+    "latitude": "17.71067",
+    "longitude": "-11.3715",
+    "mass": "190",
+    "name": "Boumdeid (2003)",
+    "year": "2003-01-01T00:00:00",
+    "id": "57168"
+  },
+  {
+    "latitude": "17.17493",
+    "longitude": "-11.34133",
+    "mass": "3599",
+    "name": "Boumdeid (2011)",
+    "year": "2011-01-01T00:00:00",
+    "id": "57167"
+  },
+  {
+    "latitude": "54.56667",
+    "longitude": "-6.33333",
+    "mass": "5460",
+    "name": "Bovedy",
+    "year": "1969-01-01T00:00:00",
+    "id": "5121"
+  },
+  {
+    "latitude": "40.5",
+    "longitude": "-80.08333",
+    "mass": "762",
+    "name": "Bradford Woods",
+    "year": "1886-01-01T00:00:00",
+    "id": "5128"
+  },
+  {
+    "latitude": "50.6",
+    "longitude": "16.3",
+    "mass": "39000",
+    "name": "Braunau",
+    "year": "1847-01-01T00:00:00",
+    "id": "5133"
+  },
+  {
+    "latitude": "50.66694",
+    "longitude": "8.18361",
+    "mass": "1500",
+    "name": "Breitscheid",
+    "year": "1956-01-01T00:00:00",
+    "id": "5134"
+  },
+  {
+    "latitude": "53.4",
+    "longitude": "9.1",
+    "mass": "7250",
+    "name": "Bremervörde",
+    "year": "1855-01-01T00:00:00",
+    "id": "5135"
+  },
+  {
+    "latitude": "52.13333",
+    "longitude": "59.31667",
+    "mass": "219",
+    "name": "Brient",
+    "year": "1933-01-01T00:00:00",
+    "id": "5140"
+  },
+  {
+    "latitude": "53.9",
+    "longitude": "-112.88333",
+    "mass": "303000",
+    "name": "Bruderheim",
+    "year": "1960-01-01T00:00:00",
+    "id": "5156"
+  },
+  {
+    "latitude": "39.77978",
+    "longitude": "64.60035",
+    "mass": "5300",
+    "name": "Bukhara",
+    "year": "2001-01-01T00:00:00",
+    "id": "30448"
+  },
+  {
+    "latitude": "-31.35",
+    "longitude": "129.19",
+    "mass": "324",
+    "name": "Bunburra Rockhole",
+    "year": "2007-01-01T00:00:00",
+    "id": "48653"
+  },
+  {
+    "latitude": "10.01667",
+    "longitude": "9.58333",
+    "mass": "357",
+    "name": "Bununu",
+    "year": "1942-01-01T00:00:00",
+    "id": "5165"
+  },
+  {
+    "latitude": "5.0",
+    "longitude": "48.0",
+    "mass": "120000",
+    "name": "Bur-Gheluai",
+    "year": "1919-01-01T00:00:00",
+    "id": "5169"
+  },
+  {
+    "latitude": "37.62194",
+    "longitude": "-82.23722",
+    "mass": "1504",
+    "name": "Burnwell",
+    "year": "1990-01-01T00:00:00",
+    "id": "5175"
+  },
+  {
+    "latitude": "40.2",
+    "longitude": "29.23333",
+    "mass": "25000",
+    "name": "Bursa",
+    "year": "1946-01-01T00:00:00",
+    "id": "5177"
+  },
+  {
+    "latitude": "46.45",
+    "longitude": "25.78333",
+    "mass": "5000",
+    "name": "Buschhof",
+    "year": "1863-01-01T00:00:00",
+    "id": "5178"
+  },
+  {
+    "latitude": "26.78333",
+    "longitude": "82.83333",
+    "mass": "1500",
+    "name": "Bustee",
+    "year": "1852-01-01T00:00:00",
+    "id": "5181"
+  },
+  {
+    "latitude": "27.08333",
+    "longitude": "84.08333",
+    "mass": "29000",
+    "name": "Butsura",
+    "year": "1861-01-01T00:00:00",
+    "id": "5183"
+  },
+  {
+    "latitude": "52.996",
+    "longitude": "-109.84817",
+    "mass": "41000",
+    "name": "Buzzard Coulee",
+    "year": "2008-01-01T00:00:00",
+    "id": "48654"
+  },
+  {
+    "latitude": "37.98333",
+    "longitude": "-1.16667",
+    "mass": "25000",
+    "name": "Cabezo de Mayo",
+    "year": "1870-01-01T00:00:00",
+    "id": "5185"
+  },
+  {
+    "latitude": "35.5",
+    "longitude": "-93.5",
+    "mass": "48500",
+    "name": "Cabin Creek",
+    "year": "1886-01-01T00:00:00",
+    "id": "5186"
+  },
+  {
+    "latitude": "43.83889",
+    "longitude": "20.33333",
+    "mass": "212",
+    "name": "Cacak",
+    "year": "1919-01-01T00:00:00",
+    "id": "5187"
+  },
+  {
+    "latitude": "3.405",
+    "longitude": "-76.51",
+    "mass": "478",
+    "name": "Cali",
+    "year": "2007-01-01T00:00:00",
+    "id": "45976"
+  },
+  {
+    "latitude": "11.75",
+    "longitude": "122.33333",
+    "mass": "2400",
+    "name": "Calivo",
+    "year": "1916-01-01T00:00:00",
+    "id": "5200"
+  },
+  {
+    "latitude": "-7.03333",
+    "longitude": "-40.16667",
+    "mass": "23680",
+    "name": "Campos Sales",
+    "year": "1991-01-01T00:00:00",
+    "id": "5249"
+  },
+  {
+    "latitude": "39.8",
+    "longitude": "26.6",
+    "mass": "4000",
+    "name": "Çanakkale",
+    "year": "1964-01-01T00:00:00",
+    "id": "5250"
+  },
+  {
+    "latitude": "41.25",
+    "longitude": "1.66667",
+    "mass": "945",
+    "name": "Cañellas",
+    "year": "1861-01-01T00:00:00",
+    "id": "5251"
+  },
+  {
+    "latitude": "43.38333",
+    "longitude": "-5.15",
+    "mass": "34000",
+    "name": "Cangas de Onis",
+    "year": "1866-01-01T00:00:00",
+    "id": "5252"
+  },
+  {
+    "latitude": "38.47028",
+    "longitude": "-105.24139",
+    "mass": "1400",
+    "name": "Canon City",
+    "year": "1973-01-01T00:00:00",
+    "id": "5253"
+  },
+  {
+    "latitude": "37.26667",
+    "longitude": "-89.58333",
+    "mass": "2300",
+    "name": "Cape Girardeau",
+    "year": "1846-01-01T00:00:00",
+    "id": "5260"
+  },
+  {
+    "latitude": "-30.88333",
+    "longitude": "-64.55",
+    "mass": "750",
+    "name": "Capilla del Monte",
+    "year": "1934-01-01T00:00:00",
+    "id": "5264"
+  },
+  {
+    "latitude": "-16.66444",
+    "longitude": "-69.04389",
+    "mass": "342",
+    "name": "Carancas",
+    "year": "2007-01-01T00:00:00",
+    "id": "45817"
+  },
+  {
+    "latitude": "38.5",
+    "longitude": "27.0",
+    "mass": "8",
+    "name": "Caratash",
+    "year": "1902-01-01T00:00:00",
+    "id": "5265"
+  },
+  {
+    "latitude": "36.08333",
+    "longitude": "-78.06667",
+    "mass": "7300",
+    "name": "Castalia",
+    "year": "1874-01-01T00:00:00",
+    "id": "5291"
+  },
+  {
+    "latitude": "43.35",
+    "longitude": "11.5",
+    "name": "Castel Berardenga",
+    "year": "1791-01-01T00:00:00",
+    "id": "5292"
+  },
+  {
+    "latitude": "44.38333",
+    "longitude": "-68.75",
+    "mass": "94",
+    "name": "Castine",
+    "year": "1848-01-01T00:00:00",
+    "id": "5293"
+  },
+  {
+    "latitude": "39.8",
+    "longitude": "16.2",
+    "mass": "15000",
+    "name": "Castrovillari",
+    "year": "1583-01-01T00:00:00",
+    "id": "5295"
+  },
+  {
+    "latitude": "36.5",
+    "longitude": "-79.25",
+    "mass": "1360",
+    "name": "Caswell County",
+    "year": "1810-01-01T00:00:00",
+    "id": "5296"
+  },
+  {
+    "latitude": "26.46667",
+    "longitude": "-105.23333",
+    "mass": "1025",
+    "name": "Ceniceros",
+    "year": "1988-01-01T00:00:00",
+    "id": "5306"
+  },
+  {
+    "latitude": "43.2",
+    "longitude": "-96.91667",
+    "mass": "45.6",
+    "name": "Centerville",
+    "year": "1956-01-01T00:00:00",
+    "id": "5307"
+  },
+  {
+    "latitude": "45.08333",
+    "longitude": "8.3",
+    "mass": "6460",
+    "name": "Cereseto",
+    "year": "1840-01-01T00:00:00",
+    "id": "5308"
+  },
+  {
+    "latitude": "28.53333",
+    "longitude": "109.31667",
+    "mass": "3700",
+    "name": "Chadong",
+    "year": "1998-01-01T00:00:00",
+    "id": "5313"
+  },
+  {
+    "latitude": "25.36667",
+    "longitude": "81.66667",
+    "mass": "0.5",
+    "name": "Chail",
+    "year": "1814-01-01T00:00:00",
+    "id": "5314"
+  },
+  {
+    "latitude": "25.85",
+    "longitude": "83.48333",
+    "mass": "8200",
+    "name": "Chainpur",
+    "year": "1907-01-01T00:00:00",
+    "id": "5315"
+  },
+  {
+    "latitude": "-30.78333",
+    "longitude": "-58.05",
+    "mass": "18300",
+    "name": "Chajari",
+    "year": "1933-01-01T00:00:00",
+    "id": "5316"
+  },
+  {
+    "latitude": "20.26667",
+    "longitude": "76.01667",
+    "mass": "8800",
+    "name": "Chandakapur",
+    "year": "1838-01-01T00:00:00",
+    "id": "5320"
+  },
+  {
+    "latitude": "27.28333",
+    "longitude": "79.05",
+    "mass": "1100",
+    "name": "Chandpur",
+    "year": "1885-01-01T00:00:00",
+    "id": "5321"
+  },
+  {
+    "latitude": "29.08333",
+    "longitude": "111.75",
+    "mass": "1810",
+    "name": "Changde",
+    "year": "1977-01-01T00:00:00",
+    "id": "5322"
+  },
+  {
+    "latitude": "46.68333",
+    "longitude": "1.05",
+    "mass": "31500",
+    "name": "Chantonnay",
+    "year": "1812-01-01T00:00:00",
+    "id": "5325"
+  },
+  {
+    "latitude": "36.16667",
+    "longitude": "-87.33333",
+    "mass": "4300",
+    "name": "Charlotte",
+    "year": "1835-01-01T00:00:00",
+    "id": "5328"
+  },
+  {
+    "latitude": "47.93333",
+    "longitude": "1.56667",
+    "mass": "27000",
+    "name": "Charsonville",
+    "year": "1810-01-01T00:00:00",
+    "id": "5329"
+  },
+  {
+    "latitude": "29.48333",
+    "longitude": "75.5",
+    "mass": "12000",
+    "name": "Charwallas",
+    "year": "1834-01-01T00:00:00",
+    "id": "5330"
+  },
+  {
+    "latitude": "47.71667",
+    "longitude": "5.36667",
+    "mass": "4000",
+    "name": "Chassigny",
+    "year": "1815-01-01T00:00:00",
+    "id": "5331"
+  },
+  {
+    "latitude": "47.93333",
+    "longitude": "2.91667",
+    "mass": "30000",
+    "name": "Château-Renard",
+    "year": "1841-01-01T00:00:00",
+    "id": "5332"
+  },
+  {
+    "latitude": "41.93333",
+    "longitude": "-7.46667",
+    "mass": "2945",
+    "name": "Chaves",
+    "year": "1925-01-01T00:00:00",
+    "id": "5334"
+  },
+  {
+    "latitude": "-3.66667",
+    "longitude": "32.5",
+    "mass": "2936",
+    "name": "Chela",
+    "year": "1988-01-01T00:00:00",
+    "id": "5338"
+  },
+  {
+    "latitude": "54.81667",
+    "longitude": "61.11667",
+    "mass": "100000",
+    "name": "Chelyabinsk",
+    "year": "2013-01-01T00:00:00",
+    "id": "57165"
+  },
+  {
+    "latitude": "23.69639",
+    "longitude": "-5.01472",
+    "mass": "100000",
+    "name": "Chergach ",
+    "year": "2007-01-01T00:00:00",
+    "id": "47347"
+  },
+  {
+    "latitude": "53.7",
+    "longitude": "30.1",
+    "mass": "6000",
+    "name": "Chernyi Bor",
+    "year": "1964-01-01T00:00:00",
+    "id": "5339"
+  },
+  {
+    "latitude": "35.03333",
+    "longitude": "-81.88333",
+    "mass": "8400",
+    "name": "Cherokee Springs",
+    "year": "1933-01-01T00:00:00",
+    "id": "5340"
+  },
+  {
+    "latitude": "46.55",
+    "longitude": "6.81667",
+    "mass": "705",
+    "name": "Chervettaz",
+    "year": "1901-01-01T00:00:00",
+    "id": "5341"
+  },
+  {
+    "latitude": "50.83333",
+    "longitude": "34.0",
+    "mass": "1700",
+    "name": "Chervony Kut",
+    "year": "1939-01-01T00:00:00",
+    "id": "5342"
+  },
+  {
+    "latitude": "14.5",
+    "longitude": "76.5",
+    "mass": "72",
+    "name": "Chetrinahatti",
+    "year": "1880-01-01T00:00:00",
+    "id": "5344"
+  },
+  {
+    "latitude": "17.9",
+    "longitude": "101.63333",
+    "mass": "367",
+    "name": "Chiang Khan",
+    "year": "1981-01-01T00:00:00",
+    "id": "5345"
+  },
+  {
+    "latitude": "40.93333",
+    "longitude": "-79.73333",
+    "mass": "303",
+    "name": "Chicora",
+    "year": "1938-01-01T00:00:00",
+    "id": "5349"
+  },
+  {
+    "latitude": "-10.05944",
+    "longitude": "33.395",
+    "mass": "3920",
+    "name": "Chisenga",
+    "year": "1988-01-01T00:00:00",
+    "id": "5355"
+  },
+  {
+    "latitude": "-17.35",
+    "longitude": "13.96667",
+    "name": "Chitado",
+    "year": "1966-01-01T00:00:00",
+    "id": "5356"
+  },
+  {
+    "latitude": "47.47083",
+    "longitude": "0.97667",
+    "mass": "4000",
+    "name": "Chitenay",
+    "year": "1978-01-01T00:00:00",
+    "id": "5357"
+  },
+  {
+    "latitude": "-6.95",
+    "longitude": "108.1",
+    "mass": "1600",
+    "name": "Cilimus",
+    "year": "1979-01-01T00:00:00",
+    "id": "5364"
+  },
+  {
+    "latitude": "32.1025",
+    "longitude": "-81.87278",
+    "mass": "1455",
+    "name": "Claxton",
+    "year": "1984-01-01T00:00:00",
+    "id": "5374"
+  },
+  {
+    "latitude": "44.9",
+    "longitude": "-90.28333",
+    "mass": "104000",
+    "name": "Colby (Wisconsin)",
+    "year": "1917-01-01T00:00:00",
+    "id": "5395"
+  },
+  {
+    "latitude": "-33.13333",
+    "longitude": "19.38333",
+    "mass": "5200",
+    "name": "Cold Bokkeveld",
+    "year": "1838-01-01T00:00:00",
+    "id": "5397"
+  },
+  {
+    "latitude": "43.76111",
+    "longitude": "-84.50778",
+    "mass": "469",
+    "name": "Coleman",
+    "year": "1994-01-01T00:00:00",
+    "id": "5401"
+  },
+  {
+    "latitude": "42.53333",
+    "longitude": "12.61667",
+    "mass": "5000",
+    "name": "Collescipoli",
+    "year": "1890-01-01T00:00:00",
+    "id": "5403"
+  },
+  {
+    "latitude": "-19.85",
+    "longitude": "-47.55",
+    "mass": "20350",
+    "name": "Conquista",
+    "year": "1965-01-01T00:00:00",
+    "id": "5418"
+  },
+  {
+    "latitude": "21.16667",
+    "longitude": "-100.86667",
+    "mass": "1200",
+    "name": "Cosina",
+    "year": "1844-01-01T00:00:00",
+    "id": "5451"
+  },
+  {
+    "latitude": "10.2",
+    "longitude": "76.26667",
+    "mass": "1460",
+    "name": "Cranganore",
+    "year": "1917-01-01T00:00:00",
+    "id": "5465"
+  },
+  {
+    "latitude": "35.95",
+    "longitude": "-97.58333",
+    "mass": "78.400000000000006",
+    "name": "Crescent",
+    "year": "1936-01-01T00:00:00",
+    "id": "5470"
+  },
+  {
+    "latitude": "-27.7",
+    "longitude": "27.3",
+    "mass": "3650",
+    "name": "Cronstad",
+    "year": "1877-01-01T00:00:00",
+    "id": "5474"
+  },
+  {
+    "latitude": "35.63333",
+    "longitude": "-78.13333",
+    "mass": "167",
+    "name": "Cross Roads",
+    "year": "1892-01-01T00:00:00",
+    "id": "5476"
+  },
+  {
+    "latitude": "54.61667",
+    "longitude": "-6.21667",
+    "mass": "4255",
+    "name": "Crumlin",
+    "year": "1902-01-01T00:00:00",
+    "id": "5477"
+  },
+  {
+    "latitude": "36.83333",
+    "longitude": "-84.35",
+    "mass": "17000",
+    "name": "Cumberland Falls",
+    "year": "1919-01-01T00:00:00",
+    "id": "5496"
+  },
+  {
+    "latitude": "38.4",
+    "longitude": "-84.25",
+    "mass": "6000",
+    "name": "Cynthiana",
+    "year": "1877-01-01T00:00:00",
+    "id": "5500"
+  },
+  {
+    "latitude": "35.61667",
+    "longitude": "8.83333",
+    "mass": "18000",
+    "name": "Dahmani",
+    "year": "1981-01-01T00:00:00",
+    "id": "5504"
+  },
+  {
+    "latitude": "26.91667",
+    "longitude": "83.96667",
+    "mass": "5650",
+    "name": "Dandapur",
+    "year": "1878-01-01T00:00:00",
+    "id": "5511"
+  },
+  {
+    "latitude": "-28.2",
+    "longitude": "24.56667",
+    "mass": "1064",
+    "name": "Daniel's Kuil",
+    "year": "1868-01-01T00:00:00",
+    "id": "5513"
+  },
+  {
+    "latitude": "34.4",
+    "longitude": "-87.06667",
+    "mass": "2000",
+    "name": "Danville",
+    "year": "1868-01-01T00:00:00",
+    "id": "5514"
+  },
+  {
+    "latitude": "49.86667",
+    "longitude": "8.65",
+    "mass": "100",
+    "name": "Darmstadt",
+    "year": "1804-01-01T00:00:00",
+    "id": "6603"
+  },
+  {
+    "latitude": "41.98444",
+    "longitude": "59.685",
+    "mass": "7000",
+    "name": "Dashoguz",
+    "year": "1998-01-01T00:00:00",
+    "id": "6604"
+  },
+  {
+    "latitude": "-1.87089",
+    "longitude": "-79.95756",
+    "mass": "6580",
+    "name": "Daule",
+    "year": "2008-01-01T00:00:00",
+    "id": "51559"
+  },
+  {
+    "latitude": "43.0",
+    "longitude": "-80.0",
+    "mass": "340",
+    "name": "De Cewsville",
+    "year": "1887-01-01T00:00:00",
+    "id": "6621"
+  },
+  {
+    "latitude": "40.25",
+    "longitude": "-74.0",
+    "mass": "28",
+    "name": "Deal",
+    "year": "1829-01-01T00:00:00",
+    "id": "6634"
+  },
+  {
+    "latitude": "28.56667",
+    "longitude": "77.25",
+    "mass": "0.8",
+    "name": "Delhi",
+    "year": "1897-01-01T00:00:00",
+    "id": "6642"
+  },
+  {
+    "latitude": "51.46667",
+    "longitude": "84.76667",
+    "mass": "16400",
+    "name": "Demina",
+    "year": "1911-01-01T00:00:00",
+    "id": "6649"
+  },
+  {
+    "latitude": "39.7825",
+    "longitude": "-104.93056",
+    "mass": "230",
+    "name": "Denver",
+    "year": "1967-01-01T00:00:00",
+    "id": "6660"
+  },
+  {
+    "latitude": "26.68333",
+    "longitude": "93.86667",
+    "mass": "12500",
+    "name": "Dergaon",
+    "year": "2001-01-01T00:00:00",
+    "id": "6664"
+  },
+  {
+    "latitude": "25.73333",
+    "longitude": "73.61667",
+    "mass": "25400",
+    "name": "Desuri",
+    "year": "1962-01-01T00:00:00",
+    "id": "6693"
+  },
+  {
+    "latitude": "19.0",
+    "longitude": "81.0",
+    "mass": "12000",
+    "name": "Devgaon",
+    "year": "2001-01-01T00:00:00",
+    "id": "6694"
+  },
+  {
+    "latitude": "24.225",
+    "longitude": "76.525",
+    "mass": "1140",
+    "name": "Devri-Khera",
+    "year": "1994-01-01T00:00:00",
+    "id": "6696"
+  },
+  {
+    "latitude": "22.37778",
+    "longitude": "71.42722",
+    "mass": "45000",
+    "name": "Dhajala",
+    "year": "1976-01-01T00:00:00",
+    "id": "6698"
+  },
+  {
+    "latitude": "14.88333",
+    "longitude": "75.6",
+    "mass": "1800",
+    "name": "Dharwar",
+    "year": "1848-01-01T00:00:00",
+    "id": "6699"
+  },
+  {
+    "latitude": "32.23333",
+    "longitude": "76.46667",
+    "mass": "32000",
+    "name": "Dhurmsala",
+    "year": "1860-01-01T00:00:00",
+    "id": "7640"
+  },
+  {
+    "latitude": "37.35172",
+    "longitude": "27.32997",
+    "mass": "3396",
+    "name": "Didim",
+    "year": "2007-01-01T00:00:00",
+    "id": "47350"
+  },
+  {
+    "latitude": "-33.75",
+    "longitude": "18.56667",
+    "mass": "1000",
+    "name": "Diep River",
+    "year": "1906-01-01T00:00:00",
+    "id": "7642"
+  },
+  {
+    "latitude": "-31.88333",
+    "longitude": "-60.46667",
+    "mass": "400",
+    "name": "Distrito Quebracho",
+    "year": "1957-01-01T00:00:00",
+    "id": "7649"
+  },
+  {
+    "latitude": "-7.5",
+    "longitude": "111.5",
+    "mass": "166000",
+    "name": "Djati-Pengilon",
+    "year": "1884-01-01T00:00:00",
+    "id": "7652"
+  },
+  {
+    "latitude": "12.73333",
+    "longitude": "15.05",
+    "mass": "3950",
+    "name": "Djermaia",
+    "year": "1961-01-01T00:00:00",
+    "id": "7656"
+  },
+  {
+    "latitude": "36.95",
+    "longitude": "9.55",
+    "mass": "10000",
+    "name": "Djoumine",
+    "year": "1999-01-01T00:00:00",
+    "id": "7657"
+  },
+  {
+    "latitude": "23.5",
+    "longitude": "90.33333",
+    "mass": "3840",
+    "name": "Dokachi",
+    "year": "1903-01-01T00:00:00",
+    "id": "7658"
+  },
+  {
+    "latitude": "50.75",
+    "longitude": "25.3",
+    "mass": "1600",
+    "name": "Dolgovoli",
+    "year": "1864-01-01T00:00:00",
+    "id": "7659"
+  },
+  {
+    "latitude": "40.0",
+    "longitude": "29.0",
+    "mass": "438",
+    "name": "Domanitch",
+    "year": "1907-01-01T00:00:00",
+    "id": "7661"
+  },
+  {
+    "latitude": "45.5",
+    "longitude": "119.03333",
+    "mass": "128800",
+    "name": "Dong Ujimqin Qi",
+    "year": "1995-01-01T00:00:00",
+    "id": "7706"
+  },
+  {
+    "latitude": "21.86667",
+    "longitude": "82.45",
+    "mass": "230",
+    "name": "Donga Kohrod",
+    "year": "1899-01-01T00:00:00",
+    "id": "7707"
+  },
+  {
+    "latitude": "32.91667",
+    "longitude": "120.78333",
+    "mass": "5500",
+    "name": "Dongtai",
+    "year": "1970-01-01T00:00:00",
+    "id": "7708"
+  },
+  {
+    "latitude": "51.2",
+    "longitude": "112.3",
+    "mass": "3891",
+    "name": "Doroninsk",
+    "year": "1805-01-01T00:00:00",
+    "id": "7718"
+  },
+  {
+    "latitude": "13.05",
+    "longitude": "3.16667",
+    "mass": "1250",
+    "name": "Dosso",
+    "year": "1962-01-01T00:00:00",
+    "id": "7722"
+  },
+  {
+    "latitude": "32.33333",
+    "longitude": "-6.3",
+    "mass": "1161",
+    "name": "Douar Mghila",
+    "year": "1932-01-01T00:00:00",
+    "id": "7723"
+  },
+  {
+    "latitude": "-13.66667",
+    "longitude": "33.91667",
+    "mass": "642",
+    "name": "Dowa",
+    "year": "1976-01-01T00:00:00",
+    "id": "7725"
+  },
+  {
+    "latitude": "36.4",
+    "longitude": "-86.5",
+    "mass": "5000",
+    "name": "Drake Creek",
+    "year": "1827-01-01T00:00:00",
+    "id": "7728"
+  },
+  {
+    "latitude": "42.52",
+    "longitude": "-82.26",
+    "mass": "47700",
+    "name": "Dresden (Ontario)",
+    "year": "1939-01-01T00:00:00",
+    "id": "7731"
+  },
+  {
+    "latitude": "42.45833",
+    "longitude": "18.44167",
+    "mass": "1900",
+    "name": "Dubrovnik",
+    "year": "1951-01-01T00:00:00",
+    "id": "7736"
+  },
+  {
+    "latitude": "-31.66667",
+    "longitude": "152.83333",
+    "mass": "30",
+    "name": "Dunbogan",
+    "year": "1999-01-01T00:00:00",
+    "id": "7743"
+  },
+  {
+    "latitude": "52.55",
+    "longitude": "-8.03333",
+    "mass": "2270",
+    "name": "Dundrum",
+    "year": "1865-01-01T00:00:00",
+    "id": "7745"
+  },
+  {
+    "latitude": "43.33333",
+    "longitude": "128.25",
+    "name": "Dunhua",
+    "year": "1976-01-01T00:00:00",
+    "id": "7749"
+  },
+  {
+    "latitude": "30.3",
+    "longitude": "76.63333",
+    "mass": "13200",
+    "name": "Durala",
+    "year": "1815-01-01T00:00:00",
+    "id": "7750"
+  },
+  {
+    "latitude": "-4.0",
+    "longitude": "39.5",
+    "mass": "577",
+    "name": "Duruma",
+    "year": "1853-01-01T00:00:00",
+    "id": "7752"
+  },
+  {
+    "latitude": "33.43333",
+    "longitude": "127.26667",
+    "mass": "2117",
+    "name": "Duwun",
+    "year": "1943-01-01T00:00:00",
+    "id": "7754"
+  },
+  {
+    "latitude": "-27.2",
+    "longitude": "31.31667",
+    "mass": "3230",
+    "name": "Dwaleni",
+    "year": "1970-01-01T00:00:00",
+    "id": "7755"
+  },
+  {
+    "latitude": "26.25",
+    "longitude": "82.0",
+    "mass": "300",
+    "name": "Dyalpur",
+    "year": "1872-01-01T00:00:00",
+    "id": "7757"
+  },
+  {
+    "latitude": "-3.0",
+    "longitude": "151.0",
+    "mass": "188",
+    "name": "Dyarrl Island",
+    "year": "1933-01-01T00:00:00",
+    "id": "7758"
+  },
+  {
+    "latitude": "40.78167",
+    "longitude": "-96.47167",
+    "mass": "10000",
+    "name": "Eagle",
+    "year": "1947-01-01T00:00:00",
+    "id": "7760"
+  },
+  {
+    "latitude": "-17.3",
+    "longitude": "15.83333",
+    "mass": "2400",
+    "name": "Ehole",
+    "year": "1961-01-01T00:00:00",
+    "id": "7774"
+  },
+  {
+    "latitude": "48.9",
+    "longitude": "11.21667",
+    "mass": "3000",
+    "name": "Eichstädt",
+    "year": "1785-01-01T00:00:00",
+    "id": "7775"
+  },
+  {
+    "latitude": "56.03333",
+    "longitude": "13.0",
+    "mass": "3336",
+    "name": "Ekeby",
+    "year": "1939-01-01T00:00:00",
+    "id": "7776"
+  },
+  {
+    "latitude": "28.26667",
+    "longitude": "78.78333",
+    "mass": "840",
+    "name": "Ekh Khera",
+    "year": "1916-01-01T00:00:00",
+    "id": "7777"
+  },
+  {
+    "latitude": "34.41667",
+    "longitude": "3.25",
+    "mass": "10000",
+    "name": "El Idrissia",
+    "year": "1989-01-01T00:00:00",
+    "id": "7807"
+  },
+  {
+    "latitude": "25.37",
+    "longitude": "-97.37",
+    "mass": "17226",
+    "name": "El Paso de Aguila",
+    "year": "1977-01-01T00:00:00",
+    "id": "45977"
+  },
+  {
+    "latitude": "19.96722",
+    "longitude": "-103.05167",
+    "mass": "5000",
+    "name": "El Tigre",
+    "year": "1993-01-01T00:00:00",
+    "id": "7819"
+  },
+  {
+    "latitude": "39.24667",
+    "longitude": "-104.58817",
+    "mass": "680.5",
+    "name": "Elbert",
+    "year": "1998-01-01T00:00:00",
+    "id": "7822"
+  },
+  {
+    "latitude": "50.18333",
+    "longitude": "12.73333",
+    "mass": "107000",
+    "name": "Elbogen",
+    "year": "1400-01-01T00:00:00",
+    "id": "7823"
+  },
+  {
+    "latitude": "47.83333",
+    "longitude": "37.66667",
+    "mass": "54640",
+    "name": "Elenovka",
+    "year": "1951-01-01T00:00:00",
+    "id": "7824"
+  },
+  {
+    "latitude": "51.75",
+    "longitude": "4.0",
+    "mass": "1470",
+    "name": "Ellemeet",
+    "year": "1925-01-01T00:00:00",
+    "id": "10019"
+  },
+  {
+    "latitude": "-29.46667",
+    "longitude": "151.61667",
+    "mass": "127",
+    "name": "Emmaville",
+    "year": "1900-01-01T00:00:00",
+    "id": "10033"
+  },
+  {
+    "latitude": "30.3",
+    "longitude": "109.5",
+    "mass": "8000",
+    "name": "Enshi",
+    "year": "1974-01-01T00:00:00",
+    "id": "10038"
+  },
+  {
+    "latitude": "47.86667",
+    "longitude": "7.35",
+    "mass": "127000",
+    "name": "Ensisheim",
+    "year": "1492-01-01T00:00:00",
+    "id": "10039"
+  },
+  {
+    "latitude": "48.18333",
+    "longitude": "6.46667",
+    "mass": "277",
+    "name": "Épinal",
+    "year": "1822-01-01T00:00:00",
+    "id": "10041"
+  },
+  {
+    "latitude": "19.03333",
+    "longitude": "81.89167",
+    "mass": "113",
+    "name": "Erakot",
+    "year": "1940-01-01T00:00:00",
+    "id": "10042"
+  },
+  {
+    "latitude": "40.3",
+    "longitude": "44.5",
+    "mass": "107.2",
+    "name": "Erevan",
+    "year": "1911-01-01T00:00:00",
+    "id": "10043"
+  },
+  {
+    "latitude": "1.16667",
+    "longitude": "44.16667",
+    "mass": "20000",
+    "name": "Ergheo",
+    "year": "1889-01-01T00:00:00",
+    "id": "10044"
+  },
+  {
+    "latitude": "52.21667",
+    "longitude": "11.25",
+    "mass": "2250",
+    "name": "Erxleben",
+    "year": "1812-01-01T00:00:00",
+    "id": "10049"
+  },
+  {
+    "latitude": "46.25",
+    "longitude": "-1.1",
+    "mass": "1500",
+    "name": "Esnandes",
+    "year": "1837-01-01T00:00:00",
+    "id": "10051"
+  },
+  {
+    "latitude": "2.88333",
+    "longitude": "30.83333",
+    "mass": "500",
+    "name": "Essebi",
+    "year": "1957-01-01T00:00:00",
+    "id": "10055"
+  },
+  {
+    "latitude": "43.41667",
+    "longitude": "-94.83333",
+    "mass": "320000",
+    "name": "Estherville",
+    "year": "1879-01-01T00:00:00",
+    "id": "10059"
+  },
+  {
+    "latitude": "39.75",
+    "longitude": "-97.03333",
+    "mass": "89400",
+    "name": "Farmington",
+    "year": "1890-01-01T00:00:00",
+    "id": "10074"
+  },
+  {
+    "latitude": "35.55",
+    "longitude": "-77.53333",
+    "mass": "56000",
+    "name": "Farmville",
+    "year": "1934-01-01T00:00:00",
+    "id": "10075"
+  },
+  {
+    "latitude": "44.38333",
+    "longitude": "2.81667",
+    "mass": "1500",
+    "name": "Favars",
+    "year": "1844-01-01T00:00:00",
+    "id": "10078"
+  },
+  {
+    "latitude": "36.05",
+    "longitude": "-94.16667",
+    "mass": "2360",
+    "name": "Fayetteville",
+    "year": "1934-01-01T00:00:00",
+    "id": "10079"
+  },
+  {
+    "latitude": "36.88333",
+    "longitude": "8.45",
+    "mass": "380",
+    "name": "Feid Chair",
+    "year": "1875-01-01T00:00:00",
+    "id": "10080"
+  },
+  {
+    "latitude": "32.53333",
+    "longitude": "-87.16667",
+    "mass": "3200",
+    "name": "Felix",
+    "year": "1900-01-01T00:00:00",
+    "id": "10081"
+  },
+  {
+    "latitude": "34.6",
+    "longitude": "116.75",
+    "mass": "82",
+    "name": "Fenghsien-Ku",
+    "year": "1924-01-01T00:00:00",
+    "id": "10086"
+  },
+  {
+    "latitude": "36.1",
+    "longitude": "-81.41667",
+    "mass": "220",
+    "name": "Ferguson",
+    "year": "1889-01-01T00:00:00",
+    "id": "10088"
+  },
+  {
+    "latitude": "43.18111",
+    "longitude": "13.75333",
+    "mass": "10200",
+    "name": "Fermo",
+    "year": "1996-01-01T00:00:00",
+    "id": "10091"
+  },
+  {
+    "latitude": "47.81667",
+    "longitude": "-96.85",
+    "mass": "17600",
+    "name": "Fisher",
+    "year": "1894-01-01T00:00:00",
+    "id": "10107"
+  },
+  {
+    "latitude": "30.83333",
+    "longitude": "-97.76667",
+    "mass": "3640",
+    "name": "Florence",
+    "year": "1922-01-01T00:00:00",
+    "id": "10111"
+  },
+  {
+    "latitude": "43.25",
+    "longitude": "-93.66667",
+    "mass": "152000",
+    "name": "Forest City",
+    "year": "1890-01-01T00:00:00",
+    "id": "10119"
+  },
+  {
+    "latitude": "-33.35",
+    "longitude": "146.85833",
+    "mass": "26000",
+    "name": "Forest Vale",
+    "year": "1942-01-01T00:00:00",
+    "id": "10120"
+  },
+  {
+    "latitude": "36.78333",
+    "longitude": "-78.08333",
+    "mass": "6067",
+    "name": "Forksville",
+    "year": "1924-01-01T00:00:00",
+    "id": "10123"
+  },
+  {
+    "latitude": "50.95",
+    "longitude": "7.31667",
+    "mass": "240",
+    "name": "Forsbach",
+    "year": "1900-01-01T00:00:00",
+    "id": "10163"
+  },
+  {
+    "latitude": "33.01667",
+    "longitude": "-83.96667",
+    "mass": "16300",
+    "name": "Forsyth",
+    "year": "1829-01-01T00:00:00",
+    "id": "10164"
+  },
+  {
+    "latitude": "28.25",
+    "longitude": "7.0",
+    "name": "Fort Flatters",
+    "year": "1944-01-01T00:00:00",
+    "id": "10166"
+  },
+  {
+    "latitude": "34.48333",
+    "longitude": "-87.83333",
+    "mass": "650",
+    "name": "Frankfort (stone)",
+    "year": "1868-01-01T00:00:00",
+    "id": "10177"
+  },
+  {
+    "latitude": "31.47556",
+    "longitude": "113.56694",
+    "mass": "23000",
+    "name": "Fuhe",
+    "year": "1945-01-01T00:00:00",
+    "id": "52412"
+  },
+  {
+    "latitude": "33.18333",
+    "longitude": "130.2",
+    "mass": "11620",
+    "name": "Fukutomi",
+    "year": "1882-01-01T00:00:00",
+    "id": "10836"
+  },
+  {
+    "latitude": "55.33333",
+    "longitude": "10.33333",
+    "name": "Fünen",
+    "year": "1654-01-01T00:00:00",
+    "id": "10838"
+  },
+  {
+    "latitude": "25.95",
+    "longitude": "80.81667",
+    "mass": "4000",
+    "name": "Futtehpur",
+    "year": "1822-01-01T00:00:00",
+    "id": "10839"
+  },
+  {
+    "latitude": "32.9",
+    "longitude": "115.9",
+    "mass": "2500",
+    "name": "Fuyang",
+    "year": "1977-01-01T00:00:00",
+    "id": "10840"
+  },
+  {
+    "latitude": "44.3",
+    "longitude": "0.4",
+    "mass": "132.69999999999999",
+    "name": "Galapian",
+    "year": "1826-01-01T00:00:00",
+    "id": "10846"
+  },
+  {
+    "latitude": "7.05",
+    "longitude": "12.43333",
+    "mass": "36.1",
+    "name": "Galim (a)",
+    "year": "1952-01-01T00:00:00",
+    "id": "10848"
+  },
+  {
+    "latitude": "7.05",
+    "longitude": "12.43333",
+    "mass": "28",
+    "name": "Galim (b)",
+    "year": "1952-01-01T00:00:00",
+    "id": "10849"
+  },
+  {
+    "latitude": "51.68333",
+    "longitude": "30.78333",
+    "mass": "5000",
+    "name": "Galkiv",
+    "year": "1995-01-01T00:00:00",
+    "id": "10850"
+  },
+  {
+    "latitude": "27.35",
+    "longitude": "68.53333",
+    "mass": "6400",
+    "name": "Gambat",
+    "year": "1897-01-01T00:00:00",
+    "id": "10851"
+  },
+  {
+    "latitude": "11.65",
+    "longitude": "-2.18333",
+    "name": "Gao-Guenie",
+    "year": "1960-01-01T00:00:00",
+    "id": "10854"
+  },
+  {
+    "latitude": "27.88333",
+    "longitude": "68.53333",
+    "mass": "380",
+    "name": "Garhi Yasin",
+    "year": "1917-01-01T00:00:00",
+    "id": "10860"
+  },
+  {
+    "latitude": "41.68333",
+    "longitude": "-112.13333",
+    "mass": "102",
+    "name": "Garland",
+    "year": "1950-01-01T00:00:00",
+    "id": "10861"
+  },
+  {
+    "latitude": "12.85",
+    "longitude": "11.03333",
+    "mass": "4162",
+    "name": "Gashua",
+    "year": "1984-01-01T00:00:00",
+    "id": "44882"
+  },
+  {
+    "latitude": "14.15083",
+    "longitude": "-2.04167",
+    "name": "Gasseltepaoua",
+    "year": "2000-01-01T00:00:00",
+    "id": "10866"
+  },
+  {
+    "latitude": "12.91667",
+    "longitude": "11.91667",
+    "mass": "725",
+    "name": "Geidam",
+    "year": "1950-01-01T00:00:00",
+    "id": "10870"
+  },
+  {
+    "latitude": "35.53333",
+    "longitude": "136.88333",
+    "mass": "14290",
+    "name": "Gifu",
+    "year": "1909-01-01T00:00:00",
+    "id": "10914"
+  },
+  {
+    "latitude": "37.31667",
+    "longitude": "13.56667",
+    "mass": "18000",
+    "name": "Girgenti",
+    "year": "1853-01-01T00:00:00",
+    "id": "10917"
+  },
+  {
+    "latitude": "9.6",
+    "longitude": "9.91667",
+    "mass": "480",
+    "name": "Git-Git",
+    "year": "1947-01-01T00:00:00",
+    "id": "10919"
+  },
+  {
+    "latitude": "52.2",
+    "longitude": "6.86667",
+    "mass": "670",
+    "name": "Glanerbrug",
+    "year": "1990-01-01T00:00:00",
+    "id": "10923"
+  },
+  {
+    "latitude": "-7.25",
+    "longitude": "107.7",
+    "mass": "1303",
+    "name": "Glanggang",
+    "year": "1939-01-01T00:00:00",
+    "id": "10924"
+  },
+  {
+    "latitude": "57.35",
+    "longitude": "37.61667",
+    "mass": "152000",
+    "name": "Glasatovo",
+    "year": "1918-01-01T00:00:00",
+    "id": "10926"
+  },
+  {
+    "latitude": "52.45972",
+    "longitude": "-0.3",
+    "mass": "767",
+    "name": "Glatton",
+    "year": "1991-01-01T00:00:00",
+    "id": "10930"
+  },
+  {
+    "latitude": "50.66667",
+    "longitude": "16.76667",
+    "mass": "1750",
+    "name": "Gnadenfrei",
+    "year": "1879-01-01T00:00:00",
+    "id": "10936"
+  },
+  {
+    "latitude": "24.23333",
+    "longitude": "89.05",
+    "mass": "1600",
+    "name": "Gopalpur",
+    "year": "1865-01-01T00:00:00",
+    "id": "10948"
+  },
+  {
+    "latitude": "48.28333",
+    "longitude": "38.08333",
+    "mass": "3618",
+    "name": "Gorlovka",
+    "year": "1974-01-01T00:00:00",
+    "id": "10949"
+  },
+  {
+    "latitude": "42.9",
+    "longitude": "2.25",
+    "mass": "9000",
+    "name": "Granes",
+    "year": "1964-01-01T00:00:00",
+    "id": "10956"
+  },
+  {
+    "latitude": "60.66667",
+    "longitude": "11.0",
+    "mass": "45.5",
+    "name": "Grefsheim",
+    "year": "1976-01-01T00:00:00",
+    "id": "11196"
+  },
+  {
+    "latitude": "43.2",
+    "longitude": "-79.61667",
+    "mass": "215",
+    "name": "Grimsby",
+    "year": "2009-01-01T00:00:00",
+    "id": "50911"
+  },
+  {
+    "latitude": "43.66667",
+    "longitude": "45.38333",
+    "mass": "3500",
+    "name": "Grosnaja",
+    "year": "1861-01-01T00:00:00",
+    "id": "11206"
+  },
+  {
+    "latitude": "49.26667",
+    "longitude": "18.71667",
+    "mass": "10500",
+    "name": "Gross-Divina",
+    "year": "1837-01-01T00:00:00",
+    "id": "11207"
+  },
+  {
+    "latitude": "46.35",
+    "longitude": "30.58333",
+    "mass": "8000",
+    "name": "Grossliebenthal",
+    "year": "1881-01-01T00:00:00",
+    "id": "11208"
+  },
+  {
+    "latitude": "51.93333",
+    "longitude": "15.5",
+    "mass": "1000",
+    "name": "Grüneberg",
+    "year": "1841-01-01T00:00:00",
+    "id": "11426"
+  },
+  {
+    "latitude": "52.86667",
+    "longitude": "16.63333",
+    "mass": "690",
+    "name": "Grzempach",
+    "year": "1910-01-01T00:00:00",
+    "id": "11429"
+  },
+  {
+    "latitude": "-33.0",
+    "longitude": "-58.61667",
+    "mass": "22000",
+    "name": "Gualeguaychú",
+    "year": "1932-01-01T00:00:00",
+    "id": "11432"
+  },
+  {
+    "latitude": "39.80417",
+    "longitude": "122.76389",
+    "mass": "2910",
+    "name": "Guangmingshan",
+    "year": "1996-01-01T00:00:00",
+    "id": "11435"
+  },
+  {
+    "latitude": "24.1",
+    "longitude": "105.0",
+    "name": "Guangnan",
+    "year": "1983-01-01T00:00:00",
+    "id": "11436"
+  },
+  {
+    "latitude": "37.1",
+    "longitude": "118.4",
+    "mass": "1900",
+    "name": "Guangrao",
+    "year": "1980-01-01T00:00:00",
+    "id": "11437"
+  },
+  {
+    "latitude": "38.73333",
+    "longitude": "-6.01667",
+    "mass": "39000",
+    "name": "Guareña",
+    "year": "1892-01-01T00:00:00",
+    "id": "11439"
+  },
+  {
+    "latitude": "43.76667",
+    "longitude": "20.23333",
+    "mass": "1915",
+    "name": "Guêa",
+    "year": "1891-01-01T00:00:00",
+    "id": "11440"
+  },
+  {
+    "latitude": "13.5",
+    "longitude": "-0.68333",
+    "mass": "288",
+    "name": "Guibga",
+    "year": "1972-01-01T00:00:00",
+    "id": "11442"
+  },
+  {
+    "latitude": "9.91667",
+    "longitude": "13.98333",
+    "mass": "968",
+    "name": "Guidder",
+    "year": "1949-01-01T00:00:00",
+    "id": "11443"
+  },
+  {
+    "latitude": "22.98333",
+    "longitude": "76.05",
+    "mass": "2449",
+    "name": "Gujargaon",
+    "year": "1982-01-01T00:00:00",
+    "id": "11448"
+  },
+  {
+    "latitude": "11.49167",
+    "longitude": "11.65833",
+    "mass": "100000",
+    "name": "Gujba",
+    "year": "1984-01-01T00:00:00",
+    "id": "11449"
+  },
+  {
+    "latitude": "42.9",
+    "longitude": "24.7",
+    "mass": "5700",
+    "name": "Gumoschnik",
+    "year": "1904-01-01T00:00:00",
+    "id": "11450"
+  },
+  {
+    "latitude": "13.78333",
+    "longitude": "78.56667",
+    "mass": "28",
+    "name": "Gurram Konda",
+    "year": "1814-01-01T00:00:00",
+    "id": "11464"
+  },
+  {
+    "latitude": "9.36667",
+    "longitude": "42.41667",
+    "mass": "34650",
+    "name": "Gursum",
+    "year": "1981-01-01T00:00:00",
+    "id": "11465"
+  },
+  {
+    "latitude": "51.91667",
+    "longitude": "8.38333",
+    "mass": "1000",
+    "name": "Gütersloh",
+    "year": "1851-01-01T00:00:00",
+    "id": "11466"
+  },
+  {
+    "latitude": "35.0",
+    "longitude": "127.5",
+    "mass": "1320",
+    "name": "Gyokukei",
+    "year": "1930-01-01T00:00:00",
+    "id": "11467"
+  },
+  {
+    "latitude": "35.65",
+    "longitude": "139.33333",
+    "mass": "0.2",
+    "name": "Hachi-oji",
+    "year": "1817-01-01T00:00:00",
+    "id": "11468"
+  },
+  {
+    "latitude": "50.31667",
+    "longitude": "3.73333",
+    "mass": "9000",
+    "name": "Hainaut",
+    "year": "1934-01-01T00:00:00",
+    "id": "11472"
+  },
+  {
+    "latitude": "57.81667",
+    "longitude": "16.23333",
+    "mass": "1456",
+    "name": "Hallingeberg",
+    "year": "1944-01-01T00:00:00",
+    "id": "11479"
+  },
+  {
+    "latitude": "41.38333",
+    "longitude": "-86.6",
+    "mass": "3710",
+    "name": "Hamlet",
+    "year": "1959-01-01T00:00:00",
+    "id": "11485"
+  },
+  {
+    "latitude": "26.8",
+    "longitude": "82.53333",
+    "mass": "1000",
+    "name": "Haraiya",
+    "year": "1878-01-01T00:00:00",
+    "id": "11824"
+  },
+  {
+    "latitude": "28.38333",
+    "longitude": "75.78333",
+    "mass": "315",
+    "name": "Haripura",
+    "year": "1921-01-01T00:00:00",
+    "id": "11829"
+  },
+  {
+    "latitude": "32.675",
+    "longitude": "-94.51167",
+    "mass": "8360",
+    "name": "Harleton",
+    "year": "1961-01-01T00:00:00",
+    "id": "11830"
+  },
+  {
+    "latitude": "38.25",
+    "longitude": "-86.16667",
+    "mass": "680",
+    "name": "Harrison County",
+    "year": "1859-01-01T00:00:00",
+    "id": "11842"
+  },
+  {
+    "latitude": "35.2945",
+    "longitude": "136.70033",
+    "mass": "1110.5999999999999",
+    "name": "Hashima",
+    "year": "1910-01-01T00:00:00",
+    "id": "11848"
+  },
+  {
+    "latitude": "28.95",
+    "longitude": "0.81667",
+    "mass": "1250",
+    "name": "Hassi-Jekna",
+    "year": "1890-01-01T00:00:00",
+    "id": "11852"
+  },
+  {
+    "latitude": "51.65",
+    "longitude": "-1.51667",
+    "mass": "29000",
+    "name": "Hatford",
+    "year": "1628-01-01T00:00:00",
+    "id": "11855"
+  },
+  {
+    "latitude": "60.24556",
+    "longitude": "22.06194",
+    "mass": "1544",
+    "name": "Haverö",
+    "year": "1971-01-01T00:00:00",
+    "id": "11859"
+  },
+  {
+    "latitude": "55.46667",
+    "longitude": "13.78333",
+    "mass": "3500",
+    "name": "Hedeskoga",
+    "year": "1922-01-01T00:00:00",
+    "id": "11869"
+  },
+  {
+    "latitude": "27.33333",
+    "longitude": "35.66667",
+    "mass": "6100",
+    "name": "Hedjaz",
+    "year": "1910-01-01T00:00:00",
+    "id": "11870"
+  },
+  {
+    "latitude": "10.0",
+    "longitude": "-84.1",
+    "mass": "1000",
+    "name": "Heredia",
+    "year": "1857-01-01T00:00:00",
+    "id": "11875"
+  },
+  {
+    "latitude": "59.85",
+    "longitude": "17.66667",
+    "mass": "20000",
+    "name": "Hessle",
+    "year": "1869-01-01T00:00:00",
+    "id": "11878"
+  },
+  {
+    "latitude": "33.6",
+    "longitude": "130.43333",
+    "mass": "750",
+    "name": "Higashi-koen",
+    "year": "1897-01-01T00:00:00",
+    "id": "11883"
+  },
+  {
+    "latitude": "55.9",
+    "longitude": "-4.23333",
+    "mass": "4500",
+    "name": "High Possil",
+    "year": "1804-01-01T00:00:00",
+    "id": "11884"
+  },
+  {
+    "latitude": "34.45",
+    "longitude": "132.38333",
+    "mass": "414",
+    "name": "Hiroshima",
+    "year": "2003-01-01T00:00:00",
+    "id": "11889"
+  },
+  {
+    "latitude": "1.345",
+    "longitude": "31.47278",
+    "mass": "167.7",
+    "name": "Hoima",
+    "year": "2003-01-01T00:00:00",
+    "id": "44714"
+  },
+  {
+    "latitude": "64.43333",
+    "longitude": "21.2",
+    "mass": "305.5",
+    "name": "Hökmark",
+    "year": "1954-01-01T00:00:00",
+    "id": "11893"
+  },
+  {
+    "latitude": "34.9",
+    "longitude": "-110.18333",
+    "mass": "220000",
+    "name": "Holbrook",
+    "year": "1912-01-01T00:00:00",
+    "id": "11894"
+  },
+  {
+    "latitude": "9.06667",
+    "longitude": "38.41667",
+    "mass": "1415",
+    "name": "Holetta",
+    "year": "1923-01-01T00:00:00",
+    "id": "11895"
+  },
+  {
+    "latitude": "41.8",
+    "longitude": "-91.86667",
+    "mass": "230000",
+    "name": "Homestead",
+    "year": "1875-01-01T00:00:00",
+    "id": "11901"
+  },
+  {
+    "latitude": "21.3",
+    "longitude": "-157.86667",
+    "mass": "2420",
+    "name": "Honolulu",
+    "year": "1825-01-01T00:00:00",
+    "id": "11904"
+  },
+  {
+    "latitude": "35.66667",
+    "longitude": "115.5",
+    "mass": "180",
+    "name": "Hotse",
+    "year": "1956-01-01T00:00:00",
+    "id": "11913"
+  },
+  {
+    "latitude": "39.35",
+    "longitude": "-100.45",
+    "mass": "266.10000000000002",
+    "name": "Hoxie",
+    "year": "1963-01-01T00:00:00",
+    "id": "11915"
+  },
+  {
+    "latitude": "46.1",
+    "longitude": "16.33333",
+    "mass": "49000",
+    "name": "Hraschina",
+    "year": "1751-01-01T00:00:00",
+    "id": "11916"
+  },
+  {
+    "latitude": "26.46469",
+    "longitude": "106.63241",
+    "mass": "1600",
+    "name": "Huaxi",
+    "year": "2010-01-01T00:00:00",
+    "id": "54719"
+  },
+  {
+    "latitude": "50.3",
+    "longitude": "8.91667",
+    "mass": "112",
+    "name": "Hungen",
+    "year": "1877-01-01T00:00:00",
+    "id": "11986"
+  },
+  {
+    "latitude": "61.18333",
+    "longitude": "22.68333",
+    "mass": "14000",
+    "name": "Hvittis",
+    "year": "1901-01-01T00:00:00",
+    "id": "11989"
+  },
+  {
+    "latitude": "52.28333",
+    "longitude": "7.7",
+    "mass": "2000",
+    "name": "Ibbenbüren",
+    "year": "1870-01-01T00:00:00",
+    "id": "11992"
+  },
+  {
+    "latitude": "-20.0",
+    "longitude": "-45.0",
+    "mass": "2500",
+    "name": "Ibitira",
+    "year": "1957-01-01T00:00:00",
+    "id": "11993"
+  },
+  {
+    "latitude": "38.0",
+    "longitude": "35.0",
+    "name": "Ibrisim",
+    "year": "1949-01-01T00:00:00",
+    "id": "11994"
+  },
+  {
+    "latitude": "58.2",
+    "longitude": "82.93333",
+    "mass": "3973",
+    "name": "Ichkala",
+    "year": "1936-01-01T00:00:00",
+    "id": "11995"
+  },
+  {
+    "latitude": "-32.1",
+    "longitude": "28.33333",
+    "mass": "3457",
+    "name": "Idutywa",
+    "year": "1956-01-01T00:00:00",
+    "id": "12000"
+  },
+  {
+    "latitude": "-23.2",
+    "longitude": "-51.83333",
+    "mass": "1200",
+    "name": "Iguaracu",
+    "year": "1977-01-01T00:00:00",
+    "id": "12003"
+  },
+  {
+    "latitude": "-6.03333",
+    "longitude": "145.36667",
+    "mass": "7330",
+    "name": "Ijopega",
+    "year": "1975-01-01T00:00:00",
+    "id": "12004"
+  },
+  {
+    "latitude": "39.75",
+    "longitude": "46.66667",
+    "mass": "27000",
+    "name": "Indarch",
+    "year": "1891-01-01T00:00:00",
+    "id": "12027"
+  },
+  {
+    "latitude": "39.08333",
+    "longitude": "-94.4",
+    "mass": "880",
+    "name": "Independence",
+    "year": "1917-01-01T00:00:00",
+    "id": "12028"
+  },
+  {
+    "latitude": "41.0",
+    "longitude": "112.0",
+    "mass": "3000",
+    "name": "Inner Mongolia",
+    "year": "1963-01-01T00:00:00",
+    "id": "12037"
+  },
+  {
+    "latitude": "53.415",
+    "longitude": "-111.3375",
+    "mass": "4576",
+    "name": "Innisfree",
+    "year": "1977-01-01T00:00:00",
+    "id": "12039"
+  },
+  {
+    "latitude": "-25.5",
+    "longitude": "-54.5",
+    "mass": "7000",
+    "name": "Ipiranga",
+    "year": "1972-01-01T00:00:00",
+    "id": "12043"
+  },
+  {
+    "latitude": "-8.93333",
+    "longitude": "33.8",
+    "mass": "1300",
+    "name": "Ishinga",
+    "year": "1954-01-01T00:00:00",
+    "id": "12049"
+  },
+  {
+    "latitude": "-31.18333",
+    "longitude": "-57.95",
+    "mass": "3050",
+    "name": "Isthilart",
+    "year": "1928-01-01T00:00:00",
+    "id": "12053"
+  },
+  {
+    "latitude": "-3.4",
+    "longitude": "-44.33333",
+    "mass": "2024",
+    "name": "Itapicuru-Mirim",
+    "year": "1879-01-01T00:00:00",
+    "id": "12056"
+  },
+  {
+    "latitude": "26.59083",
+    "longitude": "-12.95217",
+    "mass": "4720",
+    "name": "Itqiy",
+    "year": "1990-01-01T00:00:00",
+    "id": "12058"
+  },
+  {
+    "latitude": "-8.41667",
+    "longitude": "32.43333",
+    "mass": "704.5",
+    "name": "Ivuna",
+    "year": "1938-01-01T00:00:00",
+    "id": "12063"
+  },
+  {
+    "latitude": "-32.5",
+    "longitude": "21.9",
+    "mass": "48000",
+    "name": "Jackalsfontein",
+    "year": "1903-01-01T00:00:00",
+    "id": "12065"
+  },
+  {
+    "latitude": "26.75",
+    "longitude": "68.41667",
+    "mass": "973",
+    "name": "Jajh deh Kot Lalu",
+    "year": "1926-01-01T00:00:00",
+    "id": "12067"
+  },
+  {
+    "latitude": "31.0",
+    "longitude": "75.0",
+    "mass": "1967",
+    "name": "Jalandhar",
+    "year": "1621-01-01T00:00:00",
+    "id": "12069"
+  },
+  {
+    "latitude": "18.75",
+    "longitude": "75.33333",
+    "mass": "22",
+    "name": "Jamkheir",
+    "year": "1866-01-01T00:00:00",
+    "id": "12072"
+  },
+  {
+    "latitude": "39.7",
+    "longitude": "105.8",
+    "mass": "20500",
+    "name": "Jartai",
+    "year": "1979-01-01T00:00:00",
+    "id": "12074"
+  },
+  {
+    "latitude": "43.83333",
+    "longitude": "20.44167",
+    "mass": "34000",
+    "name": "Jelica",
+    "year": "1889-01-01T00:00:00",
+    "id": "12078"
+  },
+  {
+    "latitude": "46.42137",
+    "longitude": "14.05217",
+    "mass": "3667",
+    "name": "Jesenice",
+    "year": "2009-01-01T00:00:00",
+    "id": "51589"
+  },
+  {
+    "latitude": "31.3",
+    "longitude": "72.38333",
+    "mass": "5900",
+    "name": "Jhung",
+    "year": "1873-01-01T00:00:00",
+    "id": "12085"
+  },
+  {
+    "latitude": "31.91667",
+    "longitude": "104.91667",
+    "mass": "222",
+    "name": "Jiange",
+    "year": "1964-01-01T00:00:00",
+    "id": "12086"
+  },
+  {
+    "latitude": "30.80833",
+    "longitude": "109.5",
+    "mass": "600000",
+    "name": "Jianshi",
+    "year": "1890-01-01T00:00:00",
+    "id": "12087"
+  },
+  {
+    "latitude": "44.05",
+    "longitude": "126.16667",
+    "mass": "4000000",
+    "name": "Jilin",
+    "year": "1976-01-01T00:00:00",
+    "id": "12171"
+  },
+  {
+    "latitude": "22.68",
+    "longitude": "70.31333",
+    "mass": "100",
+    "name": "Jodiya",
+    "year": "2006-01-01T00:00:00",
+    "id": "47362"
+  },
+  {
+    "latitude": "55.7",
+    "longitude": "24.4",
+    "mass": "30",
+    "name": "Jodzie",
+    "year": "1877-01-01T00:00:00",
+    "id": "12173"
+  },
+  {
+    "latitude": "40.35",
+    "longitude": "-104.9",
+    "mass": "40300",
+    "name": "Johnstown",
+    "year": "1924-01-01T00:00:00",
+    "id": "12198"
+  },
+  {
+    "latitude": "-11.85",
+    "longitude": "15.83333",
+    "mass": "483",
+    "name": "Jolomba",
+    "year": "1974-01-01T00:00:00",
+    "id": "12199"
+  },
+  {
+    "latitude": "45.43333",
+    "longitude": "-0.45",
+    "mass": "5000",
+    "name": "Jonzac",
+    "year": "1819-01-01T00:00:00",
+    "id": "12202"
+  },
+  {
+    "latitude": "35.5",
+    "longitude": "115.41667",
+    "mass": "100000",
+    "name": "Juancheng",
+    "year": "1997-01-01T00:00:00",
+    "id": "12203"
+  },
+  {
+    "latitude": "12.85",
+    "longitude": "76.8",
+    "mass": "680",
+    "name": "Judesegeri",
+    "year": "1876-01-01T00:00:00",
+    "id": "12207"
+  },
+  {
+    "latitude": "-7.71667",
+    "longitude": "111.2",
+    "mass": "32490",
+    "name": "Jumapalo",
+    "year": "1984-01-01T00:00:00",
+    "id": "12209"
+  },
+  {
+    "latitude": "35.2",
+    "longitude": "118.8",
+    "mass": "950",
+    "name": "Junan",
+    "year": "1976-01-01T00:00:00",
+    "id": "12210"
+  },
+  {
+    "latitude": "38.74028",
+    "longitude": "-7.27",
+    "mass": "25250",
+    "name": "Juromenha",
+    "year": "1968-01-01T00:00:00",
+    "id": "12213"
+  },
+  {
+    "latitude": "44.71667",
+    "longitude": "4.3",
+    "mass": "91000",
+    "name": "Juvinas",
+    "year": "1821-01-01T00:00:00",
+    "id": "12214"
+  },
+  {
+    "latitude": "47.35",
+    "longitude": "21.3",
+    "mass": "3000",
+    "name": "Kaba",
+    "year": "1857-01-01T00:00:00",
+    "id": "12218"
+  },
+  {
+    "latitude": "11.85",
+    "longitude": "8.21667",
+    "mass": "13400",
+    "name": "Kabo",
+    "year": "1971-01-01T00:00:00",
+    "id": "12220"
+  },
+  {
+    "latitude": "27.08333",
+    "longitude": "78.33333",
+    "mass": "89",
+    "name": "Kadonah",
+    "year": "1822-01-01T00:00:00",
+    "id": "12221"
+  },
+  {
+    "latitude": "27.25",
+    "longitude": "79.96667",
+    "mass": "230",
+    "name": "Kaee",
+    "year": "1838-01-01T00:00:00",
+    "id": "12222"
+  },
+  {
+    "latitude": "49.86667",
+    "longitude": "30.83333",
+    "mass": "1900",
+    "name": "Kagarlyk",
+    "year": "1908-01-01T00:00:00",
+    "id": "12227"
+  },
+  {
+    "latitude": "15.0",
+    "longitude": "48.3",
+    "mass": "2000",
+    "name": "Kaidun",
+    "year": "1980-01-01T00:00:00",
+    "id": "12228"
+  },
+  {
+    "latitude": "55.43333",
+    "longitude": "53.25",
+    "mass": "200000",
+    "name": "Kainsaz",
+    "year": "1937-01-01T00:00:00",
+    "id": "12229"
+  },
+  {
+    "latitude": "12.38333",
+    "longitude": "78.51667",
+    "mass": "350",
+    "name": "Kakangari",
+    "year": "1890-01-01T00:00:00",
+    "id": "12230"
+  },
+  {
+    "latitude": "45.13333",
+    "longitude": "21.66667",
+    "mass": "577",
+    "name": "Kakowa",
+    "year": "1858-01-01T00:00:00",
+    "id": "12231"
+  },
+  {
+    "latitude": "-6.83333",
+    "longitude": "29.5",
+    "mass": "950",
+    "name": "Kalaba",
+    "year": "1951-01-01T00:00:00",
+    "id": "12232"
+  },
+  {
+    "latitude": "17.83333",
+    "longitude": "73.98333",
+    "mass": "4500",
+    "name": "Kalumbi",
+    "year": "1879-01-01T00:00:00",
+    "id": "12236"
+  },
+  {
+    "latitude": "26.03333",
+    "longitude": "81.46667",
+    "mass": "2770",
+    "name": "Kamalpur",
+    "year": "1942-01-01T00:00:00",
+    "id": "12238"
+  },
+  {
+    "latitude": "36.04167",
+    "longitude": "139.95667",
+    "mass": "448",
+    "name": "Kamiomi",
+    "year": "1913-01-01T00:00:00",
+    "id": "12240"
+  },
+  {
+    "latitude": "14.18333",
+    "longitude": "75.8",
+    "mass": "1293",
+    "name": "Kamsagar",
+    "year": "1902-01-01T00:00:00",
+    "id": "12241"
+  },
+  {
+    "latitude": "31.6",
+    "longitude": "65.78333",
+    "mass": "299",
+    "name": "Kandahar (Afghanistan)",
+    "year": "1959-01-01T00:00:00",
+    "id": "12243"
+  },
+  {
+    "latitude": "-7.0",
+    "longitude": "115.5",
+    "mass": "1630",
+    "name": "Kangean",
+    "year": "1908-01-01T00:00:00",
+    "id": "12245"
+  },
+  {
+    "latitude": "32.08333",
+    "longitude": "76.3",
+    "mass": "400",
+    "name": "Kangra Valley",
+    "year": "1897-01-01T00:00:00",
+    "id": "12246"
+  },
+  {
+    "latitude": "4.7",
+    "longitude": "33.63333",
+    "mass": "11355",
+    "name": "Kapoeta",
+    "year": "1942-01-01T00:00:00",
+    "id": "12251"
+  },
+  {
+    "latitude": "20.33916",
+    "longitude": "73.22329",
+    "mass": "1600",
+    "name": "Kaprada",
+    "year": "2004-01-01T00:00:00",
+    "id": "47357"
+  },
+  {
+    "latitude": "42.45",
+    "longitude": "73.36667",
+    "mass": "3500",
+    "name": "Kaptal-Aryk",
+    "year": "1937-01-01T00:00:00",
+    "id": "12253"
+  },
+  {
+    "latitude": "47.21667",
+    "longitude": "81.01667",
+    "mass": "3000",
+    "name": "Karakol",
+    "year": "1840-01-01T00:00:00",
+    "id": "12256"
+  },
+  {
+    "latitude": "-3.5",
+    "longitude": "35.58333",
+    "mass": "2220",
+    "name": "Karatu",
+    "year": "1963-01-01T00:00:00",
+    "id": "12258"
+  },
+  {
+    "latitude": "12.9",
+    "longitude": "7.15",
+    "mass": "180",
+    "name": "Karewar",
+    "year": "1949-01-01T00:00:00",
+    "id": "12260"
+  },
+  {
+    "latitude": "27.8",
+    "longitude": "67.16667",
+    "mass": "22000",
+    "name": "Karkh",
+    "year": "1905-01-01T00:00:00",
+    "id": "12262"
+  },
+  {
+    "latitude": "31.58333",
+    "longitude": "71.6",
+    "mass": "2950",
+    "name": "Karloowala",
+    "year": "1955-01-01T00:00:00",
+    "id": "12263"
+  },
+  {
+    "latitude": "-35.08333",
+    "longitude": "139.91667",
+    "mass": "41730",
+    "name": "Karoonda",
+    "year": "1930-01-01T00:00:00",
+    "id": "12264"
+  },
+  {
+    "latitude": "35.36667",
+    "longitude": "136.76667",
+    "mass": "710",
+    "name": "Kasamatsu",
+    "year": "1938-01-01T00:00:00",
+    "id": "12266"
+  },
+  {
+    "latitude": "29.58333",
+    "longitude": "77.58333",
+    "mass": "16820",
+    "name": "Kasauli",
+    "year": "2003-01-01T00:00:00",
+    "id": "30740"
+  },
+  {
+    "latitude": "11.33333",
+    "longitude": "10.08333",
+    "mass": "1500",
+    "name": "Katagum",
+    "year": "1999-01-01T00:00:00",
+    "id": "35465"
+  },
+  {
+    "latitude": "25.14333",
+    "longitude": "75.81333",
+    "mass": "6800",
+    "name": "Kavarpura",
+    "year": "2006-01-01T00:00:00",
+    "id": "47351"
+  },
+  {
+    "latitude": "39.26333",
+    "longitude": "31.78",
+    "mass": "85000",
+    "name": "Kayakent",
+    "year": "1961-01-01T00:00:00",
+    "id": "12268"
+  },
+  {
+    "latitude": "-7.75",
+    "longitude": "112.01667",
+    "mass": "3300",
+    "name": "Kediri",
+    "year": "1940-01-01T00:00:00",
+    "id": "12270"
+  },
+  {
+    "latitude": "36.54194",
+    "longitude": "29.41822",
+    "mass": "5760",
+    "name": "Kemer",
+    "year": "2008-01-01T00:00:00",
+    "id": "53654"
+  },
+  {
+    "latitude": "29.45",
+    "longitude": "-96.0",
+    "mass": "6937",
+    "name": "Kendleton",
+    "year": "1939-01-01T00:00:00",
+    "id": "12275"
+  },
+  {
+    "latitude": "20.4625",
+    "longitude": "86.70278",
+    "mass": "6669.2",
+    "name": "Kendrapara",
+    "year": "2003-01-01T00:00:00",
+    "id": "12276"
+  },
+  {
+    "latitude": "48.4",
+    "longitude": "-3.3",
+    "mass": "5000",
+    "name": "Kerilis",
+    "year": "1874-01-01T00:00:00",
+    "id": "12282"
+  },
+  {
+    "latitude": "48.11667",
+    "longitude": "-3.08333",
+    "mass": "80000",
+    "name": "Kernouve",
+    "year": "1869-01-01T00:00:00",
+    "id": "12284"
+  },
+  {
+    "latitude": "38.98333",
+    "longitude": "141.61667",
+    "mass": "135000",
+    "name": "Kesen",
+    "year": "1850-01-01T00:00:00",
+    "id": "12286"
+  },
+  {
+    "latitude": "29.53333",
+    "longitude": "72.3",
+    "mass": "13600",
+    "name": "Khairpur",
+    "year": "1873-01-01T00:00:00",
+    "id": "12288"
+  },
+  {
+    "latitude": "25.55",
+    "longitude": "83.11667",
+    "mass": "3698",
+    "name": "Khanpur",
+    "year": "1932-01-01T00:00:00",
+    "id": "12289"
+  },
+  {
+    "latitude": "50.625",
+    "longitude": "35.075",
+    "mass": "1500",
+    "name": "Kharkov",
+    "year": "1787-01-01T00:00:00",
+    "id": "12291"
+  },
+  {
+    "latitude": "26.95",
+    "longitude": "77.88333",
+    "mass": "450",
+    "name": "Kheragur",
+    "year": "1860-01-01T00:00:00",
+    "id": "12294"
+  },
+  {
+    "latitude": "28.01667",
+    "longitude": "75.81667",
+    "mass": "100",
+    "name": "Khetri",
+    "year": "1867-01-01T00:00:00",
+    "id": "12296"
+  },
+  {
+    "latitude": "56.75",
+    "longitude": "75.33333",
+    "mass": "6109",
+    "name": "Khmelevka",
+    "year": "1929-01-01T00:00:00",
+    "id": "12297"
+  },
+  {
+    "latitude": "25.1",
+    "longitude": "81.53333",
+    "mass": "9700",
+    "name": "Khohar",
+    "year": "1910-01-01T00:00:00",
+    "id": "12298"
+  },
+  {
+    "latitude": "16.0",
+    "longitude": "36.0",
+    "mass": "3200",
+    "name": "Khor Temiki",
+    "year": "1932-01-01T00:00:00",
+    "id": "12299"
+  },
+  {
+    "latitude": "14.0",
+    "longitude": "28.0",
+    "mass": "100000",
+    "name": "Kidairat",
+    "year": "1983-01-01T00:00:00",
+    "id": "12300"
+  },
+  {
+    "latitude": "54.4",
+    "longitude": "10.15",
+    "mass": "737.6",
+    "name": "Kiel",
+    "year": "1962-01-01T00:00:00",
+    "id": "12301"
+  },
+  {
+    "latitude": "16.58333",
+    "longitude": "-11.33333",
+    "mass": "1500",
+    "name": "Kiffa",
+    "year": "1970-01-01T00:00:00",
+    "id": "12303"
+  },
+  {
+    "latitude": "36.85",
+    "longitude": "138.38333",
+    "mass": "331",
+    "name": "Kijima (1906)",
+    "year": "1906-01-01T00:00:00",
+    "id": "12305"
+  },
+  {
+    "latitude": "55.0",
+    "longitude": "34.0",
+    "mass": "195",
+    "name": "Kikino",
+    "year": "1809-01-01T00:00:00",
+    "id": "12306"
+  },
+  {
+    "latitude": "12.76667",
+    "longitude": "9.8",
+    "mass": "19000",
+    "name": "Kilabo",
+    "year": "2002-01-01T00:00:00",
+    "id": "12307"
+  },
+  {
+    "latitude": "43.58333",
+    "longitude": "-89.6",
+    "mass": "772",
+    "name": "Kilbourn",
+    "year": "1911-01-01T00:00:00",
+    "id": "12308"
+  },
+  {
+    "latitude": "54.66667",
+    "longitude": "-7.66667",
+    "mass": "140",
+    "name": "Killeter",
+    "year": "1844-01-01T00:00:00",
+    "id": "12309"
+  },
+  {
+    "latitude": "11.63333",
+    "longitude": "24.68333",
+    "mass": "67.400000000000006",
+    "name": "Kingai",
+    "year": "1967-01-01T00:00:00",
+    "id": "12316"
+  },
+  {
+    "latitude": "30.75",
+    "longitude": "-95.95",
+    "mass": "97.7",
+    "name": "Kirbyville",
+    "year": "1906-01-01T00:00:00",
+    "id": "12321"
+  },
+  {
+    "latitude": "48.16667",
+    "longitude": "22.30833",
+    "mass": "1550",
+    "name": "Kisvarsány",
+    "year": "1914-01-01T00:00:00",
+    "id": "12325"
+  },
+  {
+    "latitude": "43.38333",
+    "longitude": "-80.38333",
+    "mass": "202.6",
+    "name": "Kitchener",
+    "year": "1998-01-01T00:00:00",
+    "id": "12326"
+  },
+  {
+    "latitude": "51.6",
+    "longitude": "10.8",
+    "mass": "3250",
+    "name": "Klein-Wenden",
+    "year": "1843-01-01T00:00:00",
+    "id": "12332"
+  },
+  {
+    "latitude": "48.9",
+    "longitude": "22.4",
+    "mass": "500000",
+    "name": "Knyahinya",
+    "year": "1866-01-01T00:00:00",
+    "id": "12335"
+  },
+  {
+    "latitude": "34.73333",
+    "longitude": "135.16667",
+    "mass": "136",
+    "name": "Kobe",
+    "year": "1999-01-01T00:00:00",
+    "id": "12336"
+  },
+  {
+    "latitude": "34.3",
+    "longitude": "133.95",
+    "mass": "11510",
+    "name": "Kokubunji",
+    "year": "1986-01-01T00:00:00",
+    "id": "12342"
+  },
+  {
+    "latitude": "35.73333",
+    "longitude": "139.75",
+    "mass": "238",
+    "name": "Komagome",
+    "year": "1926-01-01T00:00:00",
+    "id": "12343"
+  },
+  {
+    "latitude": "42.51667",
+    "longitude": "26.16667",
+    "mass": "90",
+    "name": "Konovo",
+    "year": "1931-01-01T00:00:00",
+    "id": "12344"
+  },
+  {
+    "latitude": "48.76367",
+    "longitude": "21.17633",
+    "mass": "4300",
+    "name": "Košice",
+    "year": "2010-01-01T00:00:00",
+    "id": "53810"
+  },
+  {
+    "latitude": "49.32694",
+    "longitude": "7.46472",
+    "mass": "16500",
+    "name": "Krähenberg",
+    "year": "1869-01-01T00:00:00",
+    "id": "12353"
+  },
+  {
+    "latitude": "54.03333",
+    "longitude": "40.9",
+    "mass": "2440",
+    "name": "Krasnoi-Ugol",
+    "year": "1829-01-01T00:00:00",
+    "id": "12355"
+  },
+  {
+    "latitude": "54.33333",
+    "longitude": "56.08333",
+    "mass": "4000",
+    "name": "Krasnyi Klyuch",
+    "year": "1946-01-01T00:00:00",
+    "id": "12357"
+  },
+  {
+    "latitude": "56.8",
+    "longitude": "77.0",
+    "mass": "845.2",
+    "name": "Krutikha",
+    "year": "1906-01-01T00:00:00",
+    "id": "12363"
+  },
+  {
+    "latitude": "47.83333",
+    "longitude": "30.76667",
+    "mass": "50000",
+    "name": "Krymka",
+    "year": "1946-01-01T00:00:00",
+    "id": "12364"
+  },
+  {
+    "latitude": "51.15",
+    "longitude": "31.7",
+    "mass": "2250",
+    "name": "Kukschin",
+    "year": "1938-01-01T00:00:00",
+    "id": "12368"
+  },
+  {
+    "latitude": "30.73111",
+    "longitude": "66.80222",
+    "mass": "453.6",
+    "name": "Kulak",
+    "year": "1961-01-01T00:00:00",
+    "id": "12369"
+  },
+  {
+    "latitude": "50.75",
+    "longitude": "33.5",
+    "mass": "6000",
+    "name": "Kuleschovka",
+    "year": "1811-01-01T00:00:00",
+    "id": "12370"
+  },
+  {
+    "latitude": "41.11667",
+    "longitude": "45.0",
+    "mass": "3719",
+    "name": "Kulp",
+    "year": "1906-01-01T00:00:00",
+    "id": "12373"
+  },
+  {
+    "latitude": "55.78333",
+    "longitude": "61.36667",
+    "mass": "200000",
+    "name": "Kunashak",
+    "year": "1949-01-01T00:00:00",
+    "id": "12377"
+  },
+  {
+    "latitude": "42.25",
+    "longitude": "59.2",
+    "mass": "1100000",
+    "name": "Kunya-Urgench",
+    "year": "1998-01-01T00:00:00",
+    "id": "12379"
+  },
+  {
+    "latitude": "37.05",
+    "longitude": "138.38333",
+    "mass": "4460",
+    "name": "Kushiike",
+    "year": "1920-01-01T00:00:00",
+    "id": "12381"
+  },
+  {
+    "latitude": "29.68333",
+    "longitude": "78.38333",
+    "mass": "5",
+    "name": "Kusiali",
+    "year": "1860-01-01T00:00:00",
+    "id": "12382"
+  },
+  {
+    "latitude": "44.51667",
+    "longitude": "39.3",
+    "mass": "23",
+    "name": "Kutais",
+    "year": "1977-01-01T00:00:00",
+    "id": "12383"
+  },
+  {
+    "latitude": "10.83333",
+    "longitude": "76.03333",
+    "mass": "45000",
+    "name": "Kuttippuram",
+    "year": "1914-01-01T00:00:00",
+    "id": "12384"
+  },
+  {
+    "latitude": "55.2",
+    "longitude": "75.33333",
+    "mass": "4047",
+    "name": "Kuznetzovo",
+    "year": "1932-01-01T00:00:00",
+    "id": "12385"
+  },
+  {
+    "latitude": "32.03333",
+    "longitude": "130.63333",
+    "mass": "45000",
+    "name": "Kyushu",
+    "year": "1886-01-01T00:00:00",
+    "id": "12390"
+  },
+  {
+    "latitude": "47.08333",
+    "longitude": "1.75",
+    "mass": "2800",
+    "name": "La Bécasse",
+    "year": "1879-01-01T00:00:00",
+    "id": "12392"
+  },
+  {
+    "latitude": "20.66667",
+    "longitude": "-101.28333",
+    "mass": "399",
+    "name": "La Charca",
+    "year": "1878-01-01T00:00:00",
+    "id": "12394"
+  },
+  {
+    "latitude": "-37.33333",
+    "longitude": "-61.53333",
+    "mass": "2000",
+    "name": "La Colina",
+    "year": "1924-01-01T00:00:00",
+    "id": "12395"
+  },
+  {
+    "latitude": "-31.23333",
+    "longitude": "-58.16667",
+    "mass": "45000",
+    "name": "La Criolla",
+    "year": "1985-01-01T00:00:00",
+    "id": "12396"
+  },
+  {
+    "latitude": "44.28333",
+    "longitude": "5.58333",
+    "mass": "3833",
+    "name": "Laborel",
+    "year": "1871-01-01T00:00:00",
+    "id": "12408"
+  },
+  {
+    "latitude": "26.78333",
+    "longitude": "82.71667",
+    "mass": "900",
+    "name": "Lahrauli",
+    "year": "1955-01-01T00:00:00",
+    "id": "12433"
+  },
+  {
+    "latitude": "48.76667",
+    "longitude": "0.63333",
+    "mass": "37000",
+    "name": "L'Aigle",
+    "year": "1803-01-01T00:00:00",
+    "id": "12434"
+  },
+  {
+    "latitude": "21.86667",
+    "longitude": "76.03333",
+    "mass": "212.5",
+    "name": "Lakangaon",
+    "year": "1910-01-01T00:00:00",
+    "id": "12435"
+  },
+  {
+    "latitude": "24.45",
+    "longitude": "78.56667",
+    "mass": "372",
+    "name": "Lalitpur",
+    "year": "1887-01-01T00:00:00",
+    "id": "12451"
+  },
+  {
+    "latitude": "47.7",
+    "longitude": "1.06667",
+    "mass": "51700",
+    "name": "Lancé",
+    "year": "1872-01-01T00:00:00",
+    "id": "12455"
+  },
+  {
+    "latitude": "43.75",
+    "longitude": "5.11667",
+    "mass": "7000",
+    "name": "Lancon",
+    "year": "1897-01-01T00:00:00",
+    "id": "12456"
+  },
+  {
+    "latitude": "58.85",
+    "longitude": "16.73333",
+    "mass": "2300",
+    "name": "Långhalsen",
+    "year": "1947-01-01T00:00:00",
+    "id": "12461"
+  },
+  {
+    "latitude": "46.24167",
+    "longitude": "126.19611",
+    "mass": "1282",
+    "name": "Lanxi",
+    "year": "1986-01-01T00:00:00",
+    "id": "12464"
+  },
+  {
+    "latitude": "47.75",
+    "longitude": "16.23333",
+    "mass": "7000",
+    "name": "Lanzenkirchen",
+    "year": "1925-01-01T00:00:00",
+    "id": "12465"
+  },
+  {
+    "latitude": "33.13333",
+    "longitude": "115.16667",
+    "mass": "14250",
+    "name": "Laochenzhen",
+    "year": "1987-01-01T00:00:00",
+    "id": "12466"
+  },
+  {
+    "latitude": "51.9",
+    "longitude": "-1.11667",
+    "mass": "1060",
+    "name": "Launton",
+    "year": "1830-01-01T00:00:00",
+    "id": "12740"
+  },
+  {
+    "latitude": "52.45",
+    "longitude": "51.56667",
+    "mass": "800",
+    "name": "Lavrentievka",
+    "year": "1938-01-01T00:00:00",
+    "id": "12743"
+  },
+  {
+    "latitude": "47.16667",
+    "longitude": "0.43333",
+    "mass": "3000",
+    "name": "Le Pressoir",
+    "year": "1845-01-01T00:00:00",
+    "id": "12748"
+  },
+  {
+    "latitude": "48.53333",
+    "longitude": "-0.86667",
+    "mass": "780",
+    "name": "Le Teilleul",
+    "year": "1845-01-01T00:00:00",
+    "id": "12749"
+  },
+  {
+    "latitude": "35.88333",
+    "longitude": "-99.33333",
+    "mass": "51500",
+    "name": "Leedey",
+    "year": "1943-01-01T00:00:00",
+    "id": "12755"
+  },
+  {
+    "latitude": "-25.66667",
+    "longitude": "28.36667",
+    "mass": "460",
+    "name": "Leeuwfontein",
+    "year": "1912-01-01T00:00:00",
+    "id": "12756"
+  },
+  {
+    "latitude": "52.66667",
+    "longitude": "-6.96667",
+    "mass": "271.39999999999998",
+    "name": "Leighlinbridge",
+    "year": "1999-01-01T00:00:00",
+    "id": "12759"
+  },
+  {
+    "latitude": "34.58333",
+    "longitude": "-87.5",
+    "mass": "877",
+    "name": "Leighton",
+    "year": "1907-01-01T00:00:00",
+    "id": "12760"
+  },
+  {
+    "latitude": "52.26667",
+    "longitude": "32.85",
+    "mass": "700",
+    "name": "Leonovka",
+    "year": "1900-01-01T00:00:00",
+    "id": "12765"
+  },
+  {
+    "latitude": "48.35",
+    "longitude": "3.25",
+    "mass": "125",
+    "name": "Les Ormes",
+    "year": "1857-01-01T00:00:00",
+    "id": "12769"
+  },
+  {
+    "latitude": "50.36667",
+    "longitude": "4.73333",
+    "mass": "2000",
+    "name": "Lesves",
+    "year": "1896-01-01T00:00:00",
+    "id": "12772"
+  },
+  {
+    "latitude": "-26.15",
+    "longitude": "26.18333",
+    "mass": "4000",
+    "name": "Lichtenberg",
+    "year": "1973-01-01T00:00:00",
+    "id": "14646"
+  },
+  {
+    "latitude": "56.65",
+    "longitude": "15.86667",
+    "mass": "6862",
+    "name": "Lillaverke",
+    "year": "1930-01-01T00:00:00",
+    "id": "14650"
+  },
+  {
+    "latitude": "52.56667",
+    "longitude": "-8.78333",
+    "mass": "50000",
+    "name": "Limerick",
+    "year": "1813-01-01T00:00:00",
+    "id": "14652"
+  },
+  {
+    "latitude": "52.75",
+    "longitude": "12.9",
+    "mass": "1862",
+    "name": "Linum",
+    "year": "1854-01-01T00:00:00",
+    "id": "14655"
+  },
+  {
+    "latitude": "31.63333",
+    "longitude": "118.98333",
+    "mass": "498",
+    "name": "Lishui",
+    "year": "1978-01-01T00:00:00",
+    "id": "14659"
+  },
+  {
+    "latitude": "50.2",
+    "longitude": "14.85",
+    "mass": "12800",
+    "name": "Lissa",
+    "year": "1808-01-01T00:00:00",
+    "id": "14661"
+  },
+  {
+    "latitude": "37.91667",
+    "longitude": "-92.08333",
+    "mass": "491",
+    "name": "Little Piney",
+    "year": "1839-01-01T00:00:00",
+    "id": "14664"
+  },
+  {
+    "latitude": "56.0",
+    "longitude": "26.43333",
+    "mass": "5213",
+    "name": "Lixna",
+    "year": "1820-01-01T00:00:00",
+    "id": "14670"
+  },
+  {
+    "latitude": "29.53333",
+    "longitude": "71.8",
+    "mass": "1000",
+    "name": "Lodran",
+    "year": "1868-01-01T00:00:00",
+    "id": "14675"
+  },
+  {
+    "latitude": "26.96556",
+    "longitude": "72.62667",
+    "mass": "40000",
+    "name": "Lohawat",
+    "year": "1994-01-01T00:00:00",
+    "id": "14678"
+  },
+  {
+    "latitude": "38.70066",
+    "longitude": "-77.21163",
+    "mass": "329.7",
+    "name": "Lorton",
+    "year": "2010-01-01T00:00:00",
+    "id": "52843"
+  },
+  {
+    "latitude": "38.0",
+    "longitude": "-0.83333",
+    "mass": "25",
+    "name": "Los Martinez",
+    "year": "1894-01-01T00:00:00",
+    "id": "14708"
+  },
+  {
+    "latitude": "36.00833",
+    "longitude": "-95.15",
+    "mass": "17000",
+    "name": "Lost City",
+    "year": "1970-01-01T00:00:00",
+    "id": "14711"
+  },
+  {
+    "latitude": "38.25",
+    "longitude": "-85.75",
+    "mass": "1300",
+    "name": "Louisville",
+    "year": "1977-01-01T00:00:00",
+    "id": "14716"
+  },
+  {
+    "latitude": "52.0",
+    "longitude": "19.91667",
+    "mass": "59000",
+    "name": "Łowicz",
+    "year": "1935-01-01T00:00:00",
+    "id": "14718"
+  },
+  {
+    "latitude": "24.95",
+    "longitude": "75.15",
+    "mass": "9241",
+    "name": "Lua",
+    "year": "1926-01-01T00:00:00",
+    "id": "14721"
+  },
+  {
+    "latitude": "47.85",
+    "longitude": "0.48333",
+    "mass": "3500",
+    "name": "Lucé",
+    "year": "1768-01-01T00:00:00",
+    "id": "14724"
+  },
+  {
+    "latitude": "32.03333",
+    "longitude": "-84.76667",
+    "mass": "340",
+    "name": "Lumpkin",
+    "year": "1869-01-01T00:00:00",
+    "id": "14753"
+  },
+  {
+    "latitude": "24.8",
+    "longitude": "103.3",
+    "mass": "2520",
+    "name": "Lunan",
+    "year": "1980-01-01T00:00:00",
+    "id": "14754"
+  },
+  {
+    "latitude": "56.21667",
+    "longitude": "13.03333",
+    "mass": "11000",
+    "name": "Lundsgård",
+    "year": "1889-01-01T00:00:00",
+    "id": "14755"
+  },
+  {
+    "latitude": "61.2",
+    "longitude": "27.7",
+    "mass": "885",
+    "name": "Luotolax",
+    "year": "1813-01-01T00:00:00",
+    "id": "14756"
+  },
+  {
+    "latitude": "46.21667",
+    "longitude": "5.0",
+    "mass": "14000",
+    "name": "Luponnas",
+    "year": "1753-01-01T00:00:00",
+    "id": "14757"
+  },
+  {
+    "latitude": "-7.21667",
+    "longitude": "29.43333",
+    "name": "Lusaka",
+    "year": "1951-01-01T00:00:00",
+    "id": "14759"
+  },
+  {
+    "latitude": "19.0",
+    "longitude": "97.0",
+    "mass": "540",
+    "name": "Mabwe-Khoywa",
+    "year": "1937-01-01T00:00:00",
+    "id": "14764"
+  },
+  {
+    "latitude": "-5.2",
+    "longitude": "-36.66667",
+    "mass": "1500",
+    "name": "Macau",
+    "year": "1836-01-01T00:00:00",
+    "id": "15370"
+  },
+  {
+    "latitude": "-15.21222",
+    "longitude": "35.24222",
+    "mass": "93200",
+    "name": "Machinga",
+    "year": "1981-01-01T00:00:00",
+    "id": "15371"
+  },
+  {
+    "latitude": "-28.83333",
+    "longitude": "31.95",
+    "mass": "1995",
+    "name": "Macibini",
+    "year": "1936-01-01T00:00:00",
+    "id": "15372"
+  },
+  {
+    "latitude": "25.91667",
+    "longitude": "86.36667",
+    "mass": "1000",
+    "name": "Madhipura",
+    "year": "1950-01-01T00:00:00",
+    "id": "15379"
+  },
+  {
+    "latitude": "-7.75",
+    "longitude": "111.53333",
+    "mass": "400",
+    "name": "Madiun",
+    "year": "1935-01-01T00:00:00",
+    "id": "15380"
+  },
+  {
+    "latitude": "40.41667",
+    "longitude": "-3.71667",
+    "mass": "400",
+    "name": "Madrid",
+    "year": "1896-01-01T00:00:00",
+    "id": "15382"
+  },
+  {
+    "latitude": "-26.16667",
+    "longitude": "-49.93333",
+    "mass": "600",
+    "name": "Mafra",
+    "year": "1941-01-01T00:00:00",
+    "id": "15383"
+  },
+  {
+    "latitude": "37.86667",
+    "longitude": "27.51667",
+    "mass": "5000",
+    "name": "Magnesia",
+    "year": "1899-01-01T00:00:00",
+    "id": "15386"
+  },
+  {
+    "latitude": "-19.48333",
+    "longitude": "31.65",
+    "mass": "666.6",
+    "name": "Magombedze",
+    "year": "1990-01-01T00:00:00",
+    "id": "15387"
+  },
+  {
+    "latitude": "27.66667",
+    "longitude": "95.78333",
+    "mass": "70500",
+    "name": "Mahadevpur",
+    "year": "2007-01-01T00:00:00",
+    "id": "47361"
+  },
+  {
+    "latitude": "12.83333",
+    "longitude": "9.38333",
+    "mass": "4629",
+    "name": "Maigatari-Danduma",
+    "year": "2004-01-01T00:00:00",
+    "id": "30751"
+  },
+  {
+    "latitude": "32.21667",
+    "longitude": "-104.0",
+    "mass": "150",
+    "name": "Malaga",
+    "year": "1933-01-01T00:00:00",
+    "id": "15393"
+  },
+  {
+    "latitude": "9.5",
+    "longitude": "31.75",
+    "mass": "2000",
+    "name": "Malakal",
+    "year": "1970-01-01T00:00:00",
+    "id": "15394"
+  },
+  {
+    "latitude": "-3.13333",
+    "longitude": "33.51667",
+    "mass": "470",
+    "name": "Malampaka",
+    "year": "1930-01-01T00:00:00",
+    "id": "15395"
+  },
+  {
+    "latitude": "-28.93333",
+    "longitude": "-63.23333",
+    "name": "Malotas",
+    "year": "1931-01-01T00:00:00",
+    "id": "15397"
+  },
+  {
+    "latitude": "-29.45",
+    "longitude": "26.76667",
+    "mass": "807",
+    "name": "Malvern",
+    "year": "1933-01-01T00:00:00",
+    "id": "15400"
+  },
+  {
+    "latitude": "45.21667",
+    "longitude": "62.08333",
+    "mass": "1000",
+    "name": "Mamra Springs",
+    "year": "1927-01-01T00:00:00",
+    "id": "15401"
+  },
+  {
+    "latitude": "23.05",
+    "longitude": "86.7",
+    "mass": "1700",
+    "name": "Manbhoom",
+    "year": "1863-01-01T00:00:00",
+    "id": "15402"
+  },
+  {
+    "latitude": "20.96667",
+    "longitude": "76.1",
+    "mass": "50",
+    "name": "Manegaon",
+    "year": "1843-01-01T00:00:00",
+    "id": "15403"
+  },
+  {
+    "latitude": "-17.65",
+    "longitude": "31.6",
+    "mass": "22300",
+    "name": "Mangwendi",
+    "year": "1934-01-01T00:00:00",
+    "id": "15405"
+  },
+  {
+    "latitude": "45.81667",
+    "longitude": "44.63333",
+    "mass": "3555",
+    "name": "Manych",
+    "year": "1951-01-01T00:00:00",
+    "id": "15409"
+  },
+  {
+    "latitude": "34.23333",
+    "longitude": "72.08333",
+    "mass": "4500",
+    "name": "Mardan",
+    "year": "1948-01-01T00:00:00",
+    "id": "15414"
+  },
+  {
+    "latitude": "42.71667",
+    "longitude": "-99.38333",
+    "mass": "340",
+    "name": "Mariaville",
+    "year": "1898-01-01T00:00:00",
+    "id": "15419"
+  },
+  {
+    "latitude": "54.76183",
+    "longitude": "11.46745",
+    "mass": "25.81",
+    "name": "Maribo",
+    "year": "2009-01-01T00:00:00",
+    "id": "48973"
+  },
+  {
+    "latitude": "4.66667",
+    "longitude": "29.25",
+    "mass": "3200",
+    "name": "Maridi",
+    "year": "1941-01-01T00:00:00",
+    "id": "15421"
+  },
+  {
+    "latitude": "-22.25",
+    "longitude": "-49.93333",
+    "mass": "2500",
+    "name": "Marilia",
+    "year": "1971-01-01T00:00:00",
+    "id": "15422"
+  },
+  {
+    "latitude": "41.9",
+    "longitude": "-91.6",
+    "mass": "28400",
+    "name": "Marion (Iowa)",
+    "year": "1847-01-01T00:00:00",
+    "id": "15424"
+  },
+  {
+    "latitude": "61.5",
+    "longitude": "30.5",
+    "mass": "45000",
+    "name": "Marjalahti",
+    "year": "1902-01-01T00:00:00",
+    "id": "15426"
+  },
+  {
+    "latitude": "44.5",
+    "longitude": "0.15",
+    "mass": "3000",
+    "name": "Marmande",
+    "year": "1848-01-01T00:00:00",
+    "id": "15429"
+  },
+  {
+    "latitude": "-14.2",
+    "longitude": "48.1",
+    "mass": "6000",
+    "name": "Maromandia",
+    "year": "2002-01-01T00:00:00",
+    "id": "15430"
+  },
+  {
+    "latitude": "35.8",
+    "longitude": "-84.1",
+    "mass": "1443",
+    "name": "Maryville",
+    "year": "1983-01-01T00:00:00",
+    "id": "15436"
+  },
+  {
+    "latitude": "45.36667",
+    "longitude": "1.86667",
+    "mass": "1000",
+    "name": "Mascombes",
+    "year": "1836-01-01T00:00:00",
+    "id": "15438"
+  },
+  {
+    "latitude": "0.0",
+    "longitude": "0.0",
+    "mass": "24.54",
+    "name": "Mason Gully",
+    "year": "2010-01-01T00:00:00",
+    "id": "53653"
+  },
+  {
+    "latitude": "48.13333",
+    "longitude": "12.61667",
+    "mass": "1600",
+    "name": "Mässing",
+    "year": "1803-01-01T00:00:00",
+    "id": "15443"
+  },
+  {
+    "latitude": "48.18333",
+    "longitude": "13.13333",
+    "mass": "19000",
+    "name": "Mauerkirchen",
+    "year": "1768-01-01T00:00:00",
+    "id": "15446"
+  },
+  {
+    "latitude": "-20.0",
+    "longitude": "57.0",
+    "mass": "220",
+    "name": "Mauritius",
+    "year": "1801-01-01T00:00:00",
+    "id": "15447"
+  },
+  {
+    "latitude": "8.96667",
+    "longitude": "12.08333",
+    "mass": "4850",
+    "name": "Mayo Belwa",
+    "year": "1974-01-01T00:00:00",
+    "id": "15451"
+  },
+  {
+    "latitude": "24.68333",
+    "longitude": "-101.68333",
+    "mass": "4000",
+    "name": "Mazapil",
+    "year": "1885-01-01T00:00:00",
+    "id": "15453"
+  },
+  {
+    "latitude": "-1.21667",
+    "longitude": "30.0",
+    "mass": "4975",
+    "name": "Maziba",
+    "year": "1942-01-01T00:00:00",
+    "id": "15454"
+  },
+  {
+    "latitude": "1.06667",
+    "longitude": "34.16667",
+    "mass": "150000",
+    "name": "Mbale",
+    "year": "1992-01-01T00:00:00",
+    "id": "15455"
+  },
+  {
+    "latitude": "-27.25",
+    "longitude": "-67.5",
+    "mass": "31",
+    "name": "Medanitos",
+    "year": "1953-01-01T00:00:00",
+    "id": "15467"
+  },
+  {
+    "latitude": "29.01667",
+    "longitude": "77.8",
+    "mass": "22",
+    "name": "Meerut",
+    "year": "1861-01-01T00:00:00",
+    "id": "15469"
+  },
+  {
+    "latitude": "-6.23333",
+    "longitude": "106.88333",
+    "mass": "24750",
+    "name": "Meester-Cornelis",
+    "year": "1915-01-01T00:00:00",
+    "id": "15470"
+  },
+  {
+    "latitude": "53.18333",
+    "longitude": "13.15",
+    "mass": "10500",
+    "name": "Menow",
+    "year": "1862-01-01T00:00:00",
+    "id": "15485"
+  },
+  {
+    "latitude": "46.81867",
+    "longitude": "7.21817",
+    "mass": "28.9",
+    "name": "Menziswyl",
+    "year": "1903-01-01T00:00:00",
+    "id": "15486"
+  },
+  {
+    "latitude": "55.05",
+    "longitude": "12.06667",
+    "mass": "4000",
+    "name": "Mern",
+    "year": "1878-01-01T00:00:00",
+    "id": "15489"
+  },
+  {
+    "latitude": "0.0",
+    "longitude": "37.66667",
+    "mass": "6000",
+    "name": "Meru",
+    "year": "1945-01-01T00:00:00",
+    "id": "15491"
+  },
+  {
+    "latitude": "25.48333",
+    "longitude": "81.98333",
+    "mass": "71400",
+    "name": "Merua",
+    "year": "1920-01-01T00:00:00",
+    "id": "15492"
+  },
+  {
+    "latitude": "38.18333",
+    "longitude": "15.56667",
+    "mass": "2405",
+    "name": "Messina",
+    "year": "1955-01-01T00:00:00",
+    "id": "15495"
+  },
+  {
+    "latitude": "50.58333",
+    "longitude": "11.1",
+    "mass": "870",
+    "name": "Meuselbach",
+    "year": "1897-01-01T00:00:00",
+    "id": "16626"
+  },
+  {
+    "latitude": "45.76667",
+    "longitude": "3.25",
+    "mass": "1300",
+    "name": "Mezel",
+    "year": "1949-01-01T00:00:00",
+    "id": "16627"
+  },
+  {
+    "latitude": "46.5",
+    "longitude": "25.73333",
+    "mass": "22700",
+    "name": "Mezö-Madaras",
+    "year": "1852-01-01T00:00:00",
+    "id": "16628"
+  },
+  {
+    "latitude": "25.9",
+    "longitude": "83.61667",
+    "mass": "350",
+    "name": "Mhow",
+    "year": "1827-01-01T00:00:00",
+    "id": "16629"
+  },
+  {
+    "latitude": "34.8",
+    "longitude": "111.7",
+    "mass": "1100",
+    "name": "Mianchi",
+    "year": "1980-01-01T00:00:00",
+    "id": "16631"
+  },
+  {
+    "latitude": "54.56667",
+    "longitude": "-1.16667",
+    "mass": "1600",
+    "name": "Middlesbrough",
+    "year": "1881-01-01T00:00:00",
+    "id": "16632"
+  },
+  {
+    "latitude": "42.9075",
+    "longitude": "-90.36556",
+    "mass": "3584",
+    "name": "Mifflin",
+    "year": "2010-01-01T00:00:00",
+    "id": "52090"
+  },
+  {
+    "latitude": "48.06667",
+    "longitude": "30.96667",
+    "mass": "8000",
+    "name": "Mighei",
+    "year": "1889-01-01T00:00:00",
+    "id": "16634"
+  },
+  {
+    "latitude": "35.56833",
+    "longitude": "133.22",
+    "mass": "6380",
+    "name": "Mihonoseki",
+    "year": "1992-01-01T00:00:00",
+    "id": "16635"
+  },
+  {
+    "latitude": "46.23333",
+    "longitude": "17.53333",
+    "mass": "224.2",
+    "name": "Mike",
+    "year": "1944-01-01T00:00:00",
+    "id": "16636"
+  },
+  {
+    "latitude": "46.18333",
+    "longitude": "16.1",
+    "mass": "10000",
+    "name": "Milena",
+    "year": "1842-01-01T00:00:00",
+    "id": "16640"
+  },
+  {
+    "latitude": "-26.45",
+    "longitude": "120.36667",
+    "mass": "330000",
+    "name": "Millbillillie",
+    "year": "1960-01-01T00:00:00",
+    "id": "16643"
+  },
+  {
+    "latitude": "35.4",
+    "longitude": "-92.05",
+    "mass": "16700",
+    "name": "Miller (Arkansas)",
+    "year": "1930-01-01T00:00:00",
+    "id": "16645"
+  },
+  {
+    "latitude": "35.07833",
+    "longitude": "136.93333",
+    "mass": "1040",
+    "name": "Minamino",
+    "year": "1632-01-01T00:00:00",
+    "id": "16692"
+  },
+  {
+    "latitude": "37.28333",
+    "longitude": "14.7",
+    "mass": "42",
+    "name": "Mineo",
+    "year": "1826-01-01T00:00:00",
+    "id": "16696"
+  },
+  {
+    "latitude": "32.33333",
+    "longitude": "120.66667",
+    "mass": "5500",
+    "name": "Min-Fan-Zhun",
+    "year": "1952-01-01T00:00:00",
+    "id": "16697"
+  },
+  {
+    "latitude": "47.7",
+    "longitude": "16.6",
+    "mass": "550",
+    "name": "Minnichhof",
+    "year": "1905-01-01T00:00:00",
+    "id": "16700"
+  },
+  {
+    "latitude": "25.68333",
+    "longitude": "83.25",
+    "mass": "8510",
+    "name": "Mirzapur",
+    "year": "1910-01-01T00:00:00",
+    "id": "16701"
+  },
+  {
+    "latitude": "56.66667",
+    "longitude": "23.0",
+    "mass": "5800",
+    "name": "Misshof",
+    "year": "1890-01-01T00:00:00",
+    "id": "16703"
+  },
+  {
+    "latitude": "61.73333",
+    "longitude": "5.93333",
+    "mass": "100.7",
+    "name": "Mjelleim",
+    "year": "1898-01-01T00:00:00",
+    "id": "16707"
+  },
+  {
+    "latitude": "46.8",
+    "longitude": "24.03333",
+    "mass": "300000",
+    "name": "Mocs",
+    "year": "1882-01-01T00:00:00",
+    "id": "16709"
+  },
+  {
+    "latitude": "38.5",
+    "longitude": "-101.1",
+    "mass": "35000",
+    "name": "Modoc (1905)",
+    "year": "1905-01-01T00:00:00",
+    "id": "16711"
+  },
+  {
+    "latitude": "-39.63333",
+    "longitude": "174.4",
+    "mass": "4500",
+    "name": "Mokoia",
+    "year": "1908-01-01T00:00:00",
+    "id": "16713"
+  },
+  {
+    "latitude": "38.11667",
+    "longitude": "-1.16667",
+    "mass": "144000",
+    "name": "Molina",
+    "year": "1858-01-01T00:00:00",
+    "id": "16715"
+  },
+  {
+    "latitude": "-31.25",
+    "longitude": "26.46667",
+    "mass": "150",
+    "name": "Molteno",
+    "year": "1953-01-01T00:00:00",
+    "id": "16717"
+  },
+  {
+    "latitude": "31.60833",
+    "longitude": "-102.85833",
+    "mass": "2587",
+    "name": "Monahans (1998)",
+    "year": "1998-01-01T00:00:00",
+    "id": "16719"
+  },
+  {
+    "latitude": "35.25",
+    "longitude": "-80.5",
+    "mass": "8600",
+    "name": "Monroe",
+    "year": "1849-01-01T00:00:00",
+    "id": "16720"
+  },
+  {
+    "latitude": "38.01667",
+    "longitude": "-8.25",
+    "mass": "4885",
+    "name": "Monte das Fortes",
+    "year": "1950-01-01T00:00:00",
+    "id": "16725"
+  },
+  {
+    "latitude": "43.26667",
+    "longitude": "13.35",
+    "mass": "3130",
+    "name": "Monte Milone",
+    "year": "1846-01-01T00:00:00",
+    "id": "16726"
+  },
+  {
+    "latitude": "43.39056",
+    "longitude": "1.9625",
+    "mass": "149000",
+    "name": "Montferré",
+    "year": "1923-01-01T00:00:00",
+    "id": "16727"
+  },
+  {
+    "latitude": "47.63333",
+    "longitude": "1.58333",
+    "mass": "500",
+    "name": "Montlivault",
+    "year": "1838-01-01T00:00:00",
+    "id": "16729"
+  },
+  {
+    "latitude": "-15.96667",
+    "longitude": "27.35",
+    "name": "Monze",
+    "year": "1950-01-01T00:00:00",
+    "id": "16733"
+  },
+  {
+    "latitude": "35.41667",
+    "longitude": "-79.38333",
+    "mass": "1880",
+    "name": "Moore County",
+    "year": "1913-01-01T00:00:00",
+    "id": "16736"
+  },
+  {
+    "latitude": "52.45",
+    "longitude": "-8.33333",
+    "mass": "3520",
+    "name": "Mooresfort",
+    "year": "1810-01-01T00:00:00",
+    "id": "16737"
+  },
+  {
+    "latitude": "-40.975",
+    "longitude": "145.6",
+    "mass": "8887.5",
+    "name": "Moorleah",
+    "year": "1930-01-01T00:00:00",
+    "id": "16738"
+  },
+  {
+    "latitude": "28.78333",
+    "longitude": "78.83333",
+    "mass": "70",
+    "name": "Moradabad",
+    "year": "1808-01-01T00:00:00",
+    "id": "16740"
+  },
+  {
+    "latitude": "49.6",
+    "longitude": "18.53333",
+    "mass": "633",
+    "name": "Morávka",
+    "year": "2000-01-01T00:00:00",
+    "id": "16742"
+  },
+  {
+    "latitude": "44.6",
+    "longitude": "5.13333",
+    "mass": "1300",
+    "name": "Mornans",
+    "year": "1875-01-01T00:00:00",
+    "id": "16747"
+  },
+  {
+    "latitude": "59.43333",
+    "longitude": "10.7",
+    "mass": "3763",
+    "name": "Moss",
+    "year": "2006-01-01T00:00:00",
+    "id": "36592"
+  },
+  {
+    "latitude": "26.83333",
+    "longitude": "77.33333",
+    "mass": "1500",
+    "name": "Moti-ka-nagla",
+    "year": "1868-01-01T00:00:00",
+    "id": "16759"
+  },
+  {
+    "latitude": "45.2",
+    "longitude": "8.5",
+    "mass": "9150",
+    "name": "Motta di Conti",
+    "year": "1868-01-01T00:00:00",
+    "id": "16762"
+  },
+  {
+    "latitude": "-29.8",
+    "longitude": "141.7",
+    "mass": "11300",
+    "name": "Mount Browne",
+    "year": "1902-01-01T00:00:00",
+    "id": "16766"
+  },
+  {
+    "latitude": "18.7",
+    "longitude": "4.8",
+    "mass": "110000",
+    "name": "Mount Tazerzait",
+    "year": "1991-01-01T00:00:00",
+    "id": "16804"
+  },
+  {
+    "latitude": "44.08333",
+    "longitude": "6.86667",
+    "mass": "17000",
+    "name": "Mount Vaisi",
+    "year": "1637-01-01T00:00:00",
+    "id": "16805"
+  },
+  {
+    "latitude": "-11.5",
+    "longitude": "33.5",
+    "mass": "1100",
+    "name": "Mtola",
+    "year": "1944-01-01T00:00:00",
+    "id": "16820"
+  },
+  {
+    "latitude": "12.63333",
+    "longitude": "77.01667",
+    "mass": "4400",
+    "name": "Muddoor",
+    "year": "1865-01-01T00:00:00",
+    "id": "16841"
+  },
+  {
+    "latitude": "9.33333",
+    "longitude": "80.83333",
+    "mass": "25.5",
+    "name": "Mulletiwu",
+    "year": "1795-01-01T00:00:00",
+    "id": "16851"
+  },
+  {
+    "latitude": "24.5",
+    "longitude": "90.21667",
+    "mass": "4703",
+    "name": "Muraid",
+    "year": "1924-01-01T00:00:00",
+    "id": "16874"
+  },
+  {
+    "latitude": "-36.61667",
+    "longitude": "145.2",
+    "mass": "100000",
+    "name": "Murchison",
+    "year": "1969-01-01T00:00:00",
+    "id": "16875"
+  },
+  {
+    "latitude": "36.6",
+    "longitude": "-88.1",
+    "mass": "12600",
+    "name": "Murray",
+    "year": "1950-01-01T00:00:00",
+    "id": "16882"
+  },
+  {
+    "latitude": "26.13333",
+    "longitude": "85.53333",
+    "mass": "1245",
+    "name": "Muzaffarpur",
+    "year": "1964-01-01T00:00:00",
+    "id": "16885"
+  },
+  {
+    "latitude": "23.05",
+    "longitude": "72.63333",
+    "name": "Myhee Caunta",
+    "year": "1842-01-01T00:00:00",
+    "id": "16887"
+  },
+  {
+    "latitude": "12.0",
+    "longitude": "1.0",
+    "mass": "8165",
+    "name": "Nadiabondi",
+    "year": "1956-01-01T00:00:00",
+    "id": "16889"
+  },
+  {
+    "latitude": "38.12167",
+    "longitude": "140.06167",
+    "mass": "1810",
+    "name": "Nagai",
+    "year": "1922-01-01T00:00:00",
+    "id": "16890"
+  },
+  {
+    "latitude": "26.98333",
+    "longitude": "78.21667",
+    "mass": "20",
+    "name": "Nagaria",
+    "year": "1875-01-01T00:00:00",
+    "id": "16892"
+  },
+  {
+    "latitude": "49.16667",
+    "longitude": "19.5",
+    "mass": "6100",
+    "name": "Nagy-Borové",
+    "year": "1895-01-01T00:00:00",
+    "id": "16893"
+  },
+  {
+    "latitude": "31.31667",
+    "longitude": "30.35",
+    "mass": "10000",
+    "name": "Nakhla",
+    "year": "1911-01-01T00:00:00",
+    "id": "16898"
+  },
+  {
+    "latitude": "13.73333",
+    "longitude": "100.08333",
+    "mass": "23200",
+    "name": "Nakhon Pathom",
+    "year": "1923-01-01T00:00:00",
+    "id": "16899"
+  },
+  {
+    "latitude": "12.28333",
+    "longitude": "79.2",
+    "mass": "4500",
+    "name": "Nammianthal",
+    "year": "1886-01-01T00:00:00",
+    "id": "16902"
+  },
+  {
+    "latitude": "35.66667",
+    "longitude": "103.5",
+    "mass": "52900",
+    "name": "Nan Yang Pao",
+    "year": "1917-01-01T00:00:00",
+    "id": "16903"
+  },
+  {
+    "latitude": "38.41667",
+    "longitude": "-77.16667",
+    "mass": "7500",
+    "name": "Nanjemoy",
+    "year": "1825-01-01T00:00:00",
+    "id": "16904"
+  },
+  {
+    "latitude": "32.11667",
+    "longitude": "121.8",
+    "mass": "529",
+    "name": "Nantong",
+    "year": "1984-01-01T00:00:00",
+    "id": "16907"
+  },
+  {
+    "latitude": "19.25",
+    "longitude": "77.0",
+    "mass": "17000",
+    "name": "Naoki",
+    "year": "1928-01-01T00:00:00",
+    "id": "16908"
+  },
+  {
+    "latitude": "33.75",
+    "longitude": "51.5",
+    "mass": "2700",
+    "name": "Naragh",
+    "year": "1974-01-01T00:00:00",
+    "id": "16909"
+  },
+  {
+    "latitude": "-34.05",
+    "longitude": "150.68889",
+    "mass": "367.5",
+    "name": "Narellan",
+    "year": "1928-01-01T00:00:00",
+    "id": "16912"
+  },
+  {
+    "latitude": "42.51667",
+    "longitude": "12.51667",
+    "name": "Narni",
+    "year": "0921-01-01T00:00:00",
+    "id": "16914"
+  },
+  {
+    "latitude": "-21.73333",
+    "longitude": "165.9",
+    "mass": "347",
+    "name": "Nassirah",
+    "year": "1936-01-01T00:00:00",
+    "id": "16922"
+  },
+  {
+    "latitude": "21.25",
+    "longitude": "83.66667",
+    "mass": "105",
+    "name": "Nawapali",
+    "year": "1890-01-01T00:00:00",
+    "id": "16927"
+  },
+  {
+    "latitude": "36.44917",
+    "longitude": "136.46528",
+    "mass": "420",
+    "name": "Neagari",
+    "year": "1995-01-01T00:00:00",
+    "id": "16934"
+  },
+  {
+    "latitude": "18.68333",
+    "longitude": "83.48333",
+    "mass": "4500",
+    "name": "Nedagolla",
+    "year": "1870-01-01T00:00:00",
+    "id": "16935"
+  },
+  {
+    "latitude": "9.5",
+    "longitude": "35.33333",
+    "mass": "2450",
+    "name": "Nejo",
+    "year": "1970-01-01T00:00:00",
+    "id": "16941"
+  },
+  {
+    "latitude": "56.5",
+    "longitude": "21.5",
+    "mass": "10250",
+    "name": "Nerft",
+    "year": "1864-01-01T00:00:00",
+    "id": "16945"
+  },
+  {
+    "latitude": "47.525",
+    "longitude": "10.80833",
+    "mass": "6189",
+    "name": "Neuschwanstein",
+    "year": "2002-01-01T00:00:00",
+    "id": "16950"
+  },
+  {
+    "latitude": "40.0",
+    "longitude": "-81.76667",
+    "mass": "230000",
+    "name": "New Concord",
+    "year": "1860-01-01T00:00:00",
+    "id": "16953"
+  },
+  {
+    "latitude": "15.36667",
+    "longitude": "35.68333",
+    "mass": "12000",
+    "name": "New Halfa",
+    "year": "1994-01-01T00:00:00",
+    "id": "16954"
+  },
+  {
+    "latitude": "29.94718",
+    "longitude": "-90.10976",
+    "mass": "19256",
+    "name": "New Orleans",
+    "year": "2003-01-01T00:00:00",
+    "id": "16960"
+  },
+  {
+    "latitude": "-7.45",
+    "longitude": "111.41667",
+    "mass": "1393",
+    "name": "Ngawi",
+    "year": "1883-01-01T00:00:00",
+    "id": "16966"
+  },
+  {
+    "latitude": "13.85",
+    "longitude": "-4.38333",
+    "mass": "37500",
+    "name": "N'Goureyma",
+    "year": "1900-01-01T00:00:00",
+    "id": "16968"
+  },
+  {
+    "latitude": "49.03333",
+    "longitude": "-1.43333",
+    "name": "Nicorps",
+    "year": "1750-01-01T00:00:00",
+    "id": "16970"
+  },
+  {
+    "latitude": "52.45",
+    "longitude": "78.63333",
+    "mass": "3996",
+    "name": "Nikolaevka",
+    "year": "1935-01-01T00:00:00",
+    "id": "16976"
+  },
+  {
+    "latitude": "56.11667",
+    "longitude": "37.33333",
+    "mass": "6000",
+    "name": "Nikolskoe",
+    "year": "1954-01-01T00:00:00",
+    "id": "16977"
+  },
+  {
+    "latitude": "29.86667",
+    "longitude": "121.48333",
+    "mass": "14250",
+    "name": "Ningbo",
+    "year": "1975-01-01T00:00:00",
+    "id": "16980"
+  },
+  {
+    "latitude": "32.925",
+    "longitude": "105.90667",
+    "mass": "4610",
+    "name": "Ningqiang",
+    "year": "1983-01-01T00:00:00",
+    "id": "16981"
+  },
+  {
+    "latitude": "34.2",
+    "longitude": "131.56667",
+    "mass": "467",
+    "name": "Nio",
+    "year": "1897-01-01T00:00:00",
+    "id": "16982"
+  },
+  {
+    "latitude": "-28.56667",
+    "longitude": "30.7",
+    "mass": "17200",
+    "name": "N'Kandhla",
+    "year": "1912-01-01T00:00:00",
+    "id": "16983"
+  },
+  {
+    "latitude": "44.08333",
+    "longitude": "-69.48333",
+    "mass": "2300",
+    "name": "Nobleborough",
+    "year": "1823-01-01T00:00:00",
+    "id": "16984"
+  },
+  {
+    "latitude": "40.08528",
+    "longitude": "-86.055",
+    "mass": "483.7",
+    "name": "Noblesville",
+    "year": "1991-01-01T00:00:00",
+    "id": "16985"
+  },
+  {
+    "latitude": "33.725",
+    "longitude": "130.75",
+    "mass": "472",
+    "name": "Nogata",
+    "year": "0861-01-01T00:00:00",
+    "id": "16988"
+  },
+  {
+    "latitude": "-32.36667",
+    "longitude": "-59.83333",
+    "mass": "4000",
+    "name": "Nogoya",
+    "year": "1879-01-01T00:00:00",
+    "id": "16989"
+  },
+  {
+    "latitude": "36.21667",
+    "longitude": "-92.26667",
+    "mass": "1050",
+    "name": "Norfork",
+    "year": "1918-01-01T00:00:00",
+    "id": "16994"
+  },
+  {
+    "latitude": "39.68333",
+    "longitude": "-99.86667",
+    "mass": "1100000",
+    "name": "Norton County",
+    "year": "1948-01-01T00:00:00",
+    "id": "17922"
+  },
+  {
+    "latitude": "45.29167",
+    "longitude": "11.52722",
+    "mass": "177",
+    "name": "Noventa Vicentina",
+    "year": "1971-01-01T00:00:00",
+    "id": "17930"
+  },
+  {
+    "latitude": "54.81667",
+    "longitude": "46.0",
+    "mass": "1900",
+    "name": "Novo-Urei",
+    "year": "1886-01-01T00:00:00",
+    "id": "17933"
+  },
+  {
+    "latitude": "58.55",
+    "longitude": "31.33333",
+    "name": "Novy-Ergi",
+    "year": "1662-01-01T00:00:00",
+    "id": "17934"
+  },
+  {
+    "latitude": "56.0",
+    "longitude": "22.0",
+    "mass": "1001",
+    "name": "Novy-Projekt",
+    "year": "1908-01-01T00:00:00",
+    "id": "17935"
+  },
+  {
+    "latitude": "42.91667",
+    "longitude": "102.46667",
+    "mass": "250",
+    "name": "Noyan-Bogdo",
+    "year": "1933-01-01T00:00:00",
+    "id": "17936"
+  },
+  {
+    "latitude": "24.3",
+    "longitude": "-102.13333",
+    "mass": "50000",
+    "name": "Nuevo Mercurio",
+    "year": "1978-01-01T00:00:00",
+    "id": "17938"
+  },
+  {
+    "latitude": "41.63333",
+    "longitude": "0.75",
+    "mass": "5000",
+    "name": "Nulles",
+    "year": "1851-01-01T00:00:00",
+    "id": "17959"
+  },
+  {
+    "latitude": "43.33333",
+    "longitude": "141.86667",
+    "mass": "363",
+    "name": "Numakai",
+    "year": "1925-01-01T00:00:00",
+    "id": "17960"
+  },
+  {
+    "latitude": "21.20833",
+    "longitude": "94.91667",
+    "mass": "737.6",
+    "name": "Nyaung",
+    "year": "1939-01-01T00:00:00",
+    "id": "17969"
+  },
+  {
+    "latitude": "47.55",
+    "longitude": "22.025",
+    "mass": "1100",
+    "name": "Nyirábrany",
+    "year": "1914-01-01T00:00:00",
+    "id": "17970"
+  },
+  {
+    "latitude": "57.78333",
+    "longitude": "55.26667",
+    "mass": "500000",
+    "name": "Ochansk",
+    "year": "1887-01-01T00:00:00",
+    "id": "17979"
+  },
+  {
+    "latitude": "52.28333",
+    "longitude": "8.05",
+    "mass": "1400",
+    "name": "Oesede",
+    "year": "1927-01-01T00:00:00",
+    "id": "17988"
+  },
+  {
+    "latitude": "58.5",
+    "longitude": "23.0",
+    "mass": "6000",
+    "name": "Oesel",
+    "year": "1855-01-01T00:00:00",
+    "id": "17989"
+  },
+  {
+    "latitude": "47.88333",
+    "longitude": "22.03333",
+    "mass": "3750",
+    "name": "Ofehértó",
+    "year": "1900-01-01T00:00:00",
+    "id": "17990"
+  },
+  {
+    "latitude": "33.28333",
+    "longitude": "130.2",
+    "mass": "14360",
+    "name": "Ogi",
+    "year": "1741-01-01T00:00:00",
+    "id": "17994"
+  },
+  {
+    "latitude": "46.06667",
+    "longitude": "23.58333",
+    "mass": "16250",
+    "name": "Ohaba",
+    "year": "1857-01-01T00:00:00",
+    "id": "17995"
+  },
+  {
+    "latitude": "6.75",
+    "longitude": "8.5",
+    "mass": "7700",
+    "name": "Ohuma",
+    "year": "1963-01-01T00:00:00",
+    "id": "17996"
+  },
+  {
+    "latitude": "38.18333",
+    "longitude": "-5.4",
+    "mass": "5850",
+    "name": "Ojuelos Altos",
+    "year": "1926-01-01T00:00:00",
+    "id": "17997"
+  },
+  {
+    "latitude": "36.18333",
+    "longitude": "139.21667",
+    "mass": "194",
+    "name": "Okabe",
+    "year": "1958-01-01T00:00:00",
+    "id": "17998"
+  },
+  {
+    "latitude": "35.08333",
+    "longitude": "135.2",
+    "mass": "4742",
+    "name": "Okano",
+    "year": "1904-01-01T00:00:00",
+    "id": "18000"
+  },
+  {
+    "latitude": "50.83333",
+    "longitude": "25.5",
+    "mass": "12000",
+    "name": "Okniny",
+    "year": "1834-01-01T00:00:00",
+    "id": "18002"
+  },
+  {
+    "latitude": "52.95",
+    "longitude": "8.16667",
+    "mass": "16570",
+    "name": "Oldenburg (1930)",
+    "year": "1930-01-01T00:00:00",
+    "id": "18009"
+  },
+  {
+    "latitude": "39.0",
+    "longitude": "-0.03333",
+    "name": "Oliva-Gandia",
+    "year": "1520-01-01T00:00:00",
+    "id": "18012"
+  },
+  {
+    "latitude": "38.71667",
+    "longitude": "-7.06667",
+    "mass": "150000",
+    "name": "Olivenza",
+    "year": "1924-01-01T00:00:00",
+    "id": "18013"
+  },
+  {
+    "latitude": "39.56667",
+    "longitude": "-2.1",
+    "mass": "40000",
+    "name": "Olmedilla de Alarcón",
+    "year": "1929-01-01T00:00:00",
+    "id": "18015"
+  },
+  {
+    "latitude": "64.02",
+    "longitude": "161.80833",
+    "mass": "250000",
+    "name": "Omolon",
+    "year": "1981-01-01T00:00:00",
+    "id": "18019"
+  },
+  {
+    "latitude": "43.88333",
+    "longitude": "1.38333",
+    "mass": "14000",
+    "name": "Orgueil",
+    "year": "1864-01-01T00:00:00",
+    "id": "18026"
+  },
+  {
+    "latitude": "28.5475",
+    "longitude": "-81.36222",
+    "mass": "180",
+    "name": "Orlando",
+    "year": "2004-01-01T00:00:00",
+    "id": "34489"
+  },
+  {
+    "latitude": "47.11667",
+    "longitude": "6.15",
+    "mass": "6000",
+    "name": "Ornans",
+    "year": "1868-01-01T00:00:00",
+    "id": "18030"
+  },
+  {
+    "latitude": "48.5",
+    "longitude": "8.0",
+    "mass": "4500",
+    "name": "Ortenau",
+    "year": "1671-01-01T00:00:00",
+    "id": "18033"
+  },
+  {
+    "latitude": "42.13333",
+    "longitude": "12.93333",
+    "mass": "3400",
+    "name": "Orvinio",
+    "year": "1872-01-01T00:00:00",
+    "id": "18034"
+  },
+  {
+    "latitude": "58.88333",
+    "longitude": "9.4",
+    "mass": "246",
+    "name": "Oterøy",
+    "year": "1928-01-01T00:00:00",
+    "id": "18042"
+  },
+  {
+    "latitude": "38.4",
+    "longitude": "140.35",
+    "mass": "6510",
+    "name": "Otomi",
+    "year": "1867-01-01T00:00:00",
+    "id": "18045"
+  },
+  {
+    "latitude": "38.6",
+    "longitude": "-95.21667",
+    "mass": "840",
+    "name": "Ottawa",
+    "year": "1896-01-01T00:00:00",
+    "id": "18046"
+  },
+  {
+    "latitude": "12.9",
+    "longitude": "0.08",
+    "mass": "4440",
+    "name": "Ouadangou",
+    "year": "2003-01-01T00:00:00",
+    "id": "56729"
+  },
+  {
+    "latitude": "30.18",
+    "longitude": "-6.57717",
+    "mass": "1215.5",
+    "name": "Oued el Hadjar",
+    "year": "1986-01-01T00:00:00",
+    "id": "18050"
+  },
+  {
+    "latitude": "24.3",
+    "longitude": "-13.1",
+    "mass": "17000",
+    "name": "Oum Dreyga",
+    "year": "2003-01-01T00:00:00",
+    "id": "31282"
+  },
+  {
+    "latitude": "37.60833",
+    "longitude": "-8.28",
+    "mass": "20000",
+    "name": "Ourique",
+    "year": "1998-01-01T00:00:00",
+    "id": "18052"
+  },
+  {
+    "latitude": "-18.0",
+    "longitude": "16.0",
+    "mass": "121.5",
+    "name": "Ovambo",
+    "year": "1900-01-01T00:00:00",
+    "id": "18055"
+  },
+  {
+    "latitude": "43.4",
+    "longitude": "-5.86667",
+    "mass": "205",
+    "name": "Oviedo",
+    "year": "1856-01-01T00:00:00",
+    "id": "18058"
+  },
+  {
+    "latitude": "51.33333",
+    "longitude": "28.83333",
+    "name": "Owrucz",
+    "year": "1775-01-01T00:00:00",
+    "id": "18062"
+  },
+  {
+    "latitude": "21.05",
+    "longitude": "-99.3",
+    "mass": "3400",
+    "name": "Pacula",
+    "year": "1881-01-01T00:00:00",
+    "id": "18068"
+  },
+  {
+    "latitude": "55.66667",
+    "longitude": "25.0",
+    "mass": "3858",
+    "name": "Padvarninkai",
+    "year": "1929-01-01T00:00:00",
+    "id": "18069"
+  },
+  {
+    "latitude": "17.74333",
+    "longitude": "120.45583",
+    "mass": "515",
+    "name": "Paitan",
+    "year": "1910-01-01T00:00:00",
+    "id": "18072"
+  },
+  {
+    "latitude": "32.31667",
+    "longitude": "-89.71667",
+    "name": "Palahatchie",
+    "year": "1910-01-01T00:00:00",
+    "id": "18073"
+  },
+  {
+    "latitude": "-23.11667",
+    "longitude": "-65.1",
+    "mass": "1430",
+    "name": "Palca de Aparzo",
+    "year": "1988-01-01T00:00:00",
+    "id": "18074"
+  },
+  {
+    "latitude": "43.48333",
+    "longitude": "118.61667",
+    "mass": "18000",
+    "name": "Palinshih",
+    "year": "1914-01-01T00:00:00",
+    "id": "18077"
+  },
+  {
+    "latitude": "39.8",
+    "longitude": "-91.5",
+    "mass": "135",
+    "name": "Palmyra",
+    "year": "1926-01-01T00:00:00",
+    "id": "18079"
+  },
+  {
+    "latitude": "21.3",
+    "longitude": "-157.78333",
+    "mass": "682",
+    "name": "Palolo Valley",
+    "year": "1949-01-01T00:00:00",
+    "id": "18082"
+  },
+  {
+    "latitude": "15.08333",
+    "longitude": "120.7",
+    "mass": "10500",
+    "name": "Pampanga",
+    "year": "1859-01-01T00:00:00",
+    "id": "18093"
+  },
+  {
+    "latitude": "8.06667",
+    "longitude": "124.28333",
+    "mass": "2130",
+    "name": "Pantar",
+    "year": "1938-01-01T00:00:00",
+    "id": "18098"
+  },
+  {
+    "latitude": "36.06667",
+    "longitude": "-90.5",
+    "mass": "408000",
+    "name": "Paragould",
+    "year": "1930-01-01T00:00:00",
+    "id": "18101"
+  },
+  {
+    "latitude": "-6.23333",
+    "longitude": "-40.7",
+    "mass": "2000",
+    "name": "Parambu",
+    "year": "1967-01-01T00:00:00",
+    "id": "18102"
+  },
+  {
+    "latitude": "-19.13333",
+    "longitude": "-51.66667",
+    "mass": "100000",
+    "name": "Paranaiba",
+    "year": "1956-01-01T00:00:00",
+    "id": "18103"
+  },
+  {
+    "latitude": "41.48472",
+    "longitude": "-87.67917",
+    "mass": "18000",
+    "name": "Park Forest",
+    "year": "2003-01-01T00:00:00",
+    "id": "18106"
+  },
+  {
+    "latitude": "9.23333",
+    "longitude": "78.35",
+    "mass": "77600",
+    "name": "Parnallee",
+    "year": "1857-01-01T00:00:00",
+    "id": "18108"
+  },
+  {
+    "latitude": "26.2",
+    "longitude": "85.4",
+    "mass": "800",
+    "name": "Parsa",
+    "year": "1942-01-01T00:00:00",
+    "id": "18109"
+  },
+  {
+    "latitude": "36.21667",
+    "longitude": "-103.4",
+    "mass": "5100",
+    "name": "Pasamonte",
+    "year": "1933-01-01T00:00:00",
+    "id": "18110"
+  },
+  {
+    "latitude": "20.93694",
+    "longitude": "82.05",
+    "mass": "4375",
+    "name": "Patora",
+    "year": "1969-01-01T00:00:00",
+    "id": "18112"
+  },
+  {
+    "latitude": "-19.53333",
+    "longitude": "-48.56667",
+    "mass": "2121",
+    "name": "Patrimonio",
+    "year": "1950-01-01T00:00:00",
+    "id": "18116"
+  },
+  {
+    "latitude": "38.13333",
+    "longitude": "14.96667",
+    "mass": "12",
+    "name": "Patti",
+    "year": "1922-01-01T00:00:00",
+    "id": "18118"
+  },
+  {
+    "latitude": "23.15",
+    "longitude": "91.18333",
+    "mass": "37350",
+    "name": "Patwar",
+    "year": "1935-01-01T00:00:00",
+    "id": "18171"
+  },
+  {
+    "latitude": "43.46667",
+    "longitude": "25.51667",
+    "mass": "2968",
+    "name": "Pavel",
+    "year": "1966-01-01T00:00:00",
+    "id": "18173"
+  },
+  {
+    "latitude": "52.3",
+    "longitude": "77.03333",
+    "mass": "142.5",
+    "name": "Pavlodar (stone)",
+    "year": "1938-01-01T00:00:00",
+    "id": "18175"
+  },
+  {
+    "latitude": "48.53333",
+    "longitude": "35.98333",
+    "mass": "40000",
+    "name": "Pavlograd",
+    "year": "1826-01-01T00:00:00",
+    "id": "18176"
+  },
+  {
+    "latitude": "52.03333",
+    "longitude": "43.0",
+    "mass": "2000",
+    "name": "Pavlovka",
+    "year": "1882-01-01T00:00:00",
+    "id": "18177"
+  },
+  {
+    "latitude": "11.33367",
+    "longitude": "-3.54217",
+    "name": "Pê",
+    "year": "1989-01-01T00:00:00",
+    "id": "18179"
+  },
+  {
+    "latitude": "56.13333",
+    "longitude": "-117.93333",
+    "mass": "45760",
+    "name": "Peace River",
+    "year": "1963-01-01T00:00:00",
+    "id": "18180"
+  },
+  {
+    "latitude": "51.66667",
+    "longitude": "9.25",
+    "mass": "117.8",
+    "name": "Peckelsheim",
+    "year": "1953-01-01T00:00:00",
+    "id": "18181"
+  },
+  {
+    "latitude": "41.28333",
+    "longitude": "-73.91667",
+    "mass": "12570",
+    "name": "Peekskill",
+    "year": "1992-01-01T00:00:00",
+    "id": "18782"
+  },
+  {
+    "latitude": "30.125",
+    "longitude": "-103.11667",
+    "mass": "70000",
+    "name": "Peña Blanca Spring",
+    "year": "1946-01-01T00:00:00",
+    "id": "18786"
+  },
+  {
+    "latitude": "-10.66667",
+    "longitude": "35.5",
+    "mass": "165",
+    "name": "Peramiho",
+    "year": "1899-01-01T00:00:00",
+    "id": "18792"
+  },
+  {
+    "latitude": "23.325",
+    "longitude": "91.0",
+    "mass": "23474",
+    "name": "Perpeti",
+    "year": "1935-01-01T00:00:00",
+    "id": "18793"
+  },
+  {
+    "latitude": "56.4",
+    "longitude": "-3.43333",
+    "mass": "2",
+    "name": "Perth",
+    "year": "1830-01-01T00:00:00",
+    "id": "18797"
+  },
+  {
+    "latitude": "56.63333",
+    "longitude": "39.43333",
+    "mass": "66000",
+    "name": "Pervomaisky",
+    "year": "1933-01-01T00:00:00",
+    "id": "18798"
+  },
+  {
+    "latitude": "55.5",
+    "longitude": "66.08333",
+    "mass": "3393",
+    "name": "Pesyanoe",
+    "year": "1933-01-01T00:00:00",
+    "id": "18799"
+  },
+  {
+    "latitude": "14.052",
+    "longitude": "0.42",
+    "mass": "189",
+    "name": "Pétèlkolé",
+    "year": "1995-01-01T00:00:00",
+    "id": "18800"
+  },
+  {
+    "latitude": "35.3",
+    "longitude": "-86.63333",
+    "mass": "1800",
+    "name": "Petersburg",
+    "year": "1855-01-01T00:00:00",
+    "id": "18801"
+  },
+  {
+    "latitude": "53.53333",
+    "longitude": "-7.33333",
+    "name": "Pettiswood",
+    "year": "1779-01-01T00:00:00",
+    "id": "18804"
+  },
+  {
+    "latitude": "40.0",
+    "longitude": "-99.25",
+    "mass": "57900",
+    "name": "Phillips County (stone)",
+    "year": "1901-01-01T00:00:00",
+    "id": "18808"
+  },
+  {
+    "latitude": "11.25",
+    "longitude": "108.58333",
+    "mass": "500",
+    "name": "Phu Hong",
+    "year": "1887-01-01T00:00:00",
+    "id": "18809"
+  },
+  {
+    "latitude": "12.0",
+    "longitude": "105.48333",
+    "mass": "7800",
+    "name": "Phum Sambo",
+    "year": "1933-01-01T00:00:00",
+    "id": "18811"
+  },
+  {
+    "latitude": "15.71667",
+    "longitude": "108.1",
+    "mass": "11000",
+    "name": "Phuoc-Binh",
+    "year": "1941-01-01T00:00:00",
+    "id": "18812"
+  },
+  {
+    "latitude": "44.24417",
+    "longitude": "11.50222",
+    "mass": "13.1",
+    "name": "Piancaldoli",
+    "year": "1968-01-01T00:00:00",
+    "id": "18813"
+  },
+  {
+    "latitude": "41.36667",
+    "longitude": "-6.23333",
+    "name": "Picote",
+    "year": "1843-01-01T00:00:00",
+    "id": "18816"
+  },
+  {
+    "latitude": "58.66667",
+    "longitude": "25.73333",
+    "mass": "23250",
+    "name": "Pillistfer",
+    "year": "1863-01-01T00:00:00",
+    "id": "18822"
+  },
+  {
+    "latitude": "26.03472",
+    "longitude": "73.94167",
+    "mass": "42000",
+    "name": "Piplia Kalan",
+    "year": "1996-01-01T00:00:00",
+    "id": "18831"
+  },
+  {
+    "latitude": "-32.86667",
+    "longitude": "18.71667",
+    "mass": "37",
+    "name": "Piquetberg",
+    "year": "1881-01-01T00:00:00",
+    "id": "18832"
+  },
+  {
+    "latitude": "25.8",
+    "longitude": "88.45",
+    "mass": "842",
+    "name": "Pirgunje",
+    "year": "1882-01-01T00:00:00",
+    "id": "18834"
+  },
+  {
+    "latitude": "29.58333",
+    "longitude": "76.0",
+    "mass": "1161",
+    "name": "Pirthalla",
+    "year": "1884-01-01T00:00:00",
+    "id": "18835"
+  },
+  {
+    "latitude": "31.95",
+    "longitude": "-83.51667",
+    "mass": "3760",
+    "name": "Pitts",
+    "year": "1921-01-01T00:00:00",
+    "id": "18837"
+  },
+  {
+    "latitude": "30.7",
+    "longitude": "-96.11667",
+    "mass": "2085",
+    "name": "Plantersville",
+    "year": "1930-01-01T00:00:00",
+    "id": "18846"
+  },
+  {
+    "latitude": "45.275",
+    "longitude": "26.70972",
+    "mass": "6913",
+    "name": "Pleşcoi",
+    "year": "2008-01-01T00:00:00",
+    "id": "51706"
+  },
+  {
+    "latitude": "50.53333",
+    "longitude": "14.11667",
+    "mass": "39",
+    "name": "Ploschkovitz",
+    "year": "1723-01-01T00:00:00",
+    "id": "18849"
+  },
+  {
+    "latitude": "11.58333",
+    "longitude": "104.91667",
+    "mass": "96",
+    "name": "Pnompehn",
+    "year": "1868-01-01T00:00:00",
+    "id": "18851"
+  },
+  {
+    "latitude": "50.93333",
+    "longitude": "12.13333",
+    "mass": "3000",
+    "name": "Pohlitz",
+    "year": "1819-01-01T00:00:00",
+    "id": "18853"
+  },
+  {
+    "latitude": "26.71667",
+    "longitude": "82.66667",
+    "mass": "350",
+    "name": "Pokhra",
+    "year": "1866-01-01T00:00:00",
+    "id": "18858"
+  },
+  {
+    "latitude": "66.34833",
+    "longitude": "14.015",
+    "mass": "253.6",
+    "name": "Pollen",
+    "year": "1942-01-01T00:00:00",
+    "id": "18860"
+  },
+  {
+    "latitude": "53.03639",
+    "longitude": "-4.31944",
+    "mass": "157",
+    "name": "Pontlyfni",
+    "year": "1931-01-01T00:00:00",
+    "id": "18865"
+  },
+  {
+    "latitude": "34.175",
+    "longitude": "-103.295",
+    "mass": "71400",
+    "name": "Portales Valley",
+    "year": "1998-01-01T00:00:00",
+    "id": "18874"
+  },
+  {
+    "latitude": "38.5",
+    "longitude": "-8.0",
+    "mass": "4500",
+    "name": "Portugal",
+    "year": "1796-01-01T00:00:00",
+    "id": "18876"
+  },
+  {
+    "latitude": "31.41667",
+    "longitude": "118.5",
+    "mass": "665",
+    "name": "Po-wang Chen",
+    "year": "1933-01-01T00:00:00",
+    "id": "18879"
+  },
+  {
+    "latitude": "48.3025",
+    "longitude": "13.94083",
+    "mass": "2125",
+    "name": "Prambachkirchen",
+    "year": "1932-01-01T00:00:00",
+    "id": "18883"
+  },
+  {
+    "latitude": "49.66667",
+    "longitude": "14.03333",
+    "mass": "5555",
+    "name": "Pribram",
+    "year": "1959-01-01T00:00:00",
+    "id": "18887"
+  },
+  {
+    "latitude": "39.11667",
+    "longitude": "-83.85",
+    "mass": "900",
+    "name": "Pricetown",
+    "year": "1893-01-01T00:00:00",
+    "id": "18888"
+  },
+  {
+    "latitude": "39.35",
+    "longitude": "-3.51667",
+    "mass": "500",
+    "name": "Puerto Lápice",
+    "year": "2007-01-01T00:00:00",
+    "id": "45984"
+  },
+  {
+    "latitude": "23.36667",
+    "longitude": "75.18333",
+    "mass": "560",
+    "name": "Pulsora",
+    "year": "1863-01-01T00:00:00",
+    "id": "18899"
+  },
+  {
+    "latitude": "52.76667",
+    "longitude": "21.26667",
+    "mass": "250000",
+    "name": "Pultusk",
+    "year": "1868-01-01T00:00:00",
+    "id": "18901"
+  },
+  {
+    "latitude": "13.33333",
+    "longitude": "78.95",
+    "mass": "100",
+    "name": "Punganaru",
+    "year": "1811-01-01T00:00:00",
+    "id": "18902"
+  },
+  {
+    "latitude": "-29.03333",
+    "longitude": "-53.05",
+    "mass": "300000",
+    "name": "Putinga",
+    "year": "1937-01-01T00:00:00",
+    "id": "18905"
+  },
+  {
+    "latitude": "32.08333",
+    "longitude": "121.5",
+    "mass": "1275",
+    "name": "Qidong",
+    "year": "1982-01-01T00:00:00",
+    "id": "18907"
+  },
+  {
+    "latitude": "26.53333",
+    "longitude": "106.46667",
+    "mass": "2600",
+    "name": "Qingzhen",
+    "year": "1976-01-01T00:00:00",
+    "id": "18908"
+  },
+  {
+    "latitude": "-30.11667",
+    "longitude": "28.7",
+    "mass": "7000",
+    "name": "Queen's Mercy",
+    "year": "1925-01-01T00:00:00",
+    "id": "22357"
+  },
+  {
+    "latitude": "17.76667",
+    "longitude": "95.18333",
+    "mass": "6045",
+    "name": "Quenggouk",
+    "year": "1857-01-01T00:00:00",
+    "id": "22358"
+  },
+  {
+    "latitude": "39.0",
+    "longitude": "-0.66667",
+    "mass": "10750",
+    "name": "Quesa",
+    "year": "1898-01-01T00:00:00",
+    "id": "22360"
+  },
+  {
+    "latitude": "44.61667",
+    "longitude": "126.13333",
+    "mass": "17450",
+    "name": "Quija",
+    "year": "1990-01-01T00:00:00",
+    "id": "22361"
+  },
+  {
+    "latitude": "46.6",
+    "longitude": "0.25",
+    "mass": "65",
+    "name": "Quincay",
+    "year": "1851-01-01T00:00:00",
+    "id": "22363"
+  },
+  {
+    "latitude": "-26.66667",
+    "longitude": "-65.45",
+    "mass": "5000",
+    "name": "Raco",
+    "year": "1957-01-01T00:00:00",
+    "id": "22368"
+  },
+  {
+    "latitude": "27.72528",
+    "longitude": "76.465",
+    "mass": "10200",
+    "name": "Raghunathpura",
+    "year": "1986-01-01T00:00:00",
+    "id": "22371"
+  },
+  {
+    "latitude": "28.225",
+    "longitude": "70.2",
+    "mass": "67225",
+    "name": "Rahimyar Khan",
+    "year": "1983-01-01T00:00:00",
+    "id": "31302"
+  },
+  {
+    "latitude": "52.98333",
+    "longitude": "37.03333",
+    "mass": "9000",
+    "name": "Rakovka",
+    "year": "1878-01-01T00:00:00",
+    "id": "22376"
+  },
+  {
+    "latitude": "26.45",
+    "longitude": "82.9",
+    "mass": "3766",
+    "name": "Ramnagar",
+    "year": "1940-01-01T00:00:00",
+    "id": "22384"
+  },
+  {
+    "latitude": "24.16667",
+    "longitude": "87.76667",
+    "mass": "100",
+    "name": "Rampurhat",
+    "year": "1916-01-01T00:00:00",
+    "id": "22385"
+  },
+  {
+    "latitude": "51.88333",
+    "longitude": "6.93333",
+    "mass": "4682",
+    "name": "Ramsdorf",
+    "year": "1958-01-01T00:00:00",
+    "id": "22386"
+  },
+  {
+    "latitude": "23.98333",
+    "longitude": "87.08333",
+    "mass": "290.39999999999998",
+    "name": "Ranchapur",
+    "year": "1917-01-01T00:00:00",
+    "id": "22387"
+  },
+  {
+    "latitude": "19.86667",
+    "longitude": "-100.81667",
+    "mass": "300",
+    "name": "Rancho de la Presa",
+    "year": "1899-01-01T00:00:00",
+    "id": "22390"
+  },
+  {
+    "latitude": "25.38333",
+    "longitude": "72.01667",
+    "mass": "3224.5",
+    "name": "Rangala",
+    "year": "1937-01-01T00:00:00",
+    "id": "22392"
+  },
+  {
+    "latitude": "38.2",
+    "longitude": "115.7",
+    "mass": "4910",
+    "name": "Raoyang",
+    "year": "1919-01-01T00:00:00",
+    "id": "22394"
+  },
+  {
+    "latitude": "26.66667",
+    "longitude": "50.15",
+    "mass": "6.1",
+    "name": "Ras Tanura",
+    "year": "1961-01-01T00:00:00",
+    "id": "22395"
+  },
+  {
+    "latitude": "43.5",
+    "longitude": "26.53333",
+    "mass": "24700",
+    "name": "Rasgrad",
+    "year": "1740-01-01T00:00:00",
+    "id": "22396"
+  },
+  {
+    "latitude": "52.2",
+    "longitude": "17.98333",
+    "mass": "910",
+    "name": "Ratyn",
+    "year": "1880-01-01T00:00:00",
+    "id": "22398"
+  },
+  {
+    "latitude": "38.13742",
+    "longitude": "-119.75812",
+    "mass": "18.41",
+    "name": "Red Canyon Lake",
+    "year": "2007-01-01T00:00:00",
+    "id": "53502"
+  },
+  {
+    "latitude": "42.475",
+    "longitude": "-5.33333",
+    "mass": "17300",
+    "name": "Reliegos",
+    "year": "1947-01-01T00:00:00",
+    "id": "22584"
+  },
+  {
+    "latitude": "-6.73333",
+    "longitude": "111.36667",
+    "mass": "10000",
+    "name": "Rembang",
+    "year": "1919-01-01T00:00:00",
+    "id": "22585"
+  },
+  {
+    "latitude": "44.76667",
+    "longitude": "11.28333",
+    "mass": "1000",
+    "name": "Renazzo",
+    "year": "1824-01-01T00:00:00",
+    "id": "22586"
+  },
+  {
+    "latitude": "-32.75",
+    "longitude": "-65.28333",
+    "mass": "300",
+    "name": "Renca",
+    "year": "1925-01-01T00:00:00",
+    "id": "22587"
+  },
+  {
+    "latitude": "38.66667",
+    "longitude": "116.13333",
+    "mass": "355",
+    "name": "Renqiu",
+    "year": "1916-01-01T00:00:00",
+    "id": "22589"
+  },
+  {
+    "latitude": "48.6",
+    "longitude": "45.66667",
+    "mass": "7000",
+    "name": "Repeev Khutor",
+    "year": "1933-01-01T00:00:00",
+    "id": "22590"
+  },
+  {
+    "latitude": "51.33333",
+    "longitude": "-118.95",
+    "mass": "1",
+    "name": "Revelstoke",
+    "year": "1965-01-01T00:00:00",
+    "id": "22592"
+  },
+  {
+    "latitude": "28.2",
+    "longitude": "76.66667",
+    "mass": "3332",
+    "name": "Rewari",
+    "year": "1929-01-01T00:00:00",
+    "id": "22593"
+  },
+  {
+    "latitude": "35.03333",
+    "longitude": "-83.03333",
+    "mass": "668",
+    "name": "Rich Mountain",
+    "year": "1903-01-01T00:00:00",
+    "id": "22597"
+  },
+  {
+    "latitude": "46.88333",
+    "longitude": "-102.31667",
+    "mass": "90000",
+    "name": "Richardton",
+    "year": "1918-01-01T00:00:00",
+    "id": "22599"
+  },
+  {
+    "latitude": "31.25",
+    "longitude": "-99.03333",
+    "mass": "1900",
+    "name": "Richland Springs",
+    "year": "1980-01-01T00:00:00",
+    "id": "22602"
+  },
+  {
+    "latitude": "37.46667",
+    "longitude": "-77.5",
+    "mass": "1800",
+    "name": "Richmond",
+    "year": "1828-01-01T00:00:00",
+    "id": "22603"
+  },
+  {
+    "latitude": "-26.1",
+    "longitude": "-49.8",
+    "mass": "1310",
+    "name": "Rio Negro",
+    "year": "1934-01-01T00:00:00",
+    "id": "22611"
+  },
+  {
+    "latitude": "45.48333",
+    "longitude": "9.51667",
+    "mass": "103.3",
+    "name": "Rivolta de Bassi",
+    "year": "1491-01-01T00:00:00",
+    "id": "22614"
+  },
+  {
+    "latitude": "41.08333",
+    "longitude": "-86.28333",
+    "mass": "340",
+    "name": "Rochester",
+    "year": "1876-01-01T00:00:00",
+    "id": "22637"
+  },
+  {
+    "latitude": "-23.38333",
+    "longitude": "150.51667",
+    "mass": "1641",
+    "name": "Rockhampton",
+    "year": "1895-01-01T00:00:00",
+    "id": "22640"
+  },
+  {
+    "latitude": "42.3",
+    "longitude": "0.55",
+    "mass": "400",
+    "name": "Roda",
+    "year": "1871-01-01T00:00:00",
+    "id": "22641"
+  },
+  {
+    "latitude": "50.35",
+    "longitude": "10.8",
+    "mass": "2900",
+    "name": "Rodach",
+    "year": "1775-01-01T00:00:00",
+    "id": "22642"
+  },
+  {
+    "latitude": "44.51667",
+    "longitude": "-83.95",
+    "mass": "10600",
+    "name": "Rose City",
+    "year": "1921-01-01T00:00:00",
+    "id": "22766"
+  },
+  {
+    "latitude": "52.76667",
+    "longitude": "-2.51667",
+    "mass": "3500",
+    "name": "Rowton",
+    "year": "1876-01-01T00:00:00",
+    "id": "22773"
+  },
+  {
+    "latitude": "-1.45",
+    "longitude": "29.83333",
+    "mass": "465.5",
+    "name": "Ruhobobo",
+    "year": "1976-01-01T00:00:00",
+    "id": "22780"
+  },
+  {
+    "latitude": "0.26667",
+    "longitude": "36.53333",
+    "mass": "67",
+    "name": "Rumuruti",
+    "year": "1934-01-01T00:00:00",
+    "id": "22782"
+  },
+  {
+    "latitude": "-10.26667",
+    "longitude": "38.76667",
+    "mass": "6000",
+    "name": "Rupota",
+    "year": "1949-01-01T00:00:00",
+    "id": "22783"
+  },
+  {
+    "latitude": "51.13333",
+    "longitude": "34.5",
+    "mass": "13000",
+    "name": "Ryechki",
+    "year": "1914-01-01T00:00:00",
+    "id": "22791"
+  },
+  {
+    "latitude": "27.43333",
+    "longitude": "82.08333",
+    "mass": "1250",
+    "name": "Sabetmahet",
+    "year": "1855-01-01T00:00:00",
+    "id": "22792"
+  },
+  {
+    "latitude": "23.08333",
+    "longitude": "91.66667",
+    "mass": "478",
+    "name": "Sabrum",
+    "year": "1999-01-01T00:00:00",
+    "id": "22793"
+  },
+  {
+    "latitude": "51.53333",
+    "longitude": "14.88333",
+    "name": "Sagan",
+    "year": "1636-01-01T00:00:00",
+    "id": "22796"
+  },
+  {
+    "latitude": "43.73333",
+    "longitude": "1.38333",
+    "mass": "14000",
+    "name": "Saint-Sauveur",
+    "year": "1914-01-01T00:00:00",
+    "id": "23101"
+  },
+  {
+    "latitude": "45.3",
+    "longitude": "0.23333",
+    "mass": "271000",
+    "name": "Saint-Séverin",
+    "year": "1966-01-01T00:00:00",
+    "id": "23102"
+  },
+  {
+    "latitude": "35.66667",
+    "longitude": "136.3",
+    "mass": "4180",
+    "name": "Sakauchi",
+    "year": "1913-01-01T00:00:00",
+    "id": "23103"
+  },
+  {
+    "latitude": "44.97917",
+    "longitude": "-122.96944",
+    "mass": "61.4",
+    "name": "Salem",
+    "year": "1981-01-01T00:00:00",
+    "id": "23107"
+  },
+  {
+    "latitude": "46.05",
+    "longitude": "4.63333",
+    "mass": "9000",
+    "name": "Salles",
+    "year": "1798-01-01T00:00:00",
+    "id": "23111"
+  },
+  {
+    "latitude": "52.75",
+    "longitude": "11.05",
+    "mass": "43",
+    "name": "Salzwedel",
+    "year": "1985-01-01T00:00:00",
+    "id": "23114"
+  },
+  {
+    "latitude": "25.66667",
+    "longitude": "74.86667",
+    "mass": "2462",
+    "name": "Samelia",
+    "year": "1921-01-01T00:00:00",
+    "id": "23115"
+  },
+  {
+    "latitude": "33.48472",
+    "longitude": "-117.6625",
+    "mass": "56",
+    "name": "San Juan Capistrano",
+    "year": "1973-01-01T00:00:00",
+    "id": "23128"
+  },
+  {
+    "latitude": "43.66667",
+    "longitude": "13.0",
+    "mass": "237",
+    "name": "San Michele",
+    "year": "2002-01-01T00:00:00",
+    "id": "31315"
+  },
+  {
+    "latitude": "-31.01667",
+    "longitude": "-71.4",
+    "mass": "282",
+    "name": "San Pedro de Quiles",
+    "year": "1956-01-01T00:00:00",
+    "id": "23130"
+  },
+  {
+    "latitude": "19.76667",
+    "longitude": "-100.65",
+    "mass": "460",
+    "name": "San Pedro Jacuaro",
+    "year": "1968-01-01T00:00:00",
+    "id": "34063"
+  },
+  {
+    "latitude": "-29.2",
+    "longitude": "-51.86667",
+    "mass": "400",
+    "name": "Santa Barbara",
+    "year": "1873-01-01T00:00:00",
+    "id": "23161"
+  },
+  {
+    "latitude": "24.16667",
+    "longitude": "-99.33333",
+    "mass": "60",
+    "name": "Santa Cruz",
+    "year": "1939-01-01T00:00:00",
+    "id": "23164"
+  },
+  {
+    "latitude": "-33.9",
+    "longitude": "-61.7",
+    "mass": "5500",
+    "name": "Santa Isabel",
+    "year": "1924-01-01T00:00:00",
+    "id": "23165"
+  },
+  {
+    "latitude": "-31.535556",
+    "longitude": "-68.489444",
+    "mass": "4000",
+    "name": "Santa Lucia (2008)",
+    "year": "2008-01-01T00:00:00",
+    "id": "50909"
+  },
+  {
+    "latitude": "-20.81",
+    "longitude": "-49.38056",
+    "mass": "927",
+    "name": "São Jose do Rio Preto",
+    "year": "1962-01-01T00:00:00",
+    "id": "23171"
+  },
+  {
+    "latitude": "52.55",
+    "longitude": "46.55",
+    "mass": "200000",
+    "name": "Saratov",
+    "year": "1918-01-01T00:00:00",
+    "id": "23176"
+  },
+  {
+    "latitude": "34.71667",
+    "longitude": "137.78333",
+    "mass": "695",
+    "name": "Sasagase",
+    "year": "1688-01-01T00:00:00",
+    "id": "23187"
+  },
+  {
+    "latitude": "43.15",
+    "longitude": "-0.85",
+    "mass": "4000",
+    "name": "Sauguis",
+    "year": "1868-01-01T00:00:00",
+    "id": "23188"
+  },
+  {
+    "latitude": "47.21667",
+    "longitude": "29.86667",
+    "mass": "2500",
+    "name": "Savtschenskoje",
+    "year": "1894-01-01T00:00:00",
+    "id": "23190"
+  },
+  {
+    "latitude": "35.86667",
+    "longitude": "139.4",
+    "mass": "430",
+    "name": "Sayama",
+    "year": "1986-01-01T00:00:00",
+    "id": "23192"
+  },
+  {
+    "latitude": "49.23333",
+    "longitude": "17.56667",
+    "mass": "412",
+    "name": "Sazovice",
+    "year": "1934-01-01T00:00:00",
+    "id": "23455"
+  },
+  {
+    "latitude": "53.35",
+    "longitude": "15.05",
+    "mass": "7000",
+    "name": "Schellin",
+    "year": "1715-01-01T00:00:00",
+    "id": "23457"
+  },
+  {
+    "latitude": "42.86083",
+    "longitude": "-73.95028",
+    "mass": "283.3",
+    "name": "Schenectady",
+    "year": "1968-01-01T00:00:00",
+    "id": "23458"
+  },
+  {
+    "latitude": "48.11667",
+    "longitude": "10.46667",
+    "mass": "8000",
+    "name": "Schönenberg",
+    "year": "1846-01-01T00:00:00",
+    "id": "23460"
+  },
+  {
+    "latitude": "44.36667",
+    "longitude": "-69.2",
+    "mass": "5400",
+    "name": "Searsmont",
+    "year": "1871-01-01T00:00:00",
+    "id": "23472"
+  },
+  {
+    "latitude": "38.3",
+    "longitude": "27.13333",
+    "mass": "240",
+    "name": "Sediköy",
+    "year": "1917-01-01T00:00:00",
+    "id": "23473"
+  },
+  {
+    "latitude": "26.75",
+    "longitude": "84.78333",
+    "mass": "6930",
+    "name": "Segowlie",
+    "year": "1853-01-01T00:00:00",
+    "id": "23476"
+  },
+  {
+    "latitude": "-7.23333",
+    "longitude": "107.33333",
+    "mass": "1590",
+    "name": "Selakopi",
+    "year": "1939-01-01T00:00:00",
+    "id": "23481"
+  },
+  {
+    "latitude": "22.83333",
+    "longitude": "4.98333",
+    "mass": "150",
+    "name": "Seldebourak",
+    "year": "1947-01-01T00:00:00",
+    "id": "23483"
+  },
+  {
+    "latitude": "22.25",
+    "longitude": "79.0",
+    "mass": "691",
+    "name": "Semarkona",
+    "year": "1940-01-01T00:00:00",
+    "id": "23487"
+  },
+  {
+    "latitude": "41.71667",
+    "longitude": "-0.05",
+    "mass": "4000",
+    "name": "Sena",
+    "year": "1773-01-01T00:00:00",
+    "id": "23495"
+  },
+  {
+    "latitude": "39.43833",
+    "longitude": "140.51167",
+    "mass": "866",
+    "name": "Senboku",
+    "year": "1993-01-01T00:00:00",
+    "id": "23496"
+  },
+  {
+    "latitude": "21.68389",
+    "longitude": "79.50083",
+    "mass": "20000",
+    "name": "Seoni",
+    "year": "1966-01-01T00:00:00",
+    "id": "23500"
+  },
+  {
+    "latitude": "41.05",
+    "longitude": "23.56667",
+    "mass": "8500",
+    "name": "Seres",
+    "year": "1818-01-01T00:00:00",
+    "id": "23501"
+  },
+  {
+    "latitude": "-8.38333",
+    "longitude": "-36.76667",
+    "mass": "1800",
+    "name": "Serra de Magé",
+    "year": "1923-01-01T00:00:00",
+    "id": "23502"
+  },
+  {
+    "latitude": "-19.46667",
+    "longitude": "-44.21667",
+    "mass": "350",
+    "name": "Sete Lagoas",
+    "year": "1908-01-01T00:00:00",
+    "id": "23504"
+  },
+  {
+    "latitude": "37.41667",
+    "longitude": "-6.0",
+    "mass": "180",
+    "name": "Sevilla",
+    "year": "1862-01-01T00:00:00",
+    "id": "23508"
+  },
+  {
+    "latitude": "50.61667",
+    "longitude": "36.6",
+    "mass": "101000",
+    "name": "Sevrukovo",
+    "year": "1874-01-01T00:00:00",
+    "id": "23509"
+  },
+  {
+    "latitude": "34.75",
+    "longitude": "10.71667",
+    "mass": "7000",
+    "name": "Sfax",
+    "year": "1989-01-01T00:00:00",
+    "id": "23512"
+  },
+  {
+    "latitude": "23.1",
+    "longitude": "87.3",
+    "mass": "4000",
+    "name": "Shalka",
+    "year": "1850-01-01T00:00:00",
+    "id": "23521"
+  },
+  {
+    "latitude": "37.83333",
+    "longitude": "-76.7",
+    "mass": "1265",
+    "name": "Sharps",
+    "year": "1921-01-01T00:00:00",
+    "id": "23525"
+  },
+  {
+    "latitude": "44.05",
+    "longitude": "-80.16667",
+    "mass": "18600",
+    "name": "Shelburne",
+    "year": "1904-01-01T00:00:00",
+    "id": "23529"
+  },
+  {
+    "latitude": "24.55",
+    "longitude": "84.83333",
+    "mass": "5000",
+    "name": "Shergotty",
+    "year": "1865-01-01T00:00:00",
+    "id": "23530"
+  },
+  {
+    "latitude": "33.65",
+    "longitude": "120.06667",
+    "mass": "605",
+    "name": "Sheyang",
+    "year": "1976-01-01T00:00:00",
+    "id": "23531"
+  },
+  {
+    "latitude": "25.85",
+    "longitude": "87.5775",
+    "mass": "3679.7",
+    "name": "Shikarpur",
+    "year": "1921-01-01T00:00:00",
+    "id": "23534"
+  },
+  {
+    "latitude": "43.5",
+    "longitude": "125.66667",
+    "mass": "3900",
+    "name": "Shuangyang",
+    "year": "1971-01-01T00:00:00",
+    "id": "23582"
+  },
+  {
+    "latitude": "33.71667",
+    "longitude": "74.83333",
+    "mass": "5000",
+    "name": "Shupiyan",
+    "year": "1912-01-01T00:00:00",
+    "id": "23583"
+  },
+  {
+    "latitude": "24.33333",
+    "longitude": "90.16667",
+    "mass": "3200",
+    "name": "Shytal",
+    "year": "1863-01-01T00:00:00",
+    "id": "23584"
+  },
+  {
+    "latitude": "43.11667",
+    "longitude": "11.6",
+    "mass": "3700",
+    "name": "Siena",
+    "year": "1794-01-01T00:00:00",
+    "id": "23586"
+  },
+  {
+    "latitude": "46.16",
+    "longitude": "134.65333",
+    "mass": "23000000",
+    "name": "Sikhote-Alin",
+    "year": "1947-01-01T00:00:00",
+    "id": "23593"
+  },
+  {
+    "latitude": "20.93333",
+    "longitude": "-101.38333",
+    "mass": "1710",
+    "name": "Silao",
+    "year": "1995-01-01T00:00:00",
+    "id": "23594"
+  },
+  {
+    "latitude": "44.11667",
+    "longitude": "27.26667",
+    "mass": "0.15",
+    "name": "Silistra",
+    "year": "1917-01-01T00:00:00",
+    "id": "55584"
+  },
+  {
+    "latitude": "49.98333",
+    "longitude": "7.53333",
+    "mass": "1222",
+    "name": "Simmern",
+    "year": "1920-01-01T00:00:00",
+    "id": "23603"
+  },
+  {
+    "latitude": "30.9",
+    "longitude": "32.48333",
+    "mass": "1455",
+    "name": "Sinai",
+    "year": "1916-01-01T00:00:00",
+    "id": "23606"
+  },
+  {
+    "latitude": "26.21667",
+    "longitude": "69.55",
+    "mass": "8400",
+    "name": "Sindhri",
+    "year": "1901-01-01T00:00:00",
+    "id": "23611"
+  },
+  {
+    "latitude": "39.3",
+    "longitude": "9.2",
+    "mass": "2000",
+    "name": "Sinnai",
+    "year": "1956-01-01T00:00:00",
+    "id": "23613"
+  },
+  {
+    "latitude": "42.58333",
+    "longitude": "-103.66667",
+    "mass": "4100",
+    "name": "Sioux County",
+    "year": "1933-01-01T00:00:00",
+    "id": "23614"
+  },
+  {
+    "latitude": "20.91667",
+    "longitude": "82.58333",
+    "mass": "1600",
+    "name": "Sitathali",
+    "year": "1875-01-01T00:00:00",
+    "id": "23616"
+  },
+  {
+    "latitude": "39.82467",
+    "longitude": "36.13583",
+    "mass": "40000",
+    "name": "Sivas",
+    "year": "1989-01-01T00:00:00",
+    "id": "23617"
+  },
+  {
+    "latitude": "32.43333",
+    "longitude": "119.86667",
+    "mass": "630",
+    "name": "Sixiangkou",
+    "year": "1989-01-01T00:00:00",
+    "id": "23619"
+  },
+  {
+    "latitude": "59.73333",
+    "longitude": "10.86667",
+    "mass": "850",
+    "name": "Ski",
+    "year": "1848-01-01T00:00:00",
+    "id": "23621"
+  },
+  {
+    "latitude": "45.68333",
+    "longitude": "15.6",
+    "mass": "1708",
+    "name": "Slavetic",
+    "year": "1868-01-01T00:00:00",
+    "id": "23626"
+  },
+  {
+    "latitude": "55.0",
+    "longitude": "35.0",
+    "mass": "2750",
+    "name": "Slobodka",
+    "year": "1818-01-01T00:00:00",
+    "id": "23645"
+  },
+  {
+    "latitude": "27.13333",
+    "longitude": "84.06667",
+    "mass": "72.900000000000006",
+    "name": "Soheria",
+    "year": "1960-01-01T00:00:00",
+    "id": "23660"
+  },
+  {
+    "latitude": "43.66667",
+    "longitude": "21.86667",
+    "mass": "80000",
+    "name": "Soko-Banja",
+    "year": "1877-01-01T00:00:00",
+    "id": "23661"
+  },
+  {
+    "latitude": "47.36667",
+    "longitude": "1.73333",
+    "mass": "54",
+    "name": "Sologne",
+    "year": "1860-01-01T00:00:00",
+    "id": "23663"
+  },
+  {
+    "latitude": "54.00883",
+    "longitude": "22.005",
+    "mass": "1066",
+    "name": "Sołtmany",
+    "year": "2011-01-01T00:00:00",
+    "id": "53829"
+  },
+  {
+    "latitude": "35.16667",
+    "longitude": "135.33333",
+    "mass": "17100",
+    "name": "Sone",
+    "year": "1866-01-01T00:00:00",
+    "id": "23667"
+  },
+  {
+    "latitude": "45.25",
+    "longitude": "125.0",
+    "mass": "36900",
+    "name": "Songyuan",
+    "year": "1993-01-01T00:00:00",
+    "id": "23668"
+  },
+  {
+    "latitude": "44.41667",
+    "longitude": "23.5",
+    "mass": "958",
+    "name": "Sopot",
+    "year": "1927-01-01T00:00:00",
+    "id": "23670"
+  },
+  {
+    "latitude": "1.7",
+    "longitude": "33.63333",
+    "mass": "2050",
+    "name": "Soroti",
+    "year": "1945-01-01T00:00:00",
+    "id": "23671"
+  },
+  {
+    "latitude": "44.75",
+    "longitude": "0.05",
+    "mass": "360",
+    "name": "St. Caprais-de-Quinsac",
+    "year": "1883-01-01T00:00:00",
+    "id": "23081"
+  },
+  {
+    "latitude": "46.95",
+    "longitude": "-1.5",
+    "mass": "5500",
+    "name": "St. Christophe-la-Chartreuse",
+    "year": "1841-01-01T00:00:00",
+    "id": "23082"
+  },
+  {
+    "latitude": "51.05",
+    "longitude": "3.75",
+    "mass": "700",
+    "name": "St. Denis Westrem",
+    "year": "1855-01-01T00:00:00",
+    "id": "23083"
+  },
+  {
+    "latitude": "48.01667",
+    "longitude": "-1.15",
+    "mass": "4000",
+    "name": "St. Germain-du-Pinel",
+    "year": "1890-01-01T00:00:00",
+    "id": "23087"
+  },
+  {
+    "latitude": "38.7",
+    "longitude": "-90.23333",
+    "mass": "1000",
+    "name": "St. Louis",
+    "year": "1950-01-01T00:00:00",
+    "id": "23089"
+  },
+  {
+    "latitude": "-32.01667",
+    "longitude": "27.41667",
+    "mass": "13780",
+    "name": "St. Mark's",
+    "year": "1903-01-01T00:00:00",
+    "id": "23090"
+  },
+  {
+    "latitude": "38.16667",
+    "longitude": "-76.38333",
+    "mass": "24.3",
+    "name": "St. Mary's County",
+    "year": "1919-01-01T00:00:00",
+    "id": "23091"
+  },
+  {
+    "latitude": "48.45",
+    "longitude": "3.93333",
+    "mass": "8300",
+    "name": "St. Mesmin",
+    "year": "1866-01-01T00:00:00",
+    "id": "23092"
+  },
+  {
+    "latitude": "61.65",
+    "longitude": "27.2",
+    "mass": "17000",
+    "name": "St. Michel",
+    "year": "1910-01-01T00:00:00",
+    "id": "23093"
+  },
+  {
+    "latitude": "43.43333",
+    "longitude": "2.95",
+    "mass": "134.30000000000001",
+    "name": "St.-Chinian",
+    "year": "1959-01-01T00:00:00",
+    "id": "23097"
+  },
+  {
+    "latitude": "59.93333",
+    "longitude": "14.95",
+    "mass": "34000",
+    "name": "Ställdalen",
+    "year": "1876-01-01T00:00:00",
+    "id": "23712"
+  },
+  {
+    "latitude": "49.28333",
+    "longitude": "15.56667",
+    "mass": "52000",
+    "name": "Stannern",
+    "year": "1808-01-01T00:00:00",
+    "id": "23713"
+  },
+  {
+    "latitude": "45.05",
+    "longitude": "41.98333",
+    "mass": "1500",
+    "name": "Stavropol",
+    "year": "1857-01-01T00:00:00",
+    "id": "23717"
+  },
+  {
+    "latitude": "50.76667",
+    "longitude": "3.0",
+    "mass": "4960",
+    "name": "Ste. Marguerite",
+    "year": "1962-01-01T00:00:00",
+    "id": "23099"
+  },
+  {
+    "latitude": "53.66667",
+    "longitude": "55.98333",
+    "mass": "325000",
+    "name": "Sterlitamak",
+    "year": "1990-01-01T00:00:00",
+    "id": "23724"
+  },
+  {
+    "latitude": "52.53333",
+    "longitude": "9.05",
+    "name": "Stolzenau",
+    "year": "1647-01-01T00:00:00",
+    "id": "23726"
+  },
+  {
+    "latitude": "41.2",
+    "longitude": "-73.13333",
+    "mass": "50",
+    "name": "Stratford",
+    "year": "1974-01-01T00:00:00",
+    "id": "23728"
+  },
+  {
+    "latitude": "56.58333",
+    "longitude": "-3.25",
+    "mass": "13400",
+    "name": "Strathmore",
+    "year": "1917-01-01T00:00:00",
+    "id": "23729"
+  },
+  {
+    "latitude": "50.38333",
+    "longitude": "-3.95",
+    "mass": "10400",
+    "name": "Stretchleigh",
+    "year": "1623-01-01T00:00:00",
+    "id": "23732"
+  },
+  {
+    "latitude": "45.96861",
+    "longitude": "-72.97806",
+    "mass": "25400",
+    "name": "St-Robert",
+    "year": "1994-01-01T00:00:00",
+    "id": "23733"
+  },
+  {
+    "latitude": "36.48333",
+    "longitude": "-90.66667",
+    "mass": "3500",
+    "name": "Success",
+    "year": "1924-01-01T00:00:00",
+    "id": "23736"
+  },
+  {
+    "latitude": "50.53806",
+    "longitude": "16.26333",
+    "mass": "815.3",
+    "name": "Suchy Dul",
+    "year": "1969-01-01T00:00:00",
+    "id": "23737"
+  },
+  {
+    "latitude": "31.61667",
+    "longitude": "113.46667",
+    "mass": "260000",
+    "name": "Suizhou",
+    "year": "1986-01-01T00:00:00",
+    "id": "23738"
+  },
+  {
+    "latitude": "12.66667",
+    "longitude": "78.03333",
+    "mass": "110000",
+    "name": "Sulagiri",
+    "year": "2008-01-01T00:00:00",
+    "id": "48951"
+  },
+  {
+    "latitude": "25.93333",
+    "longitude": "84.28333",
+    "mass": "1710.5",
+    "name": "Sultanpur",
+    "year": "1916-01-01T00:00:00",
+    "id": "23741"
+  },
+  {
+    "latitude": "44.86667",
+    "longitude": "133.16667",
+    "mass": "637",
+    "name": "Sungach",
+    "year": "1935-01-01T00:00:00",
+    "id": "23745"
+  },
+  {
+    "latitude": "26.71667",
+    "longitude": "84.21667",
+    "mass": "7235",
+    "name": "Supuhee",
+    "year": "1865-01-01T00:00:00",
+    "id": "23760"
+  },
+  {
+    "latitude": "38.80389",
+    "longitude": "-120.90806",
+    "mass": "992.5",
+    "name": "Sutter's Mill",
+    "year": "2012-01-01T00:00:00",
+    "id": "55529"
+  },
+  {
+    "latitude": "33.18836",
+    "longitude": "-86.2945",
+    "mass": "5560",
+    "name": "Sylacauga",
+    "year": "1954-01-01T00:00:00",
+    "id": "23773"
+  },
+  {
+    "latitude": "49.4",
+    "longitude": "14.65",
+    "mass": "7540",
+    "name": "Tabor",
+    "year": "1753-01-01T00:00:00",
+    "id": "23776"
+  },
+  {
+    "latitude": "36.18333",
+    "longitude": "5.41667",
+    "mass": "9000",
+    "name": "Tadjera",
+    "year": "1867-01-01T00:00:00",
+    "id": "23778"
+  },
+  {
+    "latitude": "59.70444",
+    "longitude": "-134.20139",
+    "mass": "10000",
+    "name": "Tagish Lake",
+    "year": "2000-01-01T00:00:00",
+    "id": "23782"
+  },
+  {
+    "latitude": "34.72",
+    "longitude": "137.305",
+    "mass": "1000",
+    "name": "Tahara",
+    "year": "1991-01-01T00:00:00",
+    "id": "23784"
+  },
+  {
+    "latitude": "35.38333",
+    "longitude": "134.9",
+    "mass": "720",
+    "name": "Takenouchi",
+    "year": "1880-01-01T00:00:00",
+    "id": "23789"
+  },
+  {
+    "latitude": "-7.75",
+    "longitude": "112.76667",
+    "mass": "10500",
+    "name": "Tambakwatu",
+    "year": "1975-01-01T00:00:00",
+    "id": "23795"
+  },
+  {
+    "latitude": "31.16333",
+    "longitude": "-7.015",
+    "mass": "100000",
+    "name": "Tamdakht",
+    "year": "2008-01-01T00:00:00",
+    "id": "48691"
+  },
+  {
+    "latitude": "35.43333",
+    "longitude": "136.23333",
+    "mass": "905",
+    "name": "Tané",
+    "year": "1918-01-01T00:00:00",
+    "id": "23801"
+  },
+  {
+    "latitude": "45.4",
+    "longitude": "122.9",
+    "mass": "3850",
+    "name": "Taonan",
+    "year": "1965-01-01T00:00:00",
+    "id": "23873"
+  },
+  {
+    "latitude": "32.95",
+    "longitude": "10.41667",
+    "mass": "12000",
+    "name": "Tatahouine",
+    "year": "1931-01-01T00:00:00",
+    "id": "23884"
+  },
+  {
+    "latitude": "19.38333",
+    "longitude": "43.73333",
+    "mass": "2500",
+    "name": "Tathlith",
+    "year": "1967-01-01T00:00:00",
+    "id": "23885"
+  },
+  {
+    "latitude": "35.13333",
+    "longitude": "44.45",
+    "mass": "6000",
+    "name": "Tauk",
+    "year": "1929-01-01T00:00:00",
+    "id": "23887"
+  },
+  {
+    "latitude": "46.71667",
+    "longitude": "23.5",
+    "mass": "21000",
+    "name": "Tauti",
+    "year": "1937-01-01T00:00:00",
+    "id": "23888"
+  },
+  {
+    "latitude": "-25.73333",
+    "longitude": "142.95",
+    "mass": "160000",
+    "name": "Tenham",
+    "year": "1879-01-01T00:00:00",
+    "id": "23897"
+  },
+  {
+    "latitude": "58.03333",
+    "longitude": "26.95",
+    "mass": "28500",
+    "name": "Tennasilm",
+    "year": "1872-01-01T00:00:00",
+    "id": "23898"
+  },
+  {
+    "latitude": "33.4",
+    "longitude": "70.6",
+    "mass": "342",
+    "name": "Thal",
+    "year": "1950-01-01T00:00:00",
+    "id": "23908"
+  },
+  {
+    "latitude": "-1.00278",
+    "longitude": "37.15028",
+    "mass": "14200",
+    "name": "Thika",
+    "year": "2011-01-01T00:00:00",
+    "id": "54493"
+  },
+  {
+    "latitude": "-29.33333",
+    "longitude": "27.58333",
+    "mass": "45300",
+    "name": "Thuathe",
+    "year": "2002-01-01T00:00:00",
+    "id": "23976"
+  },
+  {
+    "latitude": "32.94667",
+    "longitude": "118.99",
+    "mass": "2232",
+    "name": "Tianzhang",
+    "year": "1986-01-01T00:00:00",
+    "id": "23984"
+  },
+  {
+    "latitude": "49.6",
+    "longitude": "17.11667",
+    "mass": "28000",
+    "name": "Tieschitz",
+    "year": "1878-01-01T00:00:00",
+    "id": "23989"
+  },
+  {
+    "latitude": "38.2",
+    "longitude": "-89.68333",
+    "mass": "74800",
+    "name": "Tilden",
+    "year": "1927-01-01T00:00:00",
+    "id": "23998"
+  },
+  {
+    "latitude": "14.25",
+    "longitude": "1.53333",
+    "mass": "3000",
+    "name": "Tillaberi",
+    "year": "1970-01-01T00:00:00",
+    "id": "23999"
+  },
+  {
+    "latitude": "54.5",
+    "longitude": "35.2",
+    "mass": "65500",
+    "name": "Timochin",
+    "year": "1807-01-01T00:00:00",
+    "id": "24004"
+  },
+  {
+    "latitude": "13.63333",
+    "longitude": "79.41667",
+    "mass": "230",
+    "name": "Tirupati",
+    "year": "1934-01-01T00:00:00",
+    "id": "24009"
+  },
+  {
+    "latitude": "29.48195",
+    "longitude": "-7.61123",
+    "mass": "7000",
+    "name": "Tissint",
+    "year": "2011-01-01T00:00:00",
+    "id": "54823"
+  },
+  {
+    "latitude": "-7.08333",
+    "longitude": "111.53333",
+    "mass": "20000",
+    "name": "Tjabe",
+    "year": "1869-01-01T00:00:00",
+    "id": "24011"
+  },
+  {
+    "latitude": "-6.66667",
+    "longitude": "106.58333",
+    "mass": "16500",
+    "name": "Tjerebon",
+    "year": "1922-01-01T00:00:00",
+    "id": "24012"
+  },
+  {
+    "latitude": "47.85",
+    "longitude": "34.76667",
+    "mass": "600",
+    "name": "Tomakovka",
+    "year": "1905-01-01T00:00:00",
+    "id": "24019"
+  },
+  {
+    "latitude": "20.16667",
+    "longitude": "-105.21667",
+    "mass": "900",
+    "name": "Tomatlan",
+    "year": "1879-01-01T00:00:00",
+    "id": "24020"
+  },
+  {
+    "latitude": "34.5",
+    "longitude": "133.75",
+    "mass": "600",
+    "name": "Tomita",
+    "year": "1916-01-01T00:00:00",
+    "id": "24023"
+  },
+  {
+    "latitude": "38.36667",
+    "longitude": "140.86556",
+    "mass": "27.5",
+    "name": "Tomiya",
+    "year": "1984-01-01T00:00:00",
+    "id": "24024"
+  },
+  {
+    "latitude": "24.65",
+    "longitude": "76.86667",
+    "mass": "7.7",
+    "name": "Tonk",
+    "year": "1911-01-01T00:00:00",
+    "id": "24026"
+  },
+  {
+    "latitude": "45.06667",
+    "longitude": "7.66667",
+    "mass": "977",
+    "name": "Torino",
+    "year": "1988-01-01T00:00:00",
+    "id": "24029"
+  }
+]
