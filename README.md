@@ -1,6 +1,6 @@
 # MeteoriteMap (Deck.gl + Google Maps)
 
-Build amazing data visualizations with Deck.gl and Google Maps JS.
+Data visualizations with Deck.gl and Google Maps JS.
 
 ## Run it
 
