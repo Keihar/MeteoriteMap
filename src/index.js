@@ -1,5 +1,3 @@
-
-
 import { GoogleMapsOverlay } from '@deck.gl/google-maps';
 import { ScatterplotLayer } from '@deck.gl/layers';
 import mapStyles from './map-styles';

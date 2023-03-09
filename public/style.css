@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    cursor: 'help';
+}
+
+#map {
+    width: 100vw;
+    height: 100vh;
+}
+
+#tooltip {
+    position: absolute;
+    background: #101424;
+    color: #8ec3b9;
+    border: 1px solid #2c6574;
+    margin: 0px;
+    opacity: 0.9;
+    padding-left: 10px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+h3 {
+    text-align: center;
+}
