@@ -1,6 +1,6 @@
 # ImpactAtlas (Deck.gl + Google Maps)
 
-Data visualizations with Deck.gl and Google Maps JS.
+utilizes the power of Deck.gl, a WebGL-powered framework for data visualization, and Google Maps to create an interactive map that displays meteorite data. With this tool, users can explore and analyze information on the location, size, and mass of meteorites that have impacted various regions of the globe.
 
 ## Run it
 
