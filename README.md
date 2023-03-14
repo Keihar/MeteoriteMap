@@ -1,4 +1,4 @@
-# MeteoriteMap (Deck.gl + Google Maps)
+# ImpactAtlas (Deck.gl + Google Maps)
 
 Data visualizations with Deck.gl and Google Maps JS.
 
